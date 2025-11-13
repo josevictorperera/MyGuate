@@ -1,0 +1,52 @@
+# ---------------------------------------------------------------
+# 1. Site Settings
+#    Update these fields with your specific site information
+# ---------------------------------------------------------------
+title: Tienda en Internet
+email: myguate@myguate.com
+description: >- # This description is used for SEO and RSS feeds
+  La tienda en Internet de Guatemala. Mejorando la vida de los chapines. Productos se pueden comprar con pago contra entrega.
+baseurl: "" # The subpath of your site, e.g. /blog. Set to "" for a site at the root.
+url: "http://127.0.0.1:4000" # The base hostname & protocol for your site
+repository: "" # e.g., username/repo_name (used for GitHub Pages)
+timezone: America/Guatemala # Set the correct timezone
+
+# ---------------------------------------------------------------
+# 2. Build Settings (Required for Performance and Compatibility)
+# ---------------------------------------------------------------
+
+# Markdown Processor (kramdown is the Jekyll default and most stable)
+markdown: kramdown
+
+# Markdown Extensions
+kramdown:
+  input: GFM # GitHub Flavored Markdown
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+# Exclude/Include files when building the site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - README.md
+
+# Permalinks
+permalink: pretty # Makes URLs clean: /year/month/day/title/
+
+# ---------------------------------------------------------------
+# 3. Collection Configuration (Your Product Setup)
+# ---------------------------------------------------------------
+
+# Define the custom 'products' collection
+collections:
+  products:
+    output: true                # Generates individual HTML files (required for permalink)
+    permalink: /products/:path/ # Defines the URL structure
+
+# ---------------------------------------------------------------
+# 4. Custom Variables (Your Snipcart Key)
+# ---------------------------------------------------------------
+snipcart_api_key: "MjU3MzA4NjMtODE5OC00MGQ1LWIyYjMtMmJkZDFjY2I5NmZkNjM4OTg0MDk4NTkzODQ1MTI5" # Paste your actual Snipcart API Key here

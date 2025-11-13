@@ -1,0 +1,96 @@
+---
+layout: default
+---
+
+
+{% comment %} ALTERNATIVE Liquid Block for HTML rendering issue {% endcomment %}
+{% assign full_content = content %}
+{% assign detailed_split = full_content | split: '<h2 id="descripción-detallada">Descripción Detallada</h2>' %}
+{% assign short_and_content_html = detailed_split[0] | strip %}
+{% assign detailed_content = detailed_split[1] | strip %}
+{% assign short_content_split = short_and_content_html | split: '<h2 id="descripción-corta">Descripción Corta</h2>' %}
+{% assign short_content = short_content_split[1] | strip %}
+
+<div id="product-{{ page.sku }}" class="product-page-layout">
+    
+    <div class="product-gallery-area">
+        <div class="woocommerce-product-gallery images">
+            <a href="#" role="button" class="woocommerce-product-gallery__trigger" aria-haspopup="dialog" aria-controls="photoswipe-fullscreen-dialog" aria-label="Ver galería de imágenes a pantalla completa"><span aria-hidden="true">🔍</span></a>
+            <div class="woocommerce-product-gallery__wrapper">
+                <div class="woocommerce-product-gallery__image">
+                    <img 
+                        src="{{ page.image | relative_url }}" 
+                        alt="{{ page.alt_text }}"
+                        class="wp-post-image"
+                        width="400" 
+                        height="400"
+                        decoding="async"
+                    >
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="product-summary entry-summary">
+        
+        <h1 class="product_title entry-title">{{ page.title }}</h1>
+        <p class="price">
+            <span class="woocommerce-Price-amount amount">
+                <bdi><span class="woocommerce-Price-currencySymbol">Q</span>{{ page.price | append: '.00' }}</bdi>
+            </span>
+        </p>
+
+        <div class="woocommerce-product-details__short-description">
+            {{ short_content }} 
+        </div>
+
+        <form class="cart" action="#" method="post" enctype="multipart/form-data">
+            <div class="quantity">
+                <label class="screen-reader-text" for="quantity_input">{{ page.title }} cantidad</label>
+                <input type="number" id="quantity_input" class="input-text qty text" name="quantity" value="1" min="1" step="1" inputmode="numeric" autocomplete="off">
+            </div>
+            <button class="snipcart-add-item single_add_to_cart_button button alt" 
+                data-item-id="{{ page.sku }}" 
+                data-item-price="{{ page.price }}" 
+                data-item-url="{{ page.url | absolute_url }}" 
+                data-item-name="{{ page.title }}">
+                Añadir al carrito
+            </button>
+        </form>
+
+        <div class="product_meta">
+            <span class="sku_wrapper">SKU: <span class="sku">{{ page.sku }}</span></span>
+            
+            {% comment %} Category splitting logic {% endcomment %}
+            {% assign categories = page.category | split: ',' %}
+            <span class="posted_in">Categorías: 
+                {% for cat in categories %}
+                    <a href="/categories/{{ cat | slugify }}" rel="tag">{{ cat | strip }}</a>{% if forloop.last == false %}, {% endif %}
+                {% endfor %}
+            </span>
+            <div class="edit-link"><a class="post-edit-link" href="#">Editar <span class="screen-reader-text">{{ page.title }}</span></a></div>
+        </div>
+    </div>
+    
+    <div class="clear"></div>
+
+    <div class="woocommerce-tabs wc-tabs-wrapper">
+        <ul class="tabs wc-tabs" role="tablist">
+            <li role="presentation" class="description_tab active" id="tab-title-description">
+                <a href="#tab-description" role="tab" aria-controls="tab-description" aria-selected="true" tabindex="0">Descripción</a>
+            </li>
+            <li role="presentation" class="reviews_tab" id="tab-title-reviews">
+                <a href="#tab-reviews" role="tab" aria-controls="tab-reviews" aria-selected="false" tabindex="-1">Valoraciones (0)</a>
+            </li>
+        </ul>
+        
+        <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+            <h2>Descripción</h2>
+            {{ detailed_content }} 
+        </div>
+
+        <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab" id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews" style="display: none;">
+            </div>
+    </div>
+
+</div>

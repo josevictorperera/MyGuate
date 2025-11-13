@@ -1,0 +1,19 @@
+---
+layout: product
+permalink: /products/fular-para-bebe-o-cargador-ergonomico-marca-baby-luna-negro/
+title: "FULAR PARA BEBE O CARGADOR ERGONOMICO MARCA BABY LUNA NEGRO"
+price: 170
+sku: "505"
+image: "/assets/images/products/FULAR-PARA-BEBE-O-CARGADOR-ERGONOMICO-MARCA-BABY-LUNA-NEGRO.webp" # <-- SIMPLE DIRECT PATH
+alt_text: "FULAR PARA BEBE O CARGADOR ERGONOMICO MARCA BABY LUNA NEGRO product image"
+category: "bebé"
+---
+
+## Descripción Corta
+
+FULAR PARA BEBE O CARGADOR ERGONOMICO MARCA BABY LUNA NEGRO
+
+## Descripción Detallada
+
+FULAR PARA BEBE O CARGADOR ERGONOMICO MARCA BABY LUNA NEGRO
+

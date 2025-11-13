@@ -1,0 +1,56 @@
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('product-search');
+    const filterButtons = document.querySelectorAll('.filter-button');
+    const productItems = document.querySelectorAll('.filterable-item');
+
+    let currentFilter = 'all';
+    let currentSearchTerm = '';
+
+    // --- Core Filtering/Searching Function ---
+    function applyFilters() {
+        currentSearchTerm = searchInput.value.toLowerCase();
+
+        productItems.forEach(item => {
+            // Ensure the item has the necessary child element for the title
+            const productContent = item.querySelector('.product-content');
+            if (!productContent) return; // Skip if structure is incomplete
+            
+            const itemTitle = productContent.dataset.title;
+            const itemCategories = item.dataset.category.split(' ');
+            
+            // 1. Check Category Match
+            const categoryMatch = currentFilter === 'all' || itemCategories.includes(currentFilter);
+            
+            // 2. Check Search Match
+            // Note: Includes checks if the search term is anywhere in the product title
+            const searchMatch = itemTitle.includes(currentSearchTerm);
+
+            // Show or Hide
+            if (categoryMatch && searchMatch) {
+                item.style.display = ''; // Use empty string to reset to default (block/flex/grid)
+            } else {
+                item.style.display = 'none';
+            }
+        });
+    }
+
+    // --- Event Listeners for Buttons ---
+    filterButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            // Update active button state
+            filterButtons.forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+
+            // Update filter and re-run filter
+            currentFilter = this.dataset.filter;
+            applyFilters();
+        });
+    });
+
+    // --- Event Listener for Search Input ---
+    // The keyup event triggers the search as the user types
+    searchInput.addEventListener('keyup', applyFilters);
+
+    // Initial load to set up display
+    applyFilters();
+});

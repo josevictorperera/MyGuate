@@ -1,0 +1,10 @@
+<button
+    class="snipcart-add-item btn btn-primary"
+    data-item-id="{{ page.sku }}"
+    data-item-price="{{ page.price }}"
+    data-item-url="{{ page.url | absolute_url }}"
+    data-item-description="{{ page.alt_text | default: page.title }}"
+    data-item-image="{{ site.url }}{{ page.image | relative_url }}" data-item-name="{{ page.title }}"
+>
+    Comprar (Q{{ page.price }})
+</button>

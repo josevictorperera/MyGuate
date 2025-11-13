@@ -1,0 +1,52 @@
+---
+layout: product
+permalink: /products/cargador-de-bebe/
+title: "CARGADOR DE BEBE"
+price: 495
+sku: "511"
+image: "/assets/images/products/CARGADOR-DE-BEBE.webp" # <-- SIMPLE DIRECT PATH
+alt_text: "CARGADOR DE BEBE product image"
+category: "bebé"
+---
+
+## Descripción Corta
+
+Cargador ergonómico multifuncional.
+Diseño ergonómico que protege la columna del bebé y cuida la postura de los padres.
+
+Múltiples posiciones de uso: frontal mirando hacia ti frontal mirando hacia adelante en la espalda o lateral.
+
+Asiento con soporte que distribuye el peso y evita presión en la cadera del bebé.
+
+Correas acolchadas y ajustables para mayor comodidad.
+
+Bolsillo lateral para guardar objetos pequeños (biberón celular pañuelos etc.).
+
+Material transpirable y suave ideal para uso prolongado.
+
+Edad recomendada: desde recién nacidos hasta 3 años aprox. (máx. 20 kg).
+
+## Descripción Detallada
+
+Haz que llevar a tu bebé sea más cómodo y seguro con este cargador ergonómico multifuncional. Diseñado con materiales de alta calidad y un soporte resistente permite diferentes posiciones de carga para adaptarse a cada etapa de crecimiento de tu pequeño. Ideal para paseos viajes o uso diario manteniendo siempre a tu bebé cerca de ti.
+
+✅ Características principales:
+
+Diseño ergonómico que protege la columna del bebé y cuida la postura de los padres.
+
+Múltiples posiciones de uso: frontal mirando hacia ti frontal mirando hacia adelante en la espalda o lateral.
+
+Asiento con soporte que distribuye el peso y evita presión en la cadera del bebé.
+
+Correas acolchadas y ajustables para mayor comodidad.
+
+Bolsillo lateral para guardar objetos pequeños (biberón celular pañuelos etc.).
+
+Material transpirable y suave ideal para uso prolongado.
+
+Edad recomendada: desde recién nacidos hasta 3 años aprox. (máx. 20 kg).
+
+🎯 Beneficios:
+
+Reduce la carga en la espalda y hombros del padre o madre.
+

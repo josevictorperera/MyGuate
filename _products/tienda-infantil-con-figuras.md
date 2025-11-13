@@ -1,0 +1,25 @@
+---
+layout: product
+permalink: /products/tienda-infantil-con-figuras/
+title: "TIENDA INFANTIL CON FIGURAS"
+price: 99
+sku: "129"
+image: "/assets/images/products/TIENDA-INFANTIL-CON-FIGURAS.webp" # <-- SIMPLE DIRECT PATH
+alt_text: "TIENDA INFANTIL CON FIGURAS product image"
+category: "bebé Hogar"
+---
+
+## Descripción Corta
+
+- 🎪 Tienda plegable con diseño de tigre.
+
+## Descripción Detallada
+
+🐯 *Tienda Infantil de Pelotas - Diversión Garantizada!* 🐯
+
+- 🎪 Tienda plegable con diseño de tigre.
+
+- 🏠 Perfecta para interiores y exteriores.
+
+- 🎉 ¡Oferta limitada ¡compra ahora!
+

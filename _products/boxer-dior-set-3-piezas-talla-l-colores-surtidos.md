@@ -1,0 +1,19 @@
+---
+layout: product
+permalink: /products/boxer-dior-set-3-piezas-talla-l-colores-surtidos/
+title: "BOXER DIOR SET 3 PIEZAS TALLA L COLORES SURTIDOS"
+price: 130
+sku: "472"
+image: "/assets/images/products/BOXER-DIOR-SET-3-PIEZAS-TALLA-L-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
+alt_text: "BOXER DIOR SET 3 PIEZAS TALLA L COLORES SURTIDOS product image"
+category: "Moda"
+---
+
+## Descripción Corta
+
+BOXER DIOR SET DE 3 PIEZAS TALLA L CAJITA TRANSPARENTE SURTIDO EN COLORES MUSGOKAKIBLANCONEGRO LILA
+
+## Descripción Detallada
+
+BOXER DIOR SET DE 3 PIEZAS TALLA L CAJITA TRANSPARENTE SURTIDO EN COLORES MUSGOKAKIBLANCONEGRO LILA
+

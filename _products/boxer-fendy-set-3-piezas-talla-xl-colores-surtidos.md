@@ -1,0 +1,19 @@
+---
+layout: product
+permalink: /products/boxer-fendy-set-3-piezas-talla-xl-colores-surtidos/
+title: "BOXER FENDY SET 3 PIEZAS TALLA XL COLORES SURTIDOS"
+price: 130
+sku: "462"
+image: "/assets/images/products/BOXER-FENDY-SET-3-PIEZAS-TALLA-XL-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
+alt_text: "BOXER FENDY SET 3 PIEZAS TALLA XL COLORES SURTIDOS product image"
+category: "Moda"
+---
+
+## Descripción Corta
+
+BOXER FENDY SET DE 3 PIEZAS TALLA XL CAJITA TRANSPARENTE SURTIDO EN COLORES VERDE NERGO GRIS TURQUESA  CAFE VERDE MUSGO
+
+## Descripción Detallada
+
+BOXER FENDY SET DE 3 PIEZAS TALLA XL CAJITA TRANSPARENTE SURTIDO EN COLORES VERDE NERGO GRIS TURQUESA  CAFE VERDE MUSGO
+

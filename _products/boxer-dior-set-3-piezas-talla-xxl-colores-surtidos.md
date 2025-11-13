@@ -1,0 +1,19 @@
+---
+layout: product
+permalink: /products/boxer-dior-set-3-piezas-talla-xxl-colores-surtidos/
+title: "BOXER DIOR SET 3 PIEZAS TALLA XXL COLORES SURTIDOS"
+price: 130
+sku: "469"
+image: "/assets/images/products/BOXER-DIOR-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
+alt_text: "BOXER DIOR SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image"
+category: "Moda"
+---
+
+## Descripción Corta
+
+BOXER DIOR SET DE 3 PIEZAS TALLA XXL CAJITA TRANSPARENTE SURTIDO EN COLORES CAFE NEGROBLANCOLILA BEIGE GRIS
+
+## Descripción Detallada
+
+BOXER DIOR SET DE 3 PIEZAS TALLA XXL CAJITA TRANSPARENTE SURTIDO EN COLORES CAFE NEGROBLANCOLILA BEIGE GRIS
+

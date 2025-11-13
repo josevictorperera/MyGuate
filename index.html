@@ -1,0 +1,130 @@
+---
+layout: default
+title: MyGuate.Com
+---
+
+<!-- CAROUSEL START-->
+<section class="reviews-section section-padding pb-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-12">
+                <div class="owl-carousel reviews-carousel">
+
+                {% assign carousel_products = site.products | sort: 'title' %}
+                {% for product in carousel_products limit: 12 %} 
+                
+                    <div class="reviews-thumb">
+                        <div class="reviews-body">
+                            
+                            <article class="card h-100 shadow-sm">
+                                
+                                <a href="{{ product.url | relative_url }}" class="text-decoration-none text-dark">
+                                    <img 
+                                        src="{{ product.image | relative_url }}" 
+                                        alt="{{ product.alt_text | default: product.title }}"
+                                        class="card-img-top" 
+                                        style="height: 100px; object-fit: cover;"
+                                    >
+                                    <div class="card-body d-flex flex-column">
+                                        <h5 class="card-title">{{ product.title }}</h5>
+                                    </div>
+                                </a>
+                                
+                                <div class="card-footer d-flex justify-content-between align-items-center">
+                                    <span class="fs-4 fw-bold text-success">Q{{ product.price }}</span>
+                                    <a href="{{ product.url | relative_url }}" class="detalles btn btn-primary btn-sm">
+                                        Detalles
+                                    </a>
+                                    <button
+                                        class="snipcart-add-item button alt btn-warning"
+                                        data-item-id="{{ product.sku }}"
+                                        data-item-price="{{ product.price }}"
+                                        data-item-url="{{ product.url | absolute_url }}"
+                                        data-item-image="{{ site.url }}{{ product.image | relative_url }}" 
+                                        data-item-name="{{ product.title }}"
+                                    >
+                                        Comprar
+                                    </button>                   
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                {% endfor %}
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--CAROUSEL END-->
+    <div class="container my-5"> 
+        
+    <div class="product-filters">
+        <input type="text" id="product-search" placeholder="🔍 Buscar productos..." class="search-input">
+<!-- {% comment %}
+        <div class="category-buttons">
+            <button data-filter="all" class="filter-button active">Todas las Categorías</button>
+            {% assign categories = site.products | map: 'category' | join: ',' | split: ',' | uniq | sort %}
+            {% for cat in categories %}
+                <button data-filter="{{ cat | slugify }}" class="filter-button">{{ cat | strip }}</button>
+            {% endfor %}
+        </div>
+    </div> {% endcomment %} -->
+
+    <section class="product-listing mt-5">
+        <h2 class="mb-4">Catálogo de Productos</h2>
+        
+        {% assign sorted_products = site.products | sort: 'title' %}
+        
+        <div class="row row-cols-1 row-cols-md-3 g-4 product-container"> 
+    
+    {% for product in sorted_products %}
+        {% assign product_cats = product.category | split: ',' | map: 'strip' | map: 'slugify' | join: ' ' %}
+<div class="col product-item filterable-item {{ product_cats }}" 
+     data-category="{{ product_cats }}" 
+     style="display: none;">
+    
+    <article class="card h-100 shadow-sm">
+        
+        <a href="{{ product.url | relative_url }}" class="text-decoration-none text-dark">
+            
+            <img 
+                src="{{ product.image | relative_url }}" 
+                alt="{{ product.alt_text | default: product.title }}"
+                class="card-img-top" 
+                style="height: 250px; object-fit: cover;"
+            >
+            
+            <div class="card-body d-flex flex-column">
+                <h5 class="card-title">{{ product.title }}</h5>
+            </div>
+        </a>
+        
+        <div class="card-footer d-flex justify-content-between align-items-center">
+            
+            <span class="fs-4 fw-bold text-success">Q{{ product.price }}</span>
+            
+            <a href="{{ product.url | relative_url }}" class="detalles btn btn-primary btn-sm">
+                Detalles
+            </a>
+            
+            <button
+                class="snipcart-add-item button alt btn-warning"
+                data-item-id="{{ product.sku }}"
+                data-item-price="{{ product.price }}"
+                data-item-url="{{ product.url | absolute_url }}"
+                data-item-image="{{ site.url }}{{ product.image | relative_url }}" 
+                data-item-name="{{ product.title }}"
+            >
+                Comprar
+            </button>                   
+        </div>
+    </article>
+    
+    <div class="product-content" data-title="{{ product.title | downcase }}"></div>
+</div>
+    {% endfor %}
+    
+</div>
+    </section>
+</div>

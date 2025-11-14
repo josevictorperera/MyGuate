@@ -14,6 +14,9 @@ timezone: America/Guatemala # Set the correct timezone
 # ---------------------------------------------------------------
 # 2. Build Settings (Required for Performance and Compatibility)
 # ---------------------------------------------------------------
+# Add or update these lines in your _config.yml
+encoding: utf-8
+markdown_ext: 'markdown,mkdown,mkdn,mkd,md'
 
 # Markdown Processor (kramdown is the Jekyll default and most stable)
 markdown: kramdown

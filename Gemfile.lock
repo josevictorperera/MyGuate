@@ -80,7 +80,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bigdecimal
+  bigdecimal (~> 3.1)
   ffi (~> 1.17)
   jekyll (~> 4.4)
   jekyll-feed

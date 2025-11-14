@@ -11,7 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "bigdecimal", "~> 3.1"
 end
-
+gem 'i18n', '>= 1.0.0'
 # Avoid platform-specific issues (Mac gems, google-protobuf, etc.)
 gem "ffi", "~> 1.17"
 

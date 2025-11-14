@@ -82,6 +82,7 @@ PLATFORMS
 DEPENDENCIES
   bigdecimal (~> 3.1)
   ffi (~> 1.17)
+  i18n (>= 1.0.0)
   jekyll (~> 4.4)
   jekyll-feed
   jekyll-paginate

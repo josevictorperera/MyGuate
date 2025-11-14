@@ -11,11 +11,11 @@ category: "Belleza"
 
 ## Descripción Corta
 
-El Retinol es un tratamiento facial avanzado formulado con vitamina A ideal para reducir arrugas mejorar la textura controlar el acné y unificar el tono de la piel. Su fórmula ligera de rápida absorción penetra profundamente para estimular la renovación celular promover la producción de colágeno y aportar luminosidad visible.
+El Retinol es un tratamiento facial avanzado formulado con vitamina A ideal para reducir arrugas mejorar la textura controlar el acné y unificar el tono de la piel. Su fórmula ligera de rápida absorción penetra profundamente para estimular la renovación celular promover la producción de colageno y aportar luminosidad visible.
 
 ## Descripción Detallada
 
-El Retinol es un tratamiento facial avanzado formulado con vitamina A ideal para reducir arrugas mejorar la textura controlar el acné y unificar el tono de la piel. Su fórmula ligera de rápida absorción penetra profundamente para estimular la renovación celular promover la producción de colágeno y aportar luminosidad visible.
+El Retinol es un tratamiento facial avanzado formulado con vitamina A ideal para reducir arrugas mejorar la textura controlar el acné y unificar el tono de la piel. Su fórmula ligera de rápida absorción penetra profundamente para estimular la renovación celular promover la producción de colageno y aportar luminosidad visible.
 
 Beneficios principales:
 ✔ Reduce líneas finas y arrugas.

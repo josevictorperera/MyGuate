@@ -17,13 +17,13 @@ Dispensador de Jabón con Esponja
 
 **Dispensador de Jabón con Esponja** 🧼✨
 
-Este práctico **dispensador de jabón líquido** con compartimento para esponja es el accesorio perfecto para tu cocina o área de limpieza. Diseñado para facilitar el lavado de platos y utensilios permite **dosificar el jabón con una sola presión** ahorrando tiempo y reduciendo el desperdicio de detergente.
+Este práctico **dispensador de jabon líquido** con compartimento para esponja es el accesorio perfecto para tu cocina o área de limpieza. Diseñado para facilitar el lavado de platos y utensilios permite **dosificar el jabon con una sola presión** ahorrando tiempo y reduciendo el desperdicio de detergente.
 
 ### **Características principales:**
 
 ✅ **Diseño compacto y funcional**
 
-✅ **Fácil de usar**: solo presiona la esponja sobre la parte superior para dispensar jabón
+✅ **Fácil de usar**: solo presiona la esponja sobre la parte superior para dispensar jabon
 
 ✅ **Capacidad generosa** para almacenar suficiente detergente
 

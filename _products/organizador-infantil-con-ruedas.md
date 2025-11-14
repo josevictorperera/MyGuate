@@ -20,7 +20,7 @@ category: "bebé Hogar"
 
 - 🎠 *Móvil*: Ruedas para moverlo fácilmente por la habitación.
 
-- 😊 *Diseño Divertido*: Estilo adorable que encantará a los niños.
+- 😊 *Diseño Divertido*: Estilo adorable que encantará a los ninios.
 
 ¡Ordena con estilo! 🧸
 

@@ -11,9 +11,9 @@ category: "Hogar"
 
 ## Descripción Corta
 
-Este colador es plegable lo que te permite ahorrar espacio de almacenamiento. Fabricado con silicona de grado alimenticio y plástico es flexible liviano y resiste altas temperaturas garantizando durabilidad y seguridad en su uso. Su fácil limpieza lo convierte en un accesorio práctico y eficiente.
+Este colador es plegable lo que te permite ahorrar espacio de almacenamiento. Fabricado con silicona de grado alimenticio y plastico es flexible liviano y resiste altas temperaturas garantizando durabilidad y seguridad en su uso. Su fácil limpieza lo convierte en un accesorio práctico y eficiente.
 
 ## Descripción Detallada
 
-Este colador es plegable lo que te permite ahorrar espacio de almacenamiento. Fabricado con silicona de grado alimenticio y plástico es flexible liviano y resiste altas temperaturas garantizando durabilidad y seguridad en su uso. Su fácil limpieza lo convierte en un accesorio práctico y eficiente.
+Este colador es plegable lo que te permite ahorrar espacio de almacenamiento. Fabricado con silicona de grado alimenticio y plastico es flexible liviano y resiste altas temperaturas garantizando durabilidad y seguridad en su uso. Su fácil limpieza lo convierte en un accesorio práctico y eficiente.
 

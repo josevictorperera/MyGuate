@@ -11,14 +11,14 @@ category: "bebé"
 
 ## Descripción Corta
 
-'- *Producto:* Candados de seguridad para niños. 🔒  
+'- *Producto:* Candados de seguridad para ninios. 🔒  
 - *Características:* Fáciles de usar y resistentes. ✅  
 - *Colores:* Rosa y azul. 🌈
 
 ## Descripción Detallada
 
 ¡Protege a tu hogar con estilo! 🏠  
-- *Producto:* Candados de seguridad para niños. 🔒  
+- *Producto:* Candados de seguridad para ninios. 🔒  
 - *Características:* Fáciles de usar y resistentes. ✅  
 - *Colores:* Rosa y azul. 🌈  
 ¡Compra ahora! 🛒

@@ -31,7 +31,7 @@ Incluye 4 cajones espaciosos con diseño ventilado para mantener el contenido fr
 
 
 
-Estructura resistente de plástico de alta calidad.
+Estructura resistente de plastico de alta calidad.
 
 
 

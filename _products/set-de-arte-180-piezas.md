@@ -21,7 +21,7 @@ category: "Librería"
 
 🌈 Incluye 40 pasteles 36 marcadores 20 lápices de colores pinceles y más.
 
-💼 Estuche portátil y elegante para artistas de todas las edades. ✨
+💼 Estuche portatil y elegante para artistas de todas las edades. ✨
 
 ¡Crea obras maestras con esta oferta increíble! 🖼️
 

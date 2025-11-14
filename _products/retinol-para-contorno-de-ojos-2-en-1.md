@@ -11,11 +11,11 @@ category: "Belleza"
 
 ## Descripción Corta
 
-La crema contorno de ojos ofrece un enfoque completo para revitalizar la delicada piel alrededor de los ojos mediante una fórmula innovadora con retinol (25 % en barra o combinado con vitamina C y colágeno según la presentación) y otros ingredientes altamente nutritivos.
+La crema contorno de ojos ofrece un enfoque completo para revitalizar la delicada piel alrededor de los ojos mediante una fórmula innovadora con retinol (25 % en barra o combinado con vitamina C y colageno según la presentación) y otros ingredientes altamente nutritivos.
 
 ## Descripción Detallada
 
-Descripción:La crema contorno de ojos ofrece un enfoque completo para revitalizar la delicada piel alrededor de los ojos mediante una fórmula innovadora con retinol (25 % en barra o combinado con vitamina C y colágeno según la presentación) y otros ingredientes altamente nutritivos.
+Descripción:La crema contorno de ojos ofrece un enfoque completo para revitalizar la delicada piel alrededor de los ojos mediante una fórmula innovadora con retinol (25 % en barra o combinado con vitamina C y colageno según la presentación) y otros ingredientes altamente nutritivos.
 Suaviza arrugas patas de gallo y líneas finas.
 Resultados:
 Reduce ojeras bolsas e inflamación.

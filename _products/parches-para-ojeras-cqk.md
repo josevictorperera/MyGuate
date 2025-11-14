@@ -11,13 +11,13 @@ category: "Belleza"
 
 ## Descripción Corta
 
-Parches para ojeras con colágeno CQK
+Parches para ojeras con colageno CQK
 
-Parches para ojeras con colágeno de CQK que ayudan a reducir la apariencia de las ojeras y las bolsas bajo los ojos. Su fórmula nutritiva y refrescante revitaliza la piel delicada de la zona ocular dejándola más firme y luminosa.
+Parches para ojeras con colageno de CQK que ayudan a reducir la apariencia de las ojeras y las bolsas bajo los ojos. Su fórmula nutritiva y refrescante revitaliza la piel delicada de la zona ocular dejándola más firme y luminosa.
 
 ## Descripción Detallada
 
-Parches para ojeras con colágeno CQK
+Parches para ojeras con colageno CQK
 
-Parches para ojeras con colágeno de CQK que ayudan a reducir la apariencia de las ojeras y las bolsas bajo los ojos. Su fórmula nutritiva y refrescante revitaliza la piel delicada de la zona ocular dejándola más firme y luminosa.
+Parches para ojeras con colageno de CQK que ayudan a reducir la apariencia de las ojeras y las bolsas bajo los ojos. Su fórmula nutritiva y refrescante revitaliza la piel delicada de la zona ocular dejándola más firme y luminosa.
 

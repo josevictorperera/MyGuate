@@ -11,11 +11,11 @@ category: "Belleza"
 
 ## Descripción Corta
 
-Iluminante y unifica el tono de piel: la vitamina C (ácido ascórbico o sus derivados) inhibe la tirosinasa ayudando a reducir manchas oscuras marcas y cicatrices y a lograr una piel más luminosa y homogénea
+Iluminante y unifica el tono de piel: la vitamina C (acido ascórbico o sus derivados) inhibe la tirosinasa ayudando a reducir manchas oscuras marcas y cicatrices y a lograr una piel más luminosa y homogénea
 
 ## Descripción Detallada
 
-Descripción:Iluminante y unifica el tono de piel: la vitamina C (ácido ascórbico o sus derivados) inhibe la tirosinasa ayudando a reducir manchas oscuras marcas y cicatrices y a lograr una piel más luminosa y homogénea
+Descripción:Iluminante y unifica el tono de piel: la vitamina C (acido ascórbico o sus derivados) inhibe la tirosinasa ayudando a reducir manchas oscuras marcas y cicatrices y a lograr una piel más luminosa y homogénea
 Poder antioxidante: protege la piel de daños causados por radicales libres polución y rayos UV frenando el envejecimiento prematuro .
-Estimula la producción de colágeno: fortalece la firmeza elasticidad y suavidad de la piel reduciendo líneas finas
+Estimula la producción de colageno: fortalece la firmeza elasticidad y suavidad de la piel reduciendo líneas finas
 

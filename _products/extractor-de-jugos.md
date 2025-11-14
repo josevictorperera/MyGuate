@@ -23,5 +23,5 @@ Características:
 ✅ Recargable.
 ✅ Fácil de Usar y Limpiar.
 
-El exprimidor eléctrico de jugos portátil es un producto innovador que ofrece varias ventajas en comparación con otros electrodomésticos de cocina similares. Este diseño inalámbrico y portátil lo hace ideal para llevar a cualquier lugar. Ya no tienes que preocuparte por quedarte sin energía ya que el exprimidor eléctrico utiliza tecnología USB para cargar.
+El exprimidor eléctrico de jugos portatil es un producto innovador que ofrece varias ventajas en comparación con otros electrodomésticos de cocina similares. Este diseño inalámbrico y portatil lo hace ideal para llevar a cualquier lugar. Ya no tienes que preocuparte por quedarte sin energía ya que el exprimidor eléctrico utiliza tecnología USB para cargar.
 

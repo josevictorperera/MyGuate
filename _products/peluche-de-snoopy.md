@@ -21,7 +21,7 @@ category: "bebé Hogar"
 
 - *Diseño Adorable:* Inspirado en Snoopy perfecto para decorar o regalar. 🌟
 
-- *Suavidad Garantizada:* Material suave y hipoalergénico para niños. 🧸
+- *Suavidad Garantizada:* Material suave y hipoalergénico para ninios. 🧸
 
 - *Tamaño Ideal:* 25 cm ideal para cualquier espacio. 🎁
 

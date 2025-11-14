@@ -11,13 +11,13 @@ category: "bebé Hogar"
 
 ## Descripción Corta
 
-Silla de Potty con diseño de conejito ideal para niños pequeños. 🐰
+Silla de Potty con diseño de conejito ideal para ninios pequeños. 🐰
 
 ## Descripción Detallada
 
 ¡Descubre el perfecto aliado para el entrenamiento del baño! 🎉
 
-- *Producto:* Silla de Potty con diseño de conejito ideal para niños pequeños. 🐰
+- *Producto:* Silla de Potty con diseño de conejito ideal para ninios pequeños. 🐰
 
 - *Características:* Cómoda segura y fácil de limpiar. ✅
 

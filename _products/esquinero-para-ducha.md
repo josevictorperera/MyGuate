@@ -31,5 +31,5 @@ Características:
 ✅ 4 bandejas.
 ✅ Barra ajustable desde 1 metro hasta 3.20 metros
 
-Esquinero de baño con estante ajustable de 4 niveles fabricado en acero inoxidable de primera calidad y plástico. Las estanterías reforzadas aseguran que tengan una mayor capacidad de carga y durabilidad. Simplemente fíjelo entre el piso y el techo y la forma triangular se ajusta perfectamente a la esquina de la pared para ahorrar más espacio convirtiendo el baño desordenado en uno ordenado y limpio al instante.
+Esquinero de baño con estante ajustable de 4 niveles fabricado en acero inoxidable de primera calidad y plastico. Las estanterías reforzadas aseguran que tengan una mayor capacidad de carga y durabilidad. Simplemente fíjelo entre el piso y el techo y la forma triangular se ajusta perfectamente a la esquina de la pared para ahorrar más espacio convirtiendo el baño desordenado en uno ordenado y limpio al instante.
 

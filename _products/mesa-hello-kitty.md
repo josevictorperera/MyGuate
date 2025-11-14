@@ -6,7 +6,7 @@ price: 200
 sku: "268"
 image: "/assets/images/products/Mesa-Hello-Kitty.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "Mesa Hello Kitty product image"
-category: "Hogar niños"
+category: "Hogar ninios"
 ---
 
 ## Descripción Corta

@@ -19,7 +19,7 @@ category: "bebé Hogar"
 
 *Set de Comida Infantil con Diseño de Oso*
 
-- *Estilo Divertido:* Forma de oso y botella a juego ideal para niños. 🌟
+- *Estilo Divertido:* Forma de oso y botella a juego ideal para ninios. 🌟
 
 - *Practicidad Total:* Incluye contenedor y termo para comida y bebida. 🍶
 

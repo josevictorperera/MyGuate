@@ -6,7 +6,7 @@ price: 200
 sku: "264"
 image: "/assets/images/products/Mochila-HOALIDA.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "Mochila HOALIDA product image"
-category: "Hogar niños"
+category: "Hogar ninios"
 ---
 
 ## Descripción Corta

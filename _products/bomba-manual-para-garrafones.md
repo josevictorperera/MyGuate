@@ -19,7 +19,7 @@ Bomba Manual para Garrafones*
 
 - *Uso Sencillo:* Bomba de mano para dispensar agua sin esfuerzo. 🔧
 
-- *Diseño Práctico:* Compatible con garrafones estándar portátil y duradero. 💪
+- *Diseño Práctico:* Compatible con garrafones estándar portatil y duradero. 💪
 
 - *Higiene Garantizada:* Evita derrames ideal para casa u oficina. 🏠
 

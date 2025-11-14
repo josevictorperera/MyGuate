@@ -12,7 +12,7 @@ category: "Autos"
 ## Descripción Corta
 
 Molienda silenciosa Buena tenacidad
-✅Asa portátil y antideslizante
+✅Asa portatil y antideslizante
 ✅2 esponjas naranjas
 ✅1 Esponja blanca de peluche
 ✅2 protector de tela azul y celeste
@@ -23,7 +23,7 @@ Molienda silenciosa Buena tenacidad
 ## Descripción Detallada
 
 Descripción: ✅Molienda silenciosa Buena tenacidad
-✅Asa portátil y antideslizante
+✅Asa portatil y antideslizante
 ✅La puedes usar en autos uso doméstico pisos
 descalcificación de metales encerado de muebles etc...
 ✅Cable conector largo

@@ -11,11 +11,11 @@ category: "Belleza"
 
 ## Descripción Corta
 
-Mascarilla nocturna para el contorno de ojos formulada con extracto de caviar rico en aminoácidos vitaminas y ácidos grasos esenciales que nutren intensamente la piel.
+Mascarilla nocturna para el contorno de ojos formulada con extracto de caviar rico en aminoacidos vitaminas y acidos grasos esenciales que nutren intensamente la piel.
 
 ## Descripción Detallada
 
-Mascarilla nocturna para el contorno de ojos formulada con extracto de caviar rico en aminoácidos vitaminas y ácidos grasos esenciales que nutren intensamente la piel. Su textura ligera en gel-crema se absorbe rápidamente actuando durante la noche para hidratar reducir la apariencia de líneas finas y mejorar la firmeza. Ayuda a disminuir bolsas y ojeras dejando el área de los ojos visiblemente más luminosa y descansada al despertar.
+Mascarilla nocturna para el contorno de ojos formulada con extracto de caviar rico en aminoacidos vitaminas y acidos grasos esenciales que nutren intensamente la piel. Su textura ligera en gel-crema se absorbe rápidamente actuando durante la noche para hidratar reducir la apariencia de líneas finas y mejorar la firmeza. Ayuda a disminuir bolsas y ojeras dejando el área de los ojos visiblemente más luminosa y descansada al despertar.
 
 Beneficios principales:
 

@@ -11,9 +11,9 @@ category: "Belleza"
 
 ## Descripción Corta
 
-El limpiador facial con ácido kójico y colágeno es un producto dermocosmético diseñado para limpiar profundamente la piel reducir la apariencia de manchas oscuras y restaurar la elasticidad cutánea.
+El limpiador facial con acido kójico y colageno es un producto dermocosmético diseñado para limpiar profundamente la piel reducir la apariencia de manchas oscuras y restaurar la elasticidad cutánea.
 
 ## Descripción Detallada
 
-Descripción:El limpiador facial con ácido kójico y colágeno es un producto dermocosmético diseñado para limpiar profundamente la piel reducir la apariencia de manchas oscuras y restaurar la elasticidad cutánea. Su fórmula avanzada une el poder despigmentante del ácido kójico con las propiedades regenerativas del colágeno brindando una limpieza eficaz y un efecto rejuvenecedor visible desde las primeras aplicaciones.
+Descripción:El limpiador facial con acido kójico y colageno es un producto dermocosmético diseñado para limpiar profundamente la piel reducir la apariencia de manchas oscuras y restaurar la elasticidad cutánea. Su fórmula avanzada une el poder despigmentante del acido kójico con las propiedades regenerativas del colageno brindando una limpieza eficaz y un efecto rejuvenecedor visible desde las primeras aplicaciones.
 

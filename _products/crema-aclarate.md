@@ -20,6 +20,6 @@ Descripción:Unificación del tono de piel – Ayuda a reducir manchas oscuras h
 Reducción de manchas solares – Disminuye los efectos del daño solar y previene su aparición.
 Iluminación de la piel – Brinda un aspecto más radiante y saludable.
 
-Reducción de marcas de acné – Ingredientes principales la niacinamida y el ácido kójico ayudan a mejorar la textura de la piel.
+Reducción de marcas de acné – Ingredientes principales la niacinamida y el acido kójico ayudan a mejorar la textura de la piel.
 Prevención del envejecimiento prematuro – Algunas fórmulas incluyen antioxidantes que combaten los radicales libres.
 

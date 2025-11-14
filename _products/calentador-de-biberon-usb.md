@@ -1,12 +1,12 @@
 ---
 layout: product
-permalink: /products/calentador-de-biberón-usb/
+permalink: /products/calentador-de-biberon-usb/
 title: "CALENTADOR DE BIBERÓN USB"
 price: 99
 sku: "513"
 image: "/assets/images/products/CALENTADOR-DE-BIBERON-USB.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "CALENTADOR DE BIBERÓN USB product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta
@@ -21,6 +21,6 @@ COLORES Y DISEÑOS A DISPOSICION DE INVENTARIO
 ¡Mantén la leche tibia con este Calentador de Biberón USB! 🍼  
 - Diseño portatil y colorido. 🌈  
 - Fácil de recargar y llevar. 🔋 
-¡Cuida a tu bebé con estilo! 🌟
+¡Cuida a tu bebe con estilo! 🌟
 COLORES Y DISEÑOS A DISPOSICION DE INVENTARIO
 

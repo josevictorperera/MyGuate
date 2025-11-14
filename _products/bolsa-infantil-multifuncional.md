@@ -6,7 +6,7 @@ price: 150
 sku: "516"
 image: "/assets/images/products/BOLSA-INFANTIL-MULTIFUNCIONAL.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "BOLSA INFANTIL MULTIFUNCIONAL product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta
@@ -17,7 +17,7 @@ category: "bebé"
 
 ## Descripción Detallada
 
-¡El compañero ideal para tus aventuras con tu bebé! 👶  
+¡El compañero ideal para tus aventuras con tu bebe! 👶  
 - *Producto:* Bolsa infantil multifuncional. 🎒  
 - *Características:* Espaciosa ligera y con diseño adorable. ✅  
 - *Color:* Rosado y beige con detalles encantadores. 🌟  

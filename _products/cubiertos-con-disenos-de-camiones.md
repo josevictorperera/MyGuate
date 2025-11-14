@@ -6,7 +6,7 @@ price: 99
 sku: "507"
 image: "/assets/images/products/CUBIERTOS-CON-DISENOS-DE-CAMIONES.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "CUBIERTOS CON DISEÑOS DE CAMIONES product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta

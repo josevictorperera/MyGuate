@@ -20,7 +20,7 @@ Características:
 ✅ Freno conveniente para fijar.
 ✅ Metálico
 
-El carrito de almacenamiento se puede usar en cualquier lugar de la casa y es muy adecuado para la cocina la sala de estar las oficinas el hotel etc. Puede colocar cualquier cosa como frutas verduras especias bocadillos libros artículos de tocador etc
+El carrito de almacenamiento se puede usar en cualquier lugar de la casa y es muy adecuado para la cocina la sala de estar las oficinas el hotel etc. Puede colocar cualquier cosa como frutas verduras especias bocadillos libros articulos de tocador etc
 
 ## Descripción Detallada
 
@@ -33,5 +33,5 @@ Características:
 ✅ Freno conveniente para fijar.
 ✅ Metálico
 
-El carrito de almacenamiento se puede usar en cualquier lugar de la casa y es muy adecuado para la cocina la sala de estar las oficinas el hotel etc. Puede colocar cualquier cosa como frutas verduras especias bocadillos libros artículos de tocador etc
+El carrito de almacenamiento se puede usar en cualquier lugar de la casa y es muy adecuado para la cocina la sala de estar las oficinas el hotel etc. Puede colocar cualquier cosa como frutas verduras especias bocadillos libros articulos de tocador etc
 

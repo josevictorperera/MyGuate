@@ -6,7 +6,7 @@ price: 250
 sku: "126"
 image: "/assets/images/products/SILLA-ENTRENAMIENTO-INODORO-DE-CONEJITO.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "SILLA ENTRENAMIENTO INODORO DE CONEJITO product image"
-category: "bebé Hogar"
+category: "bebe Hogar"
 ---
 
 ## Descripción Corta

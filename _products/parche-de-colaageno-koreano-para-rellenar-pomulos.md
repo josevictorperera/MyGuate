@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/parche-de-colageno-koreano-para-rellenar-pómulos/
+permalink: /products/parche-de-colageno-koreano-para-rellenar-pomulos/
 title: "PARCHE DE COLÁGENO KOREANO PARA RELLENAR PÓMULOS"
 price: 175
 sku: "164"
@@ -11,11 +11,11 @@ category: "Belleza"
 
 ## Descripción Corta
 
-parches de colageno coreano diseñados especialmente para la zona de los pómulos. Enriquecidos con colageno hidrolizado péptidos y extractos botánicos ayudan a hidratar profundamente mejorar la elasticidad y aportar volumen de forma progresiva.
+parches de colageno coreano diseñados especialmente para la zona de los pomulos. Enriquecidos con colageno hidrolizado péptidos y extractos botánicos ayudan a hidratar profundamente mejorar la elasticidad y aportar volumen de forma progresiva.
 
 ## Descripción Detallada
 
-Descripción:Realza la firmeza de tu rostro con nuestros parches de colageno coreano diseñados especialmente para la zona de los pómulos. Enriquecidos con colageno hidrolizado péptidos y extractos botánicos ayudan a hidratar profundamente mejorar la elasticidad y aportar volumen de forma progresiva.
+Descripción:Realza la firmeza de tu rostro con nuestros parches de colageno coreano diseñados especialmente para la zona de los pomulos. Enriquecidos con colageno hidrolizado péptidos y extractos botánicos ayudan a hidratar profundamente mejorar la elasticidad y aportar volumen de forma progresiva.
 
 Efecto reafirmante y rellenador
 Fórmula coreana de alta eficacia

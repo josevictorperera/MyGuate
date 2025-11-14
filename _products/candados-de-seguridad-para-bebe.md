@@ -6,7 +6,7 @@ price: 99
 sku: "512"
 image: "/assets/images/products/CANDADOS-DE-SEGURIDAD-PARA-BEBE.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "CANDADOS DE SEGURIDAD PARA BEBE product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta

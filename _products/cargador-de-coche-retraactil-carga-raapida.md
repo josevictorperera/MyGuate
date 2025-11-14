@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/cargador-de-coche-retráctil-carga-rápida/
+permalink: /products/cargador-de-coche-retractil-carga-rápida/
 title: "Cargador de Coche Retráctil Carga Rápida"
 price: 155
 sku: "539"

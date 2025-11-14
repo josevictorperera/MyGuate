@@ -1,12 +1,12 @@
 ---
 layout: product
-permalink: /products/biberón-dr-gym-con-strass/
+permalink: /products/biberon-dr-gym-con-strass/
 title: "BIBERÓN DR. GYM CON STRASS"
 price: 99
 sku: "517"
 image: "/assets/images/products/BIBERON-DR.-GYM-CON-STRASS.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "BIBERÓN DR. GYM CON STRASS product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta
@@ -17,7 +17,7 @@ category: "bebé"
 ## Descripción Detallada
 
 🍼 *Biberón Dr. Gym con Strass* 🍼  
-✨ *¡Estilo y funcionalidad para tu bebé!*  
+✨ *¡Estilo y funcionalidad para tu bebe!*  
 💎 Diseño brillante con colores vibrantes.  
 🌈 Perfecto para alimentar con elegancia.  
 🛒 ¡Dale lo mejor a tu pequeño hoy!

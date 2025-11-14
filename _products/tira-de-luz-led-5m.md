@@ -21,7 +21,7 @@ Con control y adaptador
 
 RGB multicolor
 
-Rollo por 5 metros ( se recomienda utilizar silicona líquida para una mejor fijación)
+Rollo por 5 metros ( se recomienda utilizar silicona líquida para una mejor fijacion)
 
 
 

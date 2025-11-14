@@ -32,7 +32,7 @@ Ideales para cabellos secos dañados o tratados químicamente.
 
 
 
-🌿 Nutrición intensiva y reparación profunda.
+🌿 Nutrición intensiva y reparacion profunda.
 
 
 

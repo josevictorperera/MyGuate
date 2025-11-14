@@ -6,7 +6,7 @@ price: 99
 sku: "120"
 image: "/assets/images/products/PELUCHE-DE-SNOOPY.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "PELUCHE DE SNOOPY product image"
-category: "bebé Hogar"
+category: "bebe Hogar"
 ---
 
 ## Descripción Corta

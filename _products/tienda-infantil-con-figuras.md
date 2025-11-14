@@ -6,7 +6,7 @@ price: 99
 sku: "129"
 image: "/assets/images/products/TIENDA-INFANTIL-CON-FIGURAS.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "TIENDA INFANTIL CON FIGURAS product image"
-category: "bebé Hogar"
+category: "bebe Hogar"
 ---
 
 ## Descripción Corta

@@ -6,7 +6,7 @@ price: 200
 sku: "117"
 image: "/assets/images/products/ORGANIZADOR-INFANTIL-CON-RUEDAS.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "ORGANIZADOR INFANTIL CON RUEDAS product image"
-category: "bebé Hogar"
+category: "bebe Hogar"
 ---
 
 ## Descripción Corta

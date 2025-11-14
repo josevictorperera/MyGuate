@@ -1,12 +1,12 @@
 ---
 layout: product
-permalink: /products/pistola-de-burbujas-automáticas/
+permalink: /products/pistola-de-burbujas-automaticas/
 title: "PISTOLA DE BURBUJAS AUTOMÁTICAS"
 price: 99
 sku: "501"
 image: "/assets/images/products/PISTOLA-DE-BURBUJAS-AUTOMATICAS.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "PISTOLA DE BURBUJAS AUTOMÁTICAS product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta

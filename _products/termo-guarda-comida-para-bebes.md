@@ -6,7 +6,7 @@ price: 79
 sku: "221"
 image: "/assets/images/products/Termo-guarda-comida-para-bebes.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "Termo guarda comida para bebes product image"
-category: "bebé Hogar"
+category: "bebe Hogar"
 ---
 
 ## Descripción Corta

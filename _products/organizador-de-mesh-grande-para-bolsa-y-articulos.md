@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/organizador-de-mesh-grande-para-bolsa-y-artículos/
+permalink: /products/organizador-de-mesh-grande-para-bolsa-y-articulos/
 title: "ORGANIZADOR DE MESH GRANDE Para Bolsa y Artículos"
 price: 95
 sku: "528"

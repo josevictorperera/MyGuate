@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/coche-escáner-de-diagnostico-327-min-obdii-1/
+permalink: /products/coche-escaner-de-diagnostico-327-min-obdii-1/
 title: "COCHE ESCÁNER DE DIAGNOSTICO 327 MIN OBDII 1"
 price: 200
 sku: "534"

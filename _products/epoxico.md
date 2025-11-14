@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/epóxico/
+permalink: /products/epoxico/
 title: "Epóxico"
 price: 45
 sku: "276"

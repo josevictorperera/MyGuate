@@ -6,19 +6,19 @@ price: 99
 sku: "510"
 image: "/assets/images/products/CEPILLOS-PARA-LA-HIGIENE-DEL-BEBE.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "CEPILLOS PARA LA HIGIENE DEL BEBE product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta
 
-¡Cepillos divertidos para la higiene de tu bebé! 🍼  
+¡Cepillos divertidos para la higiene de tu bebe! 🍼  
 - *Producto:* Cepillos de dientes infantiles ergonómicos. 🪥  
 - *Características:* Suaves y fáciles de agarrar. ✅  
 - *Colores:* Rosa y azul. 🌸🔵
 
 ## Descripción Detallada
 
-¡Cepillos divertidos para la higiene de tu bebé! 🍼  
+¡Cepillos divertidos para la higiene de tu bebe! 🍼  
 - *Producto:* Cepillos de dientes infantiles ergonómicos. 🪥  
 - *Características:* Suaves y fáciles de agarrar. ✅  
 - *Colores:* Rosa y azul. 🌸🔵  

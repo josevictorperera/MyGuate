@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/parches-térmicos-para-cólicos-menstruales/
+permalink: /products/parches-termicos-para-colicos-menstruales/
 title: "PARCHES TÉRMICOS PARA CÓLICOS MENSTRUALES"
 price: 199
 sku: "157"

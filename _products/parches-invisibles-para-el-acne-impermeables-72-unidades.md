@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/parches-invisibles-para-el-acné-impermeables-72-unidades/
+permalink: /products/parches-invisibles-para-el-acne-impermeables-72-unidades/
 title: "PARCHES INVISIBLES PARA EL ACNÉ IMPERMEABLES 72 UNIDADES"
 price: 199
 sku: "159"
@@ -11,9 +11,9 @@ category: "Belleza"
 
 ## Descripción Corta
 
-Los parches hidrocoloides invisibles para acné son un tratamiento localizado que ayuda a absorber pus sebo y fluidos de granos promoviendo una curación más rápida y sigilosa. Su diseño ultradelgado y transparente permite usarlos bajo maquillaje sin ser detectados perfecto para quienes buscan discreción y eficacia.
+Los parches hidrocoloides invisibles para acne son un tratamiento localizado que ayuda a absorber pus sebo y fluidos de granos promoviendo una curación más rápida y sigilosa. Su diseño ultradelgado y transparente permite usarlos bajo maquillaje sin ser detectados perfecto para quienes buscan discreción y eficacia.
 
 ## Descripción Detallada
 
-Los parches hidrocoloides invisibles para acné son un tratamiento localizado que ayuda a absorber pus sebo y fluidos de granos promoviendo una curación más rápida y sigilosa. Su diseño ultradelgado y transparente permite usarlos bajo maquillaje sin ser detectados perfecto para quienes buscan discreción y eficacia.
+Los parches hidrocoloides invisibles para acne son un tratamiento localizado que ayuda a absorber pus sebo y fluidos de granos promoviendo una curación más rápida y sigilosa. Su diseño ultradelgado y transparente permite usarlos bajo maquillaje sin ser detectados perfecto para quienes buscan discreción y eficacia.
 

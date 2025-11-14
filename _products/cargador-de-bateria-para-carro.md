@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/cargador-de-batería-para-carro/
+permalink: /products/cargador-de-bateria-para-carro/
 title: "CARGADOR DE BATERÍA PARA CARRO"
 price: 250
 sku: "540"

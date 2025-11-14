@@ -11,9 +11,9 @@ category: "Deportes estilo"
 
 ## Descripción Corta
 
-Cangurera con 3 compartimentos cinturón ajustable
+Cangurera con 3 compartimentos cinturon ajustable
 
 ## Descripción Detallada
 
-Cangurera con 3 compartimentos cinturón ajustable
+Cangurera con 3 compartimentos cinturon ajustable
 

@@ -1,11 +1,11 @@
 ---
 layout: product
-permalink: /products/duo-de-jaboneras-plásticas-forma-de-zanahoria/
-title: "Duo de Jaboneras plásticas forma de Zanahoria"
+permalink: /products/duo-de-jaboneras-plasticas-forma-de-zanahoria/
+title: "Duo de Jaboneras plasticas forma de Zanahoria"
 price: 25
 sku: "237"
 image: "/assets/images/products/Duo-de-Jaboneras-plasticas-forma-de-Zanahoria.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Duo de Jaboneras plásticas forma de Zanahoria product image"
+alt_text: "Duo de Jaboneras plasticas forma de Zanahoria product image"
 category: "Hogar"
 ---
 

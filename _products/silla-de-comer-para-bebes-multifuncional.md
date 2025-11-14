@@ -6,7 +6,7 @@ price: 950
 sku: "124"
 image: "/assets/images/products/SILLA-DE-COMER-PARA-BEBES-MULTIFUNCIONAL.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "SILLA DE COMER PARA BEBES MULTIFUNCIONAL product image"
-category: "bebé Hogar"
+category: "bebe Hogar"
 ---
 
 ## Descripción Corta

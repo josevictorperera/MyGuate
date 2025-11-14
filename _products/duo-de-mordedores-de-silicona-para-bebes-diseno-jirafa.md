@@ -6,7 +6,7 @@ price: 55
 sku: "236"
 image: "/assets/images/products/Duo-de-mordedores-de-silicona-para-bebes-diseno-jirafa.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "Duo de mordedores de silicona para bebes diseño jirafa product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta

@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/crema-anti-acné-aloe-vera/
+permalink: /products/crema-anti-acne-aloe-vera/
 title: "CREMA ANTI ACNÉ ALOE VERA"
 price: 150
 sku: "183"
@@ -21,10 +21,10 @@ Beneficios:
 Disminuye granos y puntos negros
 Reduce rojeces e inflamación
 Previene la aparición de nuevas imperfecciones
-Ayuda a minimizar marcas de acné
+Ayuda a minimizar marcas de acne
 Textura ligera no comedogénica
 Modo de uso:
 Aplicar una pequeña cantidad sobre el rostro limpio directamente en las zonas afectadas 1 a 2 veces al día.
 Ideal para:
-Piel grasa mixta o con tendencia al acné.
+Piel grasa mixta o con tendencia al acne.
 

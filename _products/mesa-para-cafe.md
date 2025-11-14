@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/mesa-para-café/
+permalink: /products/mesa-para-cafe/
 title: "Mesa para Café"
 price: 200
 sku: "267"

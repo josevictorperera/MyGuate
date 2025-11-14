@@ -11,11 +11,11 @@ category: "Hogar"
 
 ## Descripción Corta
 
-set de cuchillos de cocina que además de su presentación elegante facilitaran la preparación de tus alimentos
+set de cuchillos de cocina que además de su presentación elegante facilitaran la preparacion de tus alimentos
 
 ## Descripción Detallada
 
-Un completo set de cuchillos de cocina que además de su presentación elegante facilitaran la preparación de tus alimentos cada cuchillo tiene un uso en particular y esto evita que se mezclen los sabores de la comida como cuando usas el mismo cuchillo para cortar cebolla y luego frutas; ahora podrás pelar picar trocear de una manera más práctica y también eficiente.
+Un completo set de cuchillos de cocina que además de su presentación elegante facilitaran la preparacion de tus alimentos cada cuchillo tiene un uso en particular y esto evita que se mezclen los sabores de la comida como cuando usas el mismo cuchillo para cortar cebolla y luego frutas; ahora podrás pelar picar trocear de una manera más práctica y también eficiente.
 
 
 

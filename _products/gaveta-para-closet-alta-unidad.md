@@ -29,9 +29,9 @@ Características: Apilable y plegable
 
 Características Principales:
 
-Mayor Capacidad: Con un tamaño más alto que la versión baja esta gaveta es perfecta para organizar artículos de mayor volumen como ropa de cama toallas o zapatos.
+Mayor Capacidad: Con un tamaño más alto que la versión baja esta gaveta es perfecta para organizar articulos de mayor volumen como ropa de cama toallas o zapatos.
 
-Diseño Funcional: Su sistema de deslizamiento tipo cajón permite un acceso rápido y fácil a todos los artículos almacenados sin necesidad de sacar todo el contenido.
+Diseño Funcional: Su sistema de deslizamiento tipo cajón permite un acceso rápido y fácil a todos los articulos almacenados sin necesidad de sacar todo el contenido.
 
 Apilable y Plegable: Puedes apilar varias gavetas para aprovechar mejor el espacio vertical en tu closet o armario. Además su capacidad de plegarse te da flexibilidad para guardarla cuando no esté en uso.
 

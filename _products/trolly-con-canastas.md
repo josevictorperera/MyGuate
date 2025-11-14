@@ -11,11 +11,11 @@ category: "Hogar"
 
 ## Descripción Corta
 
-4 cajones extraíbles podrás almacenar ropa juguetes artículos de oficina productos de limpieza o lo que necesites.
+4 cajones extraíbles podrás almacenar ropa juguetes articulos de oficina productos de limpieza o lo que necesites.
 
 ## Descripción Detallada
 
-Mantén todo en orden con este organizador de cajones con ruedas. Su diseño compacto y moderno es ideal para cualquier espacio del hogar u oficina. Con 4 cajones extraíbles podrás almacenar ropa juguetes artículos de oficina productos de limpieza o lo que necesites.
+Mantén todo en orden con este organizador de cajones con ruedas. Su diseño compacto y moderno es ideal para cualquier espacio del hogar u oficina. Con 4 cajones extraíbles podrás almacenar ropa juguetes articulos de oficina productos de limpieza o lo que necesites.
 
 
 

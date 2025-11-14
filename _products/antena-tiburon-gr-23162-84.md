@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/antena-tiburón-gr-23162-84/
+permalink: /products/antena-tiburon-gr-23162-84/
 title: "ANTENA TIBURÓN GR 23162-84"
 price: 100
 sku: "547"

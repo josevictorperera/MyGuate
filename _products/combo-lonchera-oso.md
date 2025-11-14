@@ -6,7 +6,7 @@ price: 99
 sku: "105"
 image: "/assets/images/products/COMBO-LONCHERA-OSO.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "COMBO LONCHERA OSO product image"
-category: "bebé Hogar"
+category: "bebe Hogar"
 ---
 
 ## Descripción Corta

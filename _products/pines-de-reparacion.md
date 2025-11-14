@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/pines-de-reparación/
+permalink: /products/pines-de-reparacion/
 title: "PINES DE REPARACIÓN"
 price: 45
 sku: "523"

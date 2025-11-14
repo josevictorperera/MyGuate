@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/arrancador-de-batería-jumper-para-encender-el-carro/
+permalink: /products/arrancador-de-bateria-jumper-para-encender-el-carro/
 title: "ARRANCADOR DE BATERÍA JUMPER PARA ENCENDER EL CARRO"
 price: 450
 sku: "546"

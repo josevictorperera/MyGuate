@@ -19,7 +19,7 @@ Exfoliación natural:
 Hidratación profunda : Con alto contenido de agua y polisacáridos el aloe vera retiene humedad en la piel mejorando su textura y elasticidad.
 Antiinflamatorio y calmante : Reduce rojeces e irritaciones ideal para
 Mejillas rosadas
-Antimicrobiano y ayuda con el acné : Combate bacterias causantes de brotes
+Antimicrobiano y ayuda con el acne : Combate bacterias causantes de brotes
 Mejillas rosadas
 Estimula colageno y antiedad : Componentes como vitaminas C y E fomentan la firmeza elasticidad y reducen las líneas finas.
 Desigualdad del tono y manchas : Puede ayudar a atenuar la hiperpigmentación y revitalizar la piel

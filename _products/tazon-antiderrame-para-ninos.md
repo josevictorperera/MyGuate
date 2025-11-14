@@ -6,7 +6,7 @@ price: 99
 sku: "500"
 image: "/assets/images/products/TAZON-ANTIDERRAME-PARA-NINOS.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "TAZON ANTIDERRAME PARA NIÑOS product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta

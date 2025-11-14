@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/12-botones-de-fijación-de-auto-24051-31/
+permalink: /products/12-botones-de-fijacion-de-auto-24051-31/
 title: "12 BOTONES DE FIJACIÓN DE AUTO 24051-31"
 price: 100
 sku: "549"

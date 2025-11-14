@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/duo-de-antifaz-de-gel-para-reducir-ojeras---diseño-sandías/
+permalink: /products/duo-de-antifaz-de-gel-para-reducir-ojeras---diseño-sandias/
 title: "Duo de Antifaz de gel para reducir Ojeras - Diseño Sandías"
 price: 25
 sku: "240"

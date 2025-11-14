@@ -6,18 +6,18 @@ price: 99
 sku: "504"
 image: "/assets/images/products/KIT-DE-CUIDADO-INFANTIL-.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "KIT DE CUIDADO INFANTIL product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta
 
-¡Cuida a tu bebé con este Kit de Cuidado Infantil! 🍼  
+¡Cuida a tu bebe con este Kit de Cuidado Infantil! 🍼  
 - Incluye cepillo peine tijeras y más. ✨  
 - Diseño seguro y colorido. 🌸
 
 ## Descripción Detallada
 
-¡Cuida a tu bebé con este Kit de Cuidado Infantil! 🍼  
+¡Cuida a tu bebe con este Kit de Cuidado Infantil! 🍼  
 - Incluye cepillo peine tijeras y más. ✨  
 - Diseño seguro y colorido. 🌸  
 ¡Todo lo esencial para tu pequeño! 🌟

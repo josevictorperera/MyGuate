@@ -6,18 +6,18 @@ price: 99
 sku: "101"
 image: "/assets/images/products/BABY-CARE-KIT.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "BABY CARE KIT product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta
 
-¡Cuida a tu bebé con este Kit de Cuidado Infantil! 🍼
+¡Cuida a tu bebe con este Kit de Cuidado Infantil! 🍼
 
 - Incluye cepillo peine tijeras y más. ✨
 
 ## Descripción Detallada
 
-¡Cuida a tu bebé con este Kit de Cuidado Infantil! 🍼
+¡Cuida a tu bebe con este Kit de Cuidado Infantil! 🍼
 
 - Incluye cepillo peine tijeras y más. ✨
 

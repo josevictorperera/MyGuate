@@ -6,7 +6,7 @@ price: 199
 sku: "141"
 image: "/assets/images/products/crayones.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "SET DE CRAYONES 208 PCS product image"
-category: "bebé Librería"
+category: "bebe Librería"
 ---
 
 ## Descripción Corta

@@ -6,7 +6,7 @@ price: 250
 sku: "277"
 image: "/assets/images/products/Edredon-para-bebe-gris.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "Edredón para bebe gris product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta
@@ -14,7 +14,7 @@ category: "bebé"
 👶Borrego para Bebé
 
 ✅De 0 a 12 meses.
-✅Varios Colores varios (gris azul blanco café)😍
+✅Varios Colores varios (gris azul blanco cafe)😍
 ✅Crea sensación similar al vientre 🤱
 
 ## Descripción Detallada
@@ -22,6 +22,6 @@ category: "bebé"
 👶Borrego para Bebé
 
 ✅De 0 a 12 meses.
-✅Varios Colores varios (gris azul blanco café)😍
+✅Varios Colores varios (gris azul blanco cafe)😍
 ✅Crea sensación similar al vientre 🤱
 

@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/cable-de-batería-pasa-corriente-1500-amp/
+permalink: /products/cable-de-bateria-pasa-corriente-1500-amp/
 title: "CABLE DE BATERÍA PASA CORRIENTE 1500 AMP"
 price: 180
 sku: "543"
@@ -11,13 +11,13 @@ category: "Autos"
 
 ## Descripción Corta
 
-El cable de batería pasa corriente de 1500 amperios está diseñado para arrancar vehículos de gran tamaño como camiones autobuses maquinaria pesada y equipos industriales. 
+El cable de bateria pasa corriente de 1500 amperios está diseñado para arrancar vehículos de gran tamaño como camiones autobuses maquinaria pesada y equipos industriales. 
 Capacidad de corriente: 1500 amperios (pico).
 Longitud del cable: Variable (generalmente entre 3 y 6 metros)
 
 ## Descripción Detallada
 
-El cable de batería pasa corriente de 1500 amperios está diseñado para arrancar vehículos de gran tamaño como camiones autobuses maquinaria pesada y equipos industriales. Fabricado con materiales de alta calidad garantiza una transferencia de energía eficiente y segura en condiciones exigentes.
+El cable de bateria pasa corriente de 1500 amperios está diseñado para arrancar vehículos de gran tamaño como camiones autobuses maquinaria pesada y equipos industriales. Fabricado con materiales de alta calidad garantiza una transferencia de energía eficiente y segura en condiciones exigentes.
 
 Características Técnicas:
 

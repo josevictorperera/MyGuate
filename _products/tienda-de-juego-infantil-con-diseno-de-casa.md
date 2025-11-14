@@ -6,7 +6,7 @@ price: 250
 sku: "133"
 image: "/assets/images/products/TiendaDeJuego.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "TIENDA DE JUEGO INFANTIL CON DISEÑO DE CASA product image"
-category: "bebé Hogar"
+category: "bebe Hogar"
 ---
 
 ## Descripción Corta

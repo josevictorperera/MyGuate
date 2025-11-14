@@ -6,7 +6,7 @@ price: 99
 sku: "122"
 image: "/assets/images/products/PELUCHE-KOALA-RELAX.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "PELUCHE KOALA RELAX product image"
-category: "bebé Hogar"
+category: "bebe Hogar"
 ---
 
 ## Descripción Corta
@@ -17,7 +17,7 @@ category: "bebé Hogar"
 
 🐾 Peluche Relax Respira para Bebés 🐾
 
-• 🎶 Sonidos calmantes: Ayuda a tu bebé a dormir plácidamente.
+• 🎶 Sonidos calmantes: Ayuda a tu bebe a dormir plácidamente.
 
 • 🌈 Color gris.
 

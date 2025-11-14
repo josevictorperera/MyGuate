@@ -25,5 +25,5 @@ Características:
 ✅ Mesita de noche.
 ✅ Color blanco. 
 
-Proporciona suficiente espacio de almacenamiento para todos tus artículos incluyendo libros gafas etc.
+Proporciona suficiente espacio de almacenamiento para todos tus articulos incluyendo libros gafas etc.
 

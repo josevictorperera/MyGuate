@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/banco-plegable-arcoíris/
+permalink: /products/banco-plegable-arcoiris/
 title: "Banco Plegable Arcoíris"
 price: 150
 sku: "284"

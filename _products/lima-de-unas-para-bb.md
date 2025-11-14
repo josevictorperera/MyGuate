@@ -6,7 +6,7 @@ price: 99
 sku: "503"
 image: "/assets/images/products/LIMA-DE-UNAS-PARA-BB.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "LIMA DE UÑAS PARA BB product image"
-category: "bebé"
+category: "bebe"
 ---
 
 ## Descripción Corta
@@ -21,7 +21,7 @@ Disponible en rosa y celeste. 💖
 ## Descripción Detallada
 
 💅 Set de Manicura Eléctrico para Bebé - Cuidado Suave ✨
-¡Cuida las uñas de tu bebé con este set de manicura eléctrico!
+¡Cuida las uñas de tu bebe con este set de manicura eléctrico!
  Incluye 5 cabezales suaves para limar y pulir diseñado para ser seguro con estuche portatil. 
 Disponible en rosa y celeste. 💖
  • 🔧 5 cabezales delicados

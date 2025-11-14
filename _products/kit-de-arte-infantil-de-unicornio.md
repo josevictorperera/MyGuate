@@ -6,7 +6,7 @@ price: 250
 sku: "110"
 image: "/assets/images/products/KIT-DE-ARTE-INFANTIL-DE-UNICORNIO.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "KIT DE ARTE INFANTIL DE UNICORNIO product image"
-category: "bebé Librería"
+category: "bebe Librería"
 ---
 
 ## Descripción Corta

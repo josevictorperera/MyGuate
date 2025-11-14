@@ -20,7 +20,7 @@ Jabón aclarante con extracto de arroz con leche RCH
 El jabon de leche y arroz es un producto de cuidado personal que se ha vuelto cada vez más popular en los últimos años debido a sus beneficios para la piel. La leche y el arroz se utilizan por sus propiedades hidratantes suavizantes y nutritivas.
 
 Beneficio del Arroz:
-Se utiliza por su alto contenido de antioxidantes vitaminas y minerales que ayudan a mejorar la textura y la claridad de la piel. Además el arroz tiene propiedades antiinflamatorias y antimicrobianas lo que lo hace beneficioso para pieles con tendencia a la sensibilidad y el acné.
+Se utiliza por su alto contenido de antioxidantes vitaminas y minerales que ayudan a mejorar la textura y la claridad de la piel. Además el arroz tiene propiedades antiinflamatorias y antimicrobianas lo que lo hace beneficioso para pieles con tendencia a la sensibilidad y el acne.
 Beneficio de la Leche:
 Se utiliza por su contenido de acido láctico un exfoliante natural que ayuda a eliminar las células muertas de la piel y estimula la producción de colageno. También se sabe que la leche hidrata y suaviza la piel lo que la hace ideal para pieles secas y escamosas.
 

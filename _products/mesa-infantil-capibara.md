@@ -6,7 +6,7 @@ price: 99
 sku: "112"
 image: "/assets/images/products/MESA-INFANTIL-CAPIBARA.webp" # <-- SIMPLE DIRECT PATH
 alt_text: "MESA INFANTIL CAPIBARA product image"
-category: "bebé Hogar"
+category: "bebe Hogar"
 ---
 
 ## Descripción Corta

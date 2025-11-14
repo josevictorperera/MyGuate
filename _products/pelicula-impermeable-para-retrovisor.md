@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: /products/película-impermeable-para-retrovisor/
+permalink: /products/pelicula-impermeable-para-retrovisor/
 title: "PELÍCULA IMPERMEABLE PARA RETROVISOR"
 price: 99
 sku: "524"

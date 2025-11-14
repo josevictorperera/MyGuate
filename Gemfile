@@ -1,17 +1,17 @@
-# Gemfile
-ENV["DISABLE_ALL_PLUGINS"] = "true"
-
 source "https://rubygems.org"
 
-ruby ">= 3.1"
-
-# --- MAIN GEMS ---
+# Compatible with Ruby 3.0.2 locally and Ruby 3.4.x on Cloudflare
 gem "jekyll", "~> 4.4"
-gem "webrick"
+gem "webrick", "~> 1.8"
+gem "jekyll-sass-converter", "~> 3.0"
 
-# Fix Cloudflare Pages conflict with preloaded google-protobuf 4.x
-gem "google-protobuf", "~> 3.25"
-
-# (Optional but recommended for Cloudflare/Linux builds)
 group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
 end
+
+# Avoid platform-specific issues (Mac gems, google-protobuf, etc.)
+gem "ffi", "~> 1.17"
+
+# No Ruby version requirement (Cloudflare uses 3.4.4)

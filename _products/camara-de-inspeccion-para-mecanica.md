@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2124114682
 permalink: /products/camara-de-inspeccion-para-mecanica/
-title: "CÁMARA DE INSPECCIÓN PARA MECANICA"
+title: CÁMARA DE INSPECCIÓN PARA MECANICA
 price: 300
-sku: "542"
-image: "/assets/images/products/CAMARA-DE-INSPECCION-PARA-MECANICA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CÁMARA DE INSPECCIÓN PARA MECANICA product image"
-category: "Autos"
+sku: '542'
+image: /assets/images/products/CAMARA-DE-INSPECCION-PARA-MECANICA.webp
+alt_text: CÁMARA DE INSPECCIÓN PARA MECANICA product image
+category: Autos
 ---
 
 ## Descripción Corta

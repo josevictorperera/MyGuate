@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 25213196
 permalink: /products/boxer-dior-set-3-piezas-talla-m-colores-surtidos/
-title: "BOXER DIOR SET 3 PIEZAS TALLA M COLORES SURTIDOS"
+title: BOXER DIOR SET 3 PIEZAS TALLA M COLORES SURTIDOS
 price: 130
-sku: "471"
-image: "/assets/images/products/BOXER-DIOR-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER DIOR SET 3 PIEZAS TALLA M COLORES SURTIDOS product image"
-category: "Moda"
+sku: '471'
+image: /assets/images/products/BOXER-DIOR-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp
+alt_text: BOXER DIOR SET 3 PIEZAS TALLA M COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

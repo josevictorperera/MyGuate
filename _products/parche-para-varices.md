@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 994535330
 permalink: /products/parche-para-varices/
-title: "PARCHE PARA VARICES"
+title: PARCHE PARA VARICES
 price: 125
-sku: "162"
-image: "/assets/images/products/PARCHE-PARA-VARICES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PARCHE PARA VARICES product image"
-category: "Belleza"
+sku: '162'
+image: /assets/images/products/PARCHE-PARA-VARICES.webp
+alt_text: PARCHE PARA VARICES product image
+category: Belleza
 ---
 
 ## Descripción Corta

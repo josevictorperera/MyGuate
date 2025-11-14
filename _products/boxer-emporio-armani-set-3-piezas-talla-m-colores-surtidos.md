@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 791860486
 permalink: /products/boxer-emporio-armani-set-3-piezas-talla-m-colores-surtidos/
-title: "BOXER EMPORIO ARMANI SET 3 PIEZAS TALLA M COLORES SURTIDOS"
+title: BOXER EMPORIO ARMANI SET 3 PIEZAS TALLA M COLORES SURTIDOS
 price: 130
-sku: "467"
-image: "/assets/images/products/BOXER-EMPORIO-ARMANI-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER EMPORIO ARMANI SET 3 PIEZAS TALLA M COLORES SURTIDOS product image"
-category: "Moda"
+sku: '467'
+image: >-
+  /assets/images/products/BOXER-EMPORIO-ARMANI-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp
+alt_text: BOXER EMPORIO ARMANI SET 3 PIEZAS TALLA M COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

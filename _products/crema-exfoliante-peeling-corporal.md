@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 456778888
 permalink: /products/crema-exfoliante-peeling-corporal/
-title: "CREMA EXFOLIANTE PEELING CORPORAL"
+title: CREMA EXFOLIANTE PEELING CORPORAL
 price: 175
-sku: "181"
-image: "/assets/images/products/CREMA-EXFOLIANTE-PEELING-CORPORAL.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CREMA EXFOLIANTE PEELING CORPORAL product image"
-category: "Belleza"
+sku: '181'
+image: /assets/images/products/CREMA-EXFOLIANTE-PEELING-CORPORAL.webp
+alt_text: CREMA EXFOLIANTE PEELING CORPORAL product image
+category: Belleza
 ---
 
 ## Descripción Corta

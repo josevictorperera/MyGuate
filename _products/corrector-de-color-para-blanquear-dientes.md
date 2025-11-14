@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 684861355
 permalink: /products/corrector-de-color-para-blanquear-dientes/
-title: "CORRECTOR DE COLOR PARA BLANQUEAR DIENTES"
+title: CORRECTOR DE COLOR PARA BLANQUEAR DIENTES
 price: 125
-sku: "186"
-image: "/assets/images/products/CORRECTOR-DE-COLOR-PARA-BLANQUIAR-DIENTES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CORRECTOR DE COLOR PARA BLANQUEAR DIENTES product image"
-category: "Belleza"
+sku: '186'
+image: /assets/images/products/CORRECTOR-DE-COLOR-PARA-BLANQUIAR-DIENTES.webp
+alt_text: CORRECTOR DE COLOR PARA BLANQUEAR DIENTES product image
+category: Belleza
 ---
 
 ## Descripción Corta

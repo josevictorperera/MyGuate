@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1325707970
 permalink: /products/anillo-girasol-giratorio/
-title: "Anillo Girasol Giratorio"
+title: Anillo Girasol Giratorio
 price: 95
-sku: "220"
-image: "/assets/images/products/Anillo-Girasol-Giratorio.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Anillo Girasol Giratorio product image"
-category: "joyas"
+sku: '220'
+image: /assets/images/products/Anillo-Girasol-Giratorio.webp
+alt_text: Anillo Girasol Giratorio product image
+category: joyas
 ---
 
 ## Descripción Corta

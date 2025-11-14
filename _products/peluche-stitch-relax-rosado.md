@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 345167228
 permalink: /products/peluche-stitch-relax-rosado/
-title: "PELUCHE STITCH RELAX ROSADO"
+title: PELUCHE STITCH RELAX ROSADO
 price: 150
-sku: "502"
-image: "/assets/images/products/PELUCHE-STITCH-RELAX-ROSADO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PELUCHE STITCH RELAX ROSADO product image"
-category: "bebe"
+sku: '502'
+image: /assets/images/products/PELUCHE-STITCH-RELAX-ROSADO.webp
+alt_text: PELUCHE STITCH RELAX ROSADO product image
+category: bebe
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 370287022
 permalink: /products/parche-de-colageno-koreano-para-rellenar-pomulos/
-title: "PARCHE DE COLÁGENO KOREANO PARA RELLENAR PÓMULOS"
+title: PARCHE DE COLÁGENO KOREANO PARA RELLENAR PÓMULOS
 price: 175
-sku: "164"
-image: "/assets/images/products/PARCHE-DE-COLAGENO-KOREANO-PARA-RELLENAR-POMULOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PARCHE DE COLÁGENO KOREANO PARA RELLENAR PÓMULOS product image"
-category: "Belleza"
+sku: '164'
+image: /assets/images/products/PARCHE-DE-COLAGENO-KOREANO-PARA-RELLENAR-POMULOS.webp
+alt_text: PARCHE DE COLÁGENO KOREANO PARA RELLENAR PÓMULOS product image
+category: Belleza
 ---
 
 ## Descripción Corta

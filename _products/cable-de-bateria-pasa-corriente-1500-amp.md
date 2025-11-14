@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1172013762
 permalink: /products/cable-de-bateria-pasa-corriente-1500-amp/
-title: "CABLE DE BATERÍA PASA CORRIENTE 1500 AMP"
+title: CABLE DE BATERÍA PASA CORRIENTE 1500 AMP
 price: 180
-sku: "543"
-image: "/assets/images/products/CABLE-DE-BATERIA-PASA-CORRIENTE-1500-AMP.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CABLE DE BATERÍA PASA CORRIENTE 1500 AMP product image"
-category: "Autos"
+sku: '543'
+image: /assets/images/products/CABLE-DE-BATERIA-PASA-CORRIENTE-1500-AMP.webp
+alt_text: CABLE DE BATERÍA PASA CORRIENTE 1500 AMP product image
+category: Autos
 ---
 
 ## Descripción Corta

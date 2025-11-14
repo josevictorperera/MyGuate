@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 667531090
 permalink: /products/edredon-para-bebe-cafe/
-title: "Edredón para bebe cafe"
+title: Edredón para bebe cafe
 price: 250
-sku: "278"
-image: "/assets/images/products/Edredon-para-bebe-cafe.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Edredón para bebe cafe product image"
-category: "bebe"
+sku: '278'
+image: /assets/images/products/Edredon-para-bebe-cafe.webp
+alt_text: Edredón para bebe cafe product image
+category: bebe
 ---
 
 ## Descripción Corta

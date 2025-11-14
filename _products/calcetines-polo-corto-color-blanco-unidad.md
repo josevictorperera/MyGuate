@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 224586468
 permalink: /products/calcetines-polo-corto-color-blanco-unidad/
-title: "CALCETINES POLO CORTO COLOR BLANCO (UNIDAD)"
+title: CALCETINES POLO CORTO COLOR BLANCO (UNIDAD)
 price: 20
-sku: "405"
-image: "/assets/images/products/CALCETINES-POLO-CORTO-COLOR-BLANCO-UNIDAD.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES POLO CORTO COLOR BLANCO (UNIDAD) product image"
-category: "Moda"
+sku: '405'
+image: /assets/images/products/CALCETINES-POLO-CORTO-COLOR-BLANCO-UNIDAD.webp
+alt_text: CALCETINES POLO CORTO COLOR BLANCO (UNIDAD) product image
+category: Moda
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1297347998
 permalink: /products/shampoo-castaño-hair/
-title: "Shampoo Castaño Hair"
+title: Shampoo Castaño Hair
 price: 65
-sku: "255"
-image: "/assets/images/products/Shampoo-Castano-Hair.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Shampoo Castaño Hair product image"
-category: "Belleza"
+sku: '255'
+image: /assets/images/products/Shampoo-Castano-Hair.webp
+alt_text: Shampoo Castaño Hair product image
+category: Belleza
 ---
 
 ## Descripción Corta

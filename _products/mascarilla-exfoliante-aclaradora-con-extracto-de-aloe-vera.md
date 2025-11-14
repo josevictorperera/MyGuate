@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1982799411
 permalink: /products/mascarilla-exfoliante-aclaradora-con-extracto-de-aloe-vera/
-title: "MASCARILLA EXFOLIANTE ACLARADORA CON EXTRACTO DE ALOE VERA"
+title: MASCARILLA EXFOLIANTE ACLARADORA CON EXTRACTO DE ALOE VERA
 price: 225
-sku: "168"
-image: "/assets/images/products/MASCARILLA-EXFOLIANTE-ACLARADORA-CON-ESTRACTO-DE-ALOE-VERA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "MASCARILLA EXFOLIANTE ACLARADORA CON EXTRACTO DE ALOE VERA product image"
-category: "Belleza"
+sku: '168'
+image: >-
+  /assets/images/products/MASCARILLA-EXFOLIANTE-ACLARADORA-CON-ESTRACTO-DE-ALOE-VERA.webp
+alt_text: MASCARILLA EXFOLIANTE ACLARADORA CON EXTRACTO DE ALOE VERA product image
+category: Belleza
 ---
 
 ## Descripción Corta

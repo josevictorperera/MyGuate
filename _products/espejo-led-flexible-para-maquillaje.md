@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 314266983
 permalink: /products/espejo-led-flexible-para-maquillaje/
-title: "ESPEJO LED FLEXIBLE PARA MAQUILLAJE"
+title: ESPEJO LED FLEXIBLE PARA MAQUILLAJE
 price: 225
-sku: "176"
-image: "/assets/images/products/ESPEJO-LED-FLEXIBLE-PARA-MAQUILLAJE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ESPEJO LED FLEXIBLE PARA MAQUILLAJE product image"
-category: "Belleza Hogar"
+sku: '176'
+image: /assets/images/products/ESPEJO-LED-FLEXIBLE-PARA-MAQUILLAJE.webp
+alt_text: ESPEJO LED FLEXIBLE PARA MAQUILLAJE product image
+category: Belleza Hogar
 ---
 
 ## Descripción Corta

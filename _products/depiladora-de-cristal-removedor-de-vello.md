@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1886777741
 permalink: /products/depiladora-de-cristal-removedor-de-vello/
-title: "DEPILADORA DE CRISTAL REMOVEDOR DE VELLO"
+title: DEPILADORA DE CRISTAL REMOVEDOR DE VELLO
 price: 125
-sku: "177"
-image: "/assets/images/products/DEPILADORA-DE-CRISTAL-REMOVEDOR-DE-VELLO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "DEPILADORA DE CRISTAL REMOVEDOR DE VELLO product image"
-category: "Belleza"
+sku: '177'
+image: /assets/images/products/DEPILADORA-DE-CRISTAL-REMOVEDOR-DE-VELLO.webp
+alt_text: DEPILADORA DE CRISTAL REMOVEDOR DE VELLO product image
+category: Belleza
 ---
 
 ## Descripción Corta

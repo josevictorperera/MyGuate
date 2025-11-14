@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1048639908
 permalink: /products/protector-solar-fps-50/
-title: "PROTECTOR SOLAR FPS 50"
+title: PROTECTOR SOLAR FPS 50
 price: 150
-sku: "153"
-image: "/assets/images/products/PROTECTOR-SOLAR-FPS-50.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PROTECTOR SOLAR FPS 50 product image"
-category: "Belleza Salud"
+sku: '153'
+image: /assets/images/products/PROTECTOR-SOLAR-FPS-50.webp
+alt_text: PROTECTOR SOLAR FPS 50 product image
+category: Belleza Salud
 ---
 
 ## Descripción Corta

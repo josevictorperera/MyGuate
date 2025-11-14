@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1164339679
 permalink: /products/gorra-hugo-boss-color-celeste/
-title: "GORRA HUGO BOSS COLOR CELESTE"
+title: GORRA HUGO BOSS COLOR CELESTE
 price: 125
-sku: "348"
-image: "/assets/images/products/GORRA-HUGO-BOSS-COLOR-CELESTE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA HUGO BOSS COLOR CELESTE product image"
-category: "Moda > Gorra"
+sku: '348'
+image: /assets/images/products/GORRA-HUGO-BOSS-COLOR-CELESTE.webp
+alt_text: GORRA HUGO BOSS COLOR CELESTE product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

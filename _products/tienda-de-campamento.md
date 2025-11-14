@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1232490689
 permalink: /products/tienda-de-campamento/
-title: "TIENDA DE CAMPAMENTO"
+title: TIENDA DE CAMPAMENTO
 price: 215
-sku: "130"
-image: "/assets/images/products/TIENDA-DE-CAMPAMENTO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "TIENDA DE CAMPAMENTO product image"
-category: "Hogar"
+sku: '130'
+image: /assets/images/products/TIENDA-DE-CAMPAMENTO.webp
+alt_text: TIENDA DE CAMPAMENTO product image
+category: Hogar
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1081289398
 permalink: /products/serum-de-leche-prety-cowry/
-title: "SERUM DE LECHE PRETY COWRY"
+title: SERUM DE LECHE PRETY COWRY
 price: 199
-sku: "146"
-image: "/assets/images/products/SERUM-DE-LECHE-PRETY-COWRY.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SERUM DE LECHE PRETY COWRY product image"
-category: "Belleza"
+sku: '146'
+image: /assets/images/products/SERUM-DE-LECHE-PRETY-COWRY.webp
+alt_text: SERUM DE LECHE PRETY COWRY product image
+category: Belleza
 ---
 
 ## Descripción Corta

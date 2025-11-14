@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 558662399
 permalink: /products/boxer-versaceset-3-piezas-talla-l-colores-surtidos/
-title: "BOXER VERSACESET 3 PIEZAS TALLA L COLORES SURTIDOS"
+title: BOXER VERSACESET 3 PIEZAS TALLA L COLORES SURTIDOS
 price: 130
-sku: "449"
-image: "/assets/images/products/BOXER-VERSACESET-3-PIEZAS-TALLA-L-COLORES-SURTIDOS0A.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER VERSACESET 3 PIEZAS TALLA L COLORES SURTIDOS product image"
-category: "Moda"
+sku: '449'
+image: >-
+  /assets/images/products/BOXER-VERSACESET-3-PIEZAS-TALLA-L-COLORES-SURTIDOS0A.webp
+alt_text: BOXER VERSACESET 3 PIEZAS TALLA L COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

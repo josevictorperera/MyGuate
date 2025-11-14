@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1756900385
 permalink: /products/collar-forma-de-tulipan-palo-rosa/
-title: "Collar Forma de Tulipán Palo rosa"
+title: Collar Forma de Tulipán Palo rosa
 price: 95
-sku: "202"
-image: "/assets/images/products/Collar-Forma-de-Tulipan-Palo-rosa.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Collar Forma de Tulipán Palo rosa product image"
-category: "joyas"
+sku: '202'
+image: /assets/images/products/Collar-Forma-de-Tulipan-Palo-rosa.webp
+alt_text: Collar Forma de Tulipán Palo rosa product image
+category: joyas
 ---
 
 ## Descripción Corta

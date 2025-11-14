@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1620514680
 permalink: /products/shampoo-color-hair/
-title: "Shampoo Color Hair"
+title: Shampoo Color Hair
 price: 55
-sku: "254"
-image: "/assets/images/products/Shampoo-Color-Hair.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Shampoo Color Hair product image"
-category: "Belleza"
+sku: '254'
+image: /assets/images/products/Shampoo-Color-Hair.webp
+alt_text: Shampoo Color Hair product image
+category: Belleza
 ---
 
 ## Descripción Corta

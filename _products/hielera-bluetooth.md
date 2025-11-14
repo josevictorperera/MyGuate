@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 933618657
 permalink: /products/hielera-bluetooth/
-title: "Hielera Bluetooth"
+title: Hielera Bluetooth
 price: 200
-sku: "272"
-image: "/assets/images/products/Hielera-Bluetooth.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Hielera Bluetooth product image"
-category: "Hogar"
+sku: '272'
+image: /assets/images/products/Hielera-Bluetooth.webp
+alt_text: Hielera Bluetooth product image
+category: Hogar
 ---
 
 ## Descripción Corta

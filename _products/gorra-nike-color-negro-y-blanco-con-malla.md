@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1846745994
 permalink: /products/gorra-nike-color-negro-y-blanco-con-malla/
-title: "GORRA NIKE COLOR NEGRO Y BLANCO CON MALLA"
+title: GORRA NIKE COLOR NEGRO Y BLANCO CON MALLA
 price: 125
-sku: "325"
-image: "/assets/images/products/GORRA-NIKE-COLOR-NEGRO-Y-BLANCO-CON-MALLA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA NIKE COLOR NEGRO Y BLANCO CON MALLA product image"
-category: "Moda > Gorra"
+sku: '325'
+image: /assets/images/products/GORRA-NIKE-COLOR-NEGRO-Y-BLANCO-CON-MALLA.webp
+alt_text: GORRA NIKE COLOR NEGRO Y BLANCO CON MALLA product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

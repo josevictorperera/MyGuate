@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1077257473
 permalink: /products/parche-adelgazante-30unidades/
-title: "Parche Adelgazante 30unidades"
+title: Parche Adelgazante 30unidades
 price: 195
-sku: "292"
-image: "/assets/images/products/Parche-Adelgazante-30unidades.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Parche Adelgazante 30unidades product image"
-category: "Belleza"
+sku: '292'
+image: /assets/images/products/Parche-Adelgazante-30unidades.webp
+alt_text: Parche Adelgazante 30unidades product image
+category: Belleza
 ---
 
 ## Descripción Corta

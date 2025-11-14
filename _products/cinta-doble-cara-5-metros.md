@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 114160877
 permalink: /products/cinta-doble-cara-5-metros/
-title: "CINTA DOBLE CARA 5 METROS"
+title: CINTA DOBLE CARA 5 METROS
 price: 99
-sku: "103"
-image: "/assets/images/products/CINTA-DOBLE-CARA-5-METROS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CINTA DOBLE CARA 5 METROS product image"
-category: "Hogar"
+sku: '103'
+image: /assets/images/products/CINTA-DOBLE-CARA-5-METROS.webp
+alt_text: CINTA DOBLE CARA 5 METROS product image
+category: Hogar
 ---
 
 ## Descripción Corta

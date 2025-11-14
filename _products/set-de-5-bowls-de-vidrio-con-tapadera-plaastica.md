@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 319951161
 permalink: /products/set-de-5-bowls-de-vidrio-con-tapadera-plastica/
-title: "Set de 5 bowls de vidrio con tapadera Plástica"
+title: Set de 5 bowls de vidrio con tapadera Plástica
 price: 45
-sku: "223"
-image: "/assets/images/products/Set-de-5-bowls-de-vidrio-con-tapadera-Plastica.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Set de 5 bowls de vidrio con tapadera Plástica product image"
-category: "Hogar"
+sku: '223'
+image: /assets/images/products/Set-de-5-bowls-de-vidrio-con-tapadera-Plastica.webp
+alt_text: Set de 5 bowls de vidrio con tapadera Plástica product image
+category: Hogar
 ---
 
 ## Descripción Corta

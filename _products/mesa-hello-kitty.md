@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1427935763
 permalink: /products/mesa-hello-kitty/
-title: "Mesa Hello Kitty"
+title: Mesa Hello Kitty
 price: 200
-sku: "268"
-image: "/assets/images/products/Mesa-Hello-Kitty.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Mesa Hello Kitty product image"
-category: "Hogar ninios"
+sku: '268'
+image: /assets/images/products/Mesa-Hello-Kitty.webp
+alt_text: Mesa Hello Kitty product image
+category: Hogar ninios
 ---
 
 ## Descripción Corta

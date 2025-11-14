@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 947289693
 permalink: /products/gorra-tommy-color-amarillo-vicera-azul-con-malla/
-title: "GORRA TOMMY COLOR AMARILLO VICERA AZUL  CON MALLA"
+title: GORRA TOMMY COLOR AMARILLO VICERA AZUL  CON MALLA
 price: 125
-sku: "318"
-image: "/assets/images/products/GORRA-TOMMY-COLOR-AMARILLO-VICERA-AZUL-CON-MALLA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA TOMMY COLOR AMARILLO VICERA AZUL  CON MALLA product image"
-category: "Moda > Gorra"
+sku: '318'
+image: /assets/images/products/GORRA-TOMMY-COLOR-AMARILLO-VICERA-AZUL-CON-MALLA.webp
+alt_text: GORRA TOMMY COLOR AMARILLO VICERA AZUL  CON MALLA product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

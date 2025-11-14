@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 350724917
 permalink: /products/gorra-hugo-boss-color-blanco/
-title: "GORRA HUGO BOSS COLOR BLANCO"
+title: GORRA HUGO BOSS COLOR BLANCO
 price: 125
-sku: "351"
-image: "/assets/images/products/GORRA-HUGO-BOSS-COLOR-BLANCO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA HUGO BOSS COLOR BLANCO product image"
-category: "Moda > Gorra"
+sku: '351'
+image: /assets/images/products/GORRA-HUGO-BOSS-COLOR-BLANCO.webp
+alt_text: GORRA HUGO BOSS COLOR BLANCO product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

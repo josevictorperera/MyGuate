@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 964278930
 permalink: /products/carrito-organizador-5-canastas-cuadrado/
-title: "Carrito Organizador 5 Canastas Cuadrado."
+title: Carrito Organizador 5 Canastas Cuadrado.
 price: 245
-sku: "282"
-image: "/assets/images/products/Carrito-Organizador-5-Canastas-Cuadrado.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Carrito Organizador 5 Canastas Cuadrado. product image"
-category: "Hogar"
+sku: '282'
+image: /assets/images/products/Carrito-Organizador-5-Canastas-Cuadrado.webp
+alt_text: Carrito Organizador 5 Canastas Cuadrado. product image
+category: Hogar
 ---
 
 ## Descripción Corta

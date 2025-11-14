@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1614629070
 permalink: /products/crema-anti-acne-aloe-vera/
-title: "CREMA ANTI ACNÉ ALOE VERA"
+title: CREMA ANTI ACNÉ ALOE VERA
 price: 150
-sku: "183"
-image: "/assets/images/products/CREMA-ANTI-ACNE-ALOE-VERA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CREMA ANTI ACNÉ ALOE VERA product image"
-category: "Belleza"
+sku: '183'
+image: /assets/images/products/CREMA-ANTI-ACNE-ALOE-VERA.webp
+alt_text: CREMA ANTI ACNÉ ALOE VERA product image
+category: Belleza
 ---
 
 ## Descripción Corta

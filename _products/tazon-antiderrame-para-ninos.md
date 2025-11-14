@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1626883854
 permalink: /products/tazon-antiderrame-para-ninios/
-title: "TAZON ANTIDERRAME PARA NIÑOS"
+title: TAZON ANTIDERRAME PARA NIÑOS
 price: 99
-sku: "500"
-image: "/assets/images/products/TAZON-ANTIDERRAME-PARA-NINOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "TAZON ANTIDERRAME PARA NIÑOS product image"
-category: "bebe"
+sku: '500'
+image: /assets/images/products/TAZON-ANTIDERRAME-PARA-NINOS.webp
+alt_text: TAZON ANTIDERRAME PARA NIÑOS product image
+category: bebe
 ---
 
 ## Descripción Corta

@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 304523159
 permalink: /products/serum-crecimiento-de-pestanias-y-cejas-de-acido-hialuronico/
-title: "SERUM CRECIMIENTO DE PESTAÑAS Y CEJAS DE ACIDO HIALURONICO" # <-- UPDATE TITLE HERE
-price: 125 # <-- UPDATE PRICE HERE
-sku: "SKU-603" # <-- UPDATE SKU HERE
-image: "/assets/images/products/SERUM-CRECIMIENTO-DE-PESTANAS-Y-CEJAS-DE-ACIDO-HIALURONICO.webp" # <-- UPDATE IMAGE HERE
-alt_text: "Serum de Crecimiento de Pestañas product image"
-category: "Belleza"
+title: SERUM CRECIMIENTO DE PESTAÑAS Y CEJAS DE ACIDO HIALURONICO
+price: 125
+sku: SKU-603
+image: >-
+  /assets/images/products/SERUM-CRECIMIENTO-DE-PESTANAS-Y-CEJAS-DE-ACIDO-HIALURONICO.webp
+alt_text: Serum de Crecimiento de Pestañas product image
+category: Belleza
 ---
 
 ## Descripción Corta

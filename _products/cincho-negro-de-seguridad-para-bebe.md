@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1852817337
 permalink: /products/cincho-negro-de-seguridad-para-bebe/
-title: "CINCHO NEGRO DE SEGURIDAD PARA BEBE"
+title: CINCHO NEGRO DE SEGURIDAD PARA BEBE
 price: 95
-sku: "509"
-image: "/assets/images/products/CINCHO-NEGRO-DE-SEGURIDAD-PARA-BEBE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CINCHO NEGRO DE SEGURIDAD PARA BEBE product image"
-category: "bebe"
+sku: '509'
+image: /assets/images/products/CINCHO-NEGRO-DE-SEGURIDAD-PARA-BEBE.webp
+alt_text: CINCHO NEGRO DE SEGURIDAD PARA BEBE product image
+category: bebe
 ---
 
 ## Descripción Corta

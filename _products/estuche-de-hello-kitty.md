@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2005491374
 permalink: /products/estuche-de-hello-kitty/
-title: "ESTUCHE DE HELLO KITTY"
+title: ESTUCHE DE HELLO KITTY
 price: 99
-sku: "108"
-image: "/assets/images/products/ESTUCHE-DE-HELLO-KITTY.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ESTUCHE DE HELLO KITTY product image"
-category: "bebe Hogar"
+sku: '108'
+image: /assets/images/products/ESTUCHE-DE-HELLO-KITTY.webp
+alt_text: ESTUCHE DE HELLO KITTY product image
+category: bebe Hogar
 ---
 
 ## Descripción Corta

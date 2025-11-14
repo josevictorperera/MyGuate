@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 454153391
 permalink: /products/estante-de-almacenamiento-de-2-niveles/
-title: "ESTANTE DE ALMACENAMIENTO DE 2 NIVELES"
+title: ESTANTE DE ALMACENAMIENTO DE 2 NIVELES
 price: 99
-sku: "106"
-image: "/assets/images/products/ESTANTE-DE-ALMACENAMIENTO-DE-2-NIVELES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ESTANTE DE ALMACENAMIENTO DE 2 NIVELES product image"
-category: "Hogar"
+sku: '106'
+image: /assets/images/products/ESTANTE-DE-ALMACENAMIENTO-DE-2-NIVELES.webp
+alt_text: ESTANTE DE ALMACENAMIENTO DE 2 NIVELES product image
+category: Hogar
 ---
 
 ## Descripción Corta

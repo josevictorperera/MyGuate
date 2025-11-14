@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1132113108
 permalink: /products/crema-para-venas-varicosa/
-title: "CREMA PARA VENAS VARICOSA"
+title: CREMA PARA VENAS VARICOSA
 price: 125
-sku: "179"
-image: "/assets/images/products/CREMA-PARA-VENAS-VARICOSA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CREMA PARA VENAS VARICOSA product image"
-category: "Belleza"
+sku: '179'
+image: /assets/images/products/CREMA-PARA-VENAS-VARICOSA.webp
+alt_text: CREMA PARA VENAS VARICOSA product image
+category: Belleza
 ---
 
 ## Descripción Corta

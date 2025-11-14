@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1544850521
 permalink: /products/ventilador-enfriador-de-aire/
-title: "Ventilador enfriador de aire"
+title: Ventilador enfriador de aire
 price: 99
-sku: "247"
-image: "/assets/images/products/Ventilador-enfriador-de-aire.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Ventilador enfriador de aire product image"
-category: "Hogar"
+sku: '247'
+image: /assets/images/products/Ventilador-enfriador-de-aire.webp
+alt_text: Ventilador enfriador de aire product image
+category: Hogar
 ---
 
 ## Descripción Corta

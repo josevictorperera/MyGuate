@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1413705334
 permalink: /products/boxer-supreme-set-3-piezas-talla-xxl-colores-surtidos/
-title: "BOXER SUPREME SET 3 PIEZAS TALLA XXL COLORES SURTIDOS"
+title: BOXER SUPREME SET 3 PIEZAS TALLA XXL COLORES SURTIDOS
 price: 130
-sku: "450"
-image: "/assets/images/products/BOXER-SUPREME-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER SUPREME SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image"
-category: "Moda"
+sku: '450'
+image: >-
+  /assets/images/products/BOXER-SUPREME-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp
+alt_text: BOXER SUPREME SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

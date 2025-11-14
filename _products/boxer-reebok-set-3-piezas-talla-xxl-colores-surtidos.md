@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 454107213
 permalink: /products/boxer-reebok-set-3-piezas-talla-xxl-colores-surtidos/
-title: "BOXER REEBOK SET 3 PIEZAS TALLA XXL COLORES SURTIDOS"
+title: BOXER REEBOK SET 3 PIEZAS TALLA XXL COLORES SURTIDOS
 price: 130
-sku: "454"
-image: "/assets/images/products/BOXER-REEBOK-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER REEBOK SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image"
-category: "Moda"
+sku: '454'
+image: >-
+  /assets/images/products/BOXER-REEBOK-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp
+alt_text: BOXER REEBOK SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

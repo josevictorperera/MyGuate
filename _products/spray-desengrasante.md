@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1585056636
 permalink: /products/spray-desengrasante/
-title: "Spray desengrasante"
+title: Spray desengrasante
 price: 49
-sku: "252"
-image: "/assets/images/products/Spray-desengrasante.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Spray desengrasante product image"
-category: "Hogar"
+sku: '252'
+image: /assets/images/products/Spray-desengrasante.webp
+alt_text: Spray desengrasante product image
+category: Hogar
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 919775082
 permalink: /products/parasol-para-auto-plegable/
-title: "PARASOL PARA AUTO PLEGABLE"
+title: PARASOL PARA AUTO PLEGABLE
 price: 99
-sku: "119"
-image: "/assets/images/products/PARASOL-PARA-AUTO-PLEGABLE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PARASOL PARA AUTO PLEGABLE product image"
-category: "Autos"
+sku: '119'
+image: /assets/images/products/PARASOL-PARA-AUTO-PLEGABLE.webp
+alt_text: PARASOL PARA AUTO PLEGABLE product image
+category: Autos
 ---
 
 ## Descripción Corta

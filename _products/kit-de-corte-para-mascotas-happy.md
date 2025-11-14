@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 633000756
 permalink: /products/kit-de-corte-para-mascotas-happy/
-title: "KIT DE CORTE PARA MASCOTAS HAPPY"
+title: KIT DE CORTE PARA MASCOTAS HAPPY
 price: 150
-sku: "136"
-image: "/assets/images/products/Mascotas.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "KIT DE CORTE PARA MASCOTAS HAPPY product image"
-category: "Mascotas"
+sku: '136'
+image: /assets/images/products/Mascotas.webp
+alt_text: KIT DE CORTE PARA MASCOTAS HAPPY product image
+category: Mascotas
 ---
 
 ## Descripción Corta

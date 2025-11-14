@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1755772725
 permalink: /products/soporte-para-organizar-utensilios-de-limpieza/
-title: "SOPORTE PARA ORGANIZAR UTENSILIOS DE LIMPIEZA"
+title: SOPORTE PARA ORGANIZAR UTENSILIOS DE LIMPIEZA
 price: 99
-sku: "127"
-image: "/assets/images/products/SOPORTE-PARA-ORGANIZAR-UTENSILIOS-DE-LIMPIEZA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SOPORTE PARA ORGANIZAR UTENSILIOS DE LIMPIEZA product image"
-category: "Hogar"
+sku: '127'
+image: /assets/images/products/SOPORTE-PARA-ORGANIZAR-UTENSILIOS-DE-LIMPIEZA.webp
+alt_text: SOPORTE PARA ORGANIZAR UTENSILIOS DE LIMPIEZA product image
+category: Hogar
 ---
 
 ## Descripción Corta

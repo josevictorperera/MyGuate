@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 46917004
 permalink: /products/parches-desintoxicantes/
-title: "PARCHES DESINTOXICANTES"
+title: PARCHES DESINTOXICANTES
 price: 175
-sku: "160"
-image: "/assets/images/products/PARCHES-DESINTOXICANTES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PARCHES DESINTOXICANTES product image"
-category: "Belleza"
+sku: '160'
+image: /assets/images/products/PARCHES-DESINTOXICANTES.webp
+alt_text: PARCHES DESINTOXICANTES product image
+category: Belleza
 ---
 
 ## Descripción Corta

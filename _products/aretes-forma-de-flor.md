@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1176499264
 permalink: /products/aretes-forma-de-flor/
-title: "Aretes Forma de Flor"
+title: Aretes Forma de Flor
 price: 95
-sku: "219"
-image: "/assets/images/products/Aretes-Forma-de-Flor.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Aretes Forma de Flor product image"
-category: "joyas"
+sku: '219'
+image: /assets/images/products/Aretes-Forma-de-Flor.webp
+alt_text: Aretes Forma de Flor product image
+category: joyas
 ---
 
 ## Descripción Corta

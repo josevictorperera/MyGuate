@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 646244323
 permalink: /products/anti-mosquitos-celeste/
-title: "Anti Mosquitos Celeste"
+title: Anti Mosquitos Celeste
 price: 225
-sku: "301"
-image: "/assets/images/products/Anti-Mosquitos-Celeste.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Anti Mosquitos Celeste product image"
-category: "Hogar"
+sku: '301'
+image: /assets/images/products/Anti-Mosquitos-Celeste.webp
+alt_text: Anti Mosquitos Celeste product image
+category: Hogar
 ---
 
 ## Descripción Corta

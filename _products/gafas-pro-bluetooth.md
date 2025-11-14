@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1080607495
 permalink: /products/gafas-pro-bluetooth/
-title: "GAFAS PRO BLUETOOTH"
+title: GAFAS PRO BLUETOOTH
 price: 200
-sku: "295"
-image: "/assets/images/products/GAFAS-PRO-BLUETOOTH.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GAFAS PRO BLUETOOTH product image"
-category: "accesorios"
+sku: '295'
+image: /assets/images/products/GAFAS-PRO-BLUETOOTH.webp
+alt_text: GAFAS PRO BLUETOOTH product image
+category: accesorios
 ---
 
 ## Descripción Corta

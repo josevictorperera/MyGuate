@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 195854512
 permalink: /products/parches-reductores-de-abdomen/
-title: "PARCHES REDUCTORES DE ABDOMEN"
+title: PARCHES REDUCTORES DE ABDOMEN
 price: 135
-sku: "158"
-image: "/assets/images/products/PARCHES-REDUCTORES-DE-ABDOMEN.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PARCHES REDUCTORES DE ABDOMEN product image"
-category: "Belleza"
+sku: '158'
+image: /assets/images/products/PARCHES-REDUCTORES-DE-ABDOMEN.webp
+alt_text: PARCHES REDUCTORES DE ABDOMEN product image
+category: Belleza
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 642231371
 permalink: /products/aislamiento-para-debajo-de-la-puerta/
-title: "Aislamiento para debajo de la puerta"
+title: Aislamiento para debajo de la puerta
 price: 100
-sku: "285"
-image: "/assets/images/products/Aislamiento-para-debajo-de-la-puerta.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Aislamiento para debajo de la puerta product image"
-category: "Hogar"
+sku: '285'
+image: /assets/images/products/Aislamiento-para-debajo-de-la-puerta.webp
+alt_text: Aislamiento para debajo de la puerta product image
+category: Hogar
 ---
 
 ## Descripción Corta

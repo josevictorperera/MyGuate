@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 177436116
 permalink: /products/tabla-para-picar-4-en-1/
-title: "Tabla para Picar 4 en 1"
+title: Tabla para Picar 4 en 1
 price: 150
-sku: "249"
-image: "/assets/images/products/Tabla-para-Picar-4-en-1.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Tabla para Picar 4 en 1 product image"
-category: "Hogar"
+sku: '249'
+image: /assets/images/products/Tabla-para-Picar-4-en-1.webp
+alt_text: Tabla para Picar 4 en 1 product image
+category: Hogar
 ---
 
 ## Descripción Corta

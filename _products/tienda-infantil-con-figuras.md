@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 242991322
 permalink: /products/tienda-infantil-con-figuras/
-title: "TIENDA INFANTIL CON FIGURAS"
+title: TIENDA INFANTIL CON FIGURAS
 price: 99
-sku: "129"
-image: "/assets/images/products/TIENDA-INFANTIL-CON-FIGURAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "TIENDA INFANTIL CON FIGURAS product image"
-category: "bebe Hogar"
+sku: '129'
+image: /assets/images/products/TIENDA-INFANTIL-CON-FIGURAS.webp
+alt_text: TIENDA INFANTIL CON FIGURAS product image
+category: bebe Hogar
 ---
 
 ## Descripción Corta

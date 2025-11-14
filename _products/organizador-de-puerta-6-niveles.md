@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1085098238
 permalink: /products/organizador-de-puerta-6-niveles/
-title: "ORGANIZADOR DE PUERTA 6 NIVELES"
+title: ORGANIZADOR DE PUERTA 6 NIVELES
 price: 450
-sku: "113"
-image: "/assets/images/products/ORGANIZADOR-DE-PUERTA-6-NIVELES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ORGANIZADOR DE PUERTA 6 NIVELES product image"
-category: "Hogar"
+sku: '113'
+image: /assets/images/products/ORGANIZADOR-DE-PUERTA-6-NIVELES.webp
+alt_text: ORGANIZADOR DE PUERTA 6 NIVELES product image
+category: Hogar
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 710338694
 permalink: /products/masajeador-de-silicona-para-ducha-color-turquesa/
-title: "Masajeador de silicona para ducha color Turquesa"
+title: Masajeador de silicona para ducha color Turquesa
 price: 25
-sku: "232"
-image: "/assets/images/products/Masajeador-de-silicona-para-ducha-color-Turquesa.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Masajeador de silicona para ducha color Turquesa product image"
-category: "Hogar"
+sku: '232'
+image: /assets/images/products/Masajeador-de-silicona-para-ducha-color-Turquesa.webp
+alt_text: Masajeador de silicona para ducha color Turquesa product image
+category: Hogar
 ---
 
 ## Descripción Corta

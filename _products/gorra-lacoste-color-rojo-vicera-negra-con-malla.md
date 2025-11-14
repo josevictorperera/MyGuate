@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 678284372
 permalink: /products/gorra-lacoste-color-rojo-vicera-negra-con-malla/
-title: "GORRA LACOSTE COLOR ROJO VICERA NEGRA  CON MALLA"
+title: GORRA LACOSTE COLOR ROJO VICERA NEGRA  CON MALLA
 price: 125
-sku: "337"
-image: "/assets/images/products/GORRA-LACOSTE-COLOR-ROJO-VICERA-NEGRA-CON-MALLA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA LACOSTE COLOR ROJO VICERA NEGRA  CON MALLA product image"
-category: "Moda > Gorra"
+sku: '337'
+image: /assets/images/products/GORRA-LACOSTE-COLOR-ROJO-VICERA-NEGRA-CON-MALLA.webp
+alt_text: GORRA LACOSTE COLOR ROJO VICERA NEGRA  CON MALLA product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

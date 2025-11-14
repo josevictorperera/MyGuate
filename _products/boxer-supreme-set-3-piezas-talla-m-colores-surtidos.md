@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1073015751
 permalink: /products/boxer-supreme-set-3-piezas-talla-m-colores-surtidos/
-title: "BOXER SUPREME SET 3 PIEZAS TALLA M COLORES SURTIDOS"
+title: BOXER SUPREME SET 3 PIEZAS TALLA M COLORES SURTIDOS
 price: 130
-sku: "452"
-image: "/assets/images/products/BOXER-SUPREME-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER SUPREME SET 3 PIEZAS TALLA M COLORES SURTIDOS product image"
-category: "Moda"
+sku: '452'
+image: >-
+  /assets/images/products/BOXER-SUPREME-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp
+alt_text: BOXER SUPREME SET 3 PIEZAS TALLA M COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1256590637
 permalink: /products/restaurador-de-plastico/
-title: "Restaurador de plastico"
+title: Restaurador de plastico
 price: 150
-sku: "257"
-image: "/assets/images/products/Restaurador-de-plastico.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Restaurador de plastico product image"
-category: "Ferretería"
+sku: '257'
+image: /assets/images/products/Restaurador-de-plastico.webp
+alt_text: Restaurador de plastico product image
+category: Ferretería
 ---
 
 ## Descripción Corta

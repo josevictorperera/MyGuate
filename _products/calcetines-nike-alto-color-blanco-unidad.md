@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1394276198
 permalink: /products/calcetines-nike-alto-color-blanco-unidad/
-title: "CALCETINES NIKE ALTO COLOR BLANCO (UNIDAD)"
+title: CALCETINES NIKE ALTO COLOR BLANCO (UNIDAD)
 price: 20
-sku: "427"
-image: "/assets/images/products/CALCETINES-NIKE-ALTO-COLOR-BLANCO-UNIDAD.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES NIKE ALTO COLOR BLANCO (UNIDAD) product image"
-category: "Moda"
+sku: '427'
+image: /assets/images/products/CALCETINES-NIKE-ALTO-COLOR-BLANCO-UNIDAD.webp
+alt_text: CALCETINES NIKE ALTO COLOR BLANCO (UNIDAD) product image
+category: Moda
 ---
 
 ## Descripción Corta

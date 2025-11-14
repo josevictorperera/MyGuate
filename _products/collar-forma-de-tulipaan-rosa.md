@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1094183846
 permalink: /products/collar-forma-de-tulipan-rosa/
-title: "Collar Forma de Tulipán rosa"
+title: Collar Forma de Tulipán rosa
 price: 95
-sku: "201"
-image: "/assets/images/products/Collar-Forma-de-Tulipan-rosa.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Collar Forma de Tulipán rosa product image"
-category: "joyas"
+sku: '201'
+image: /assets/images/products/Collar-Forma-de-Tulipan-rosa.webp
+alt_text: Collar Forma de Tulipán rosa product image
+category: joyas
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2102435949
 permalink: /products/cinturon-de-seguridad-infantil/
-title: "CINTURÓN DE SEGURIDAD INFANTIL"
+title: CINTURÓN DE SEGURIDAD INFANTIL
 price: 99
-sku: "508"
-image: "/assets/images/products/CINTURON-DE-SEGURIDAD-INFANTIL.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CINTURÓN DE SEGURIDAD INFANTIL product image"
-category: "bebe"
+sku: '508'
+image: /assets/images/products/CINTURON-DE-SEGURIDAD-INFANTIL.webp
+alt_text: CINTURÓN DE SEGURIDAD INFANTIL product image
+category: bebe
 ---
 
 ## Descripción Corta

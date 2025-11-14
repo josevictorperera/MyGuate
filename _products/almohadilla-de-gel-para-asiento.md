@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 949065032
 permalink: /products/almohadilla-de-gel-para-asiento/
-title: "ALMOHADILLA DE GEL PARA ASIENTO"
+title: ALMOHADILLA DE GEL PARA ASIENTO
 price: 99
-sku: "100"
-image: "/assets/images/products/ALMOHADILLA-DE-GEL-PARA-ASIENTO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ALMOHADILLA DE GEL PARA ASIENTO product image"
-category: "Autos"
+sku: '100'
+image: /assets/images/products/ALMOHADILLA-DE-GEL-PARA-ASIENTO.webp
+alt_text: ALMOHADILLA DE GEL PARA ASIENTO product image
+category: Autos
 ---
 
 ## Descripción Corta

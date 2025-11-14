@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1506680899
 permalink: /products/nicer-dicer-plus-verde/
-title: "Nicer Dicer Plus Verde"
+title: Nicer Dicer Plus Verde
 price: 250
-sku: "261"
-image: "/assets/images/products/Nicer-Dicer-Plus-Verde.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Nicer Dicer Plus Verde product image"
-category: "Hogar"
+sku: '261'
+image: /assets/images/products/Nicer-Dicer-Plus-Verde.webp
+alt_text: Nicer Dicer Plus Verde product image
+category: Hogar
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 743009856
 permalink: /products/gorra-tommy-color-celeste/
-title: "GORRA TOMMY COLOR CELESTE"
+title: GORRA TOMMY COLOR CELESTE
 price: 125
-sku: "311"
-image: "/assets/images/products/GORRA-TOMMY-COLOR-CELESTE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA TOMMY COLOR CELESTE product image"
-category: "Moda > Gorra"
+sku: '311'
+image: /assets/images/products/GORRA-TOMMY-COLOR-CELESTE.webp
+alt_text: GORRA TOMMY COLOR CELESTE product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

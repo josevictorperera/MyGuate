@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 889727603
 permalink: /products/cepillos-para-la-higiene-del-bebe/
-title: "CEPILLOS PARA LA HIGIENE DEL BEBE"
+title: CEPILLOS PARA LA HIGIENE DEL BEBE
 price: 99
-sku: "510"
-image: "/assets/images/products/CEPILLOS-PARA-LA-HIGIENE-DEL-BEBE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CEPILLOS PARA LA HIGIENE DEL BEBE product image"
-category: "bebe"
+sku: '510'
+image: /assets/images/products/CEPILLOS-PARA-LA-HIGIENE-DEL-BEBE.webp
+alt_text: CEPILLOS PARA LA HIGIENE DEL BEBE product image
+category: bebe
 ---
 
 ## Descripción Corta

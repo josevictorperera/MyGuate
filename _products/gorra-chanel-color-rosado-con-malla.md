@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 66678951
 permalink: /products/gorra-chanel-color-rosado-con-malla/
-title: "GORRA CHANEL COLOR ROSADO CON MALLA"
+title: GORRA CHANEL COLOR ROSADO CON MALLA
 price: 125
-sku: "369"
-image: "/assets/images/products/GORRA-CHANEL-COLOR-ROSADO-CON-MALLA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA CHANEL COLOR ROSADO CON MALLA product image"
-category: "Moda > Gorra"
+sku: '369'
+image: /assets/images/products/GORRA-CHANEL-COLOR-ROSADO-CON-MALLA.webp
+alt_text: GORRA CHANEL COLOR ROSADO CON MALLA product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

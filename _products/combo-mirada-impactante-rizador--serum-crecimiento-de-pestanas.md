@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1364311377
 permalink: /products/combo-mirada-impactante-rizador--serum-crecimiento-de-pestanias/
-title: "COMBO MIRADA IMPACTANTE RIZADOR + SERUM CRECIMIENTO DE PESTAÑAS"
+title: COMBO MIRADA IMPACTANTE RIZADOR + SERUM CRECIMIENTO DE PESTAÑAS
 price: 175
-sku: "188"
-image: "/assets/images/products/COMBO-MIRADA-IMPACTANTE-RIZADOR-SERUM-CRECIMEINTO-DE-PESTANAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "COMBO MIRADA IMPACTANTE RIZADOR + SERUM CRECIMIENTO DE PESTAÑAS product image"
-category: "Belleza"
+sku: '188'
+image: >-
+  /assets/images/products/COMBO-MIRADA-IMPACTANTE-RIZADOR-SERUM-CRECIMEINTO-DE-PESTANAS.webp
+alt_text: COMBO MIRADA IMPACTANTE RIZADOR + SERUM CRECIMIENTO DE PESTAÑAS product image
+category: Belleza
 ---
 
 ## Descripción Corta

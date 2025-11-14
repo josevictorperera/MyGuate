@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1989258215
 permalink: /products/tina-plegable/
-title: "Tina Plegable"
+title: Tina Plegable
 price: 400
-sku: "248"
-image: "/assets/images/products/Tina-Plegable.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Tina Plegable product image"
-category: "Hogar"
+sku: '248'
+image: /assets/images/products/Tina-Plegable.webp
+alt_text: Tina Plegable product image
+category: Hogar
 ---
 
 ## Descripción Corta

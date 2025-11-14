@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1799047739
 permalink: /products/gorra-psycho-bunny-color-verde-esmeralda/
-title: "GORRA PSYCHO BUNNY COLOR VERDE ESMERALDA"
+title: GORRA PSYCHO BUNNY COLOR VERDE ESMERALDA
 price: 125
-sku: "319"
-image: "/assets/images/products/GORRA-PSYCHO-BUNNY-COLOR-VERDE-ESMERALDA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA PSYCHO BUNNY COLOR VERDE ESMERALDA product image"
-category: "Moda > Gorra"
+sku: '319'
+image: /assets/images/products/GORRA-PSYCHO-BUNNY-COLOR-VERDE-ESMERALDA.webp
+alt_text: GORRA PSYCHO BUNNY COLOR VERDE ESMERALDA product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

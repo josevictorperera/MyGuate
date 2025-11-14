@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 977402642
 permalink: /products/limpiador-facial-ultrasonico/
-title: "LIMPIADOR FACIAL ULTRASÓNICO"
+title: LIMPIADOR FACIAL ULTRASÓNICO
 price: 225
-sku: "170"
-image: "/assets/images/products/LIMPIADOR-FACIAL-ULTRASONICO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "LIMPIADOR FACIAL ULTRASÓNICO product image"
-category: "Belleza"
+sku: '170'
+image: /assets/images/products/LIMPIADOR-FACIAL-ULTRASONICO.webp
+alt_text: LIMPIADOR FACIAL ULTRASÓNICO product image
+category: Belleza
 ---
 
 ## Descripción Corta

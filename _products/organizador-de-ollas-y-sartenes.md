@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 405115578
 permalink: /products/organizador-de-ollas-y-sartenes/
-title: "ORGANIZADOR DE OLLAS Y SARTENES"
+title: ORGANIZADOR DE OLLAS Y SARTENES
 price: 150
-sku: "139"
-image: "/assets/images/products/organizaOLLAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ORGANIZADOR DE OLLAS Y SARTENES product image"
-category: "Hogar"
+sku: '139'
+image: /assets/images/products/organizaOLLAS.webp
+alt_text: ORGANIZADOR DE OLLAS Y SARTENES product image
+category: Hogar
 ---
 
 ## Descripción Corta

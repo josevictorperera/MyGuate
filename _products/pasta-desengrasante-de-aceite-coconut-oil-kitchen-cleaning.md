@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1967277366
 permalink: /products/pasta-desengrasante-de-aceite-coconut-oil-kitchen-cleaning/
-title: "PASTA DESENGRASANTE DE ACEITE COCONUT OIL KITCHEN CLEANING"
+title: PASTA DESENGRASANTE DE ACEITE COCONUT OIL KITCHEN CLEANING
 price: 125
-sku: "156"
-image: "/assets/images/products/PASTA-DESENGRASANTE-DE-ACEITE-COCONUT-OIL-KITCHEN-CLEANING.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PASTA DESENGRASANTE DE ACEITE COCONUT OIL KITCHEN CLEANING product image"
-category: "Hogar"
+sku: '156'
+image: >-
+  /assets/images/products/PASTA-DESENGRASANTE-DE-ACEITE-COCONUT-OIL-KITCHEN-CLEANING.webp
+alt_text: PASTA DESENGRASANTE DE ACEITE COCONUT OIL KITCHEN CLEANING product image
+category: Hogar
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1225429427
 permalink: /products/soplador-manual/
-title: "Soplador Manual"
+title: Soplador Manual
 price: 175
-sku: "288"
-image: "/assets/images/products/Soplador-Manual.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Soplador Manual product image"
-category: "Hogar"
+sku: '288'
+image: /assets/images/products/Soplador-Manual.webp
+alt_text: Soplador Manual product image
+category: Hogar
 ---
 
 ## Descripción Corta

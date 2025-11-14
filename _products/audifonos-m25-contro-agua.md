@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1605984314
 permalink: /products/audifonos-m25-contro-agua/
-title: "Audifonos M25 Contro Agua"
+title: Audifonos M25 Contro Agua
 price: 250
-sku: "299"
-image: "/assets/images/products/Audifonos-M25-Contro-Agua.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Audifonos M25 Contro Agua product image"
-category: "Electrónica"
+sku: '299'
+image: /assets/images/products/Audifonos-M25-Contro-Agua.webp
+alt_text: Audifonos M25 Contro Agua product image
+category: Electrónica
 ---
 
 ## Descripción Corta

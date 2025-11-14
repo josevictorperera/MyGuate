@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2141256584
 permalink: /products/candados-de-seguridad-para-bebe/
-title: "CANDADOS DE SEGURIDAD PARA BEBE"
+title: CANDADOS DE SEGURIDAD PARA BEBE
 price: 99
-sku: "512"
-image: "/assets/images/products/CANDADOS-DE-SEGURIDAD-PARA-BEBE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CANDADOS DE SEGURIDAD PARA BEBE product image"
-category: "bebe"
+sku: '512'
+image: /assets/images/products/CANDADOS-DE-SEGURIDAD-PARA-BEBE.webp
+alt_text: CANDADOS DE SEGURIDAD PARA BEBE product image
+category: bebe
 ---
 
 ## Descripción Corta

@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1182334805
 permalink: /products/parches-invisibles-para-el-acne-impermeables-72-unidades/
-title: "PARCHES INVISIBLES PARA EL ACNÉ IMPERMEABLES 72 UNIDADES"
+title: PARCHES INVISIBLES PARA EL ACNÉ IMPERMEABLES 72 UNIDADES
 price: 199
-sku: "159"
-image: "/assets/images/products/PARCHES-INVISIBLES-PARA-EL-ACNE-IMPERMIABLES-72-UNIDADES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PARCHES INVISIBLES PARA EL ACNÉ IMPERMEABLES 72 UNIDADES product image"
-category: "Belleza"
+sku: '159'
+image: >-
+  /assets/images/products/PARCHES-INVISIBLES-PARA-EL-ACNE-IMPERMIABLES-72-UNIDADES.webp
+alt_text: PARCHES INVISIBLES PARA EL ACNÉ IMPERMEABLES 72 UNIDADES product image
+category: Belleza
 ---
 
 ## Descripción Corta

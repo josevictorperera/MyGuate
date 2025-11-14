@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1635611826
 permalink: /products/boxer-calvin-klein-set-3-piezas-talla-xxl-colores-surtidos/
-title: "BOXER CALVIN KLEIN SET 3 PIEZAS TALLA XXL COLORES SURTIDOS"
+title: BOXER CALVIN KLEIN SET 3 PIEZAS TALLA XXL COLORES SURTIDOS
 price: 130
-sku: "477"
-image: "/assets/images/products/BOXER-CALVIN-KLEIN-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER CALVIN KLEIN SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image"
-category: "Moda"
+sku: '477'
+image: >-
+  /assets/images/products/BOXER-CALVIN-KLEIN-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp
+alt_text: BOXER CALVIN KLEIN SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1964998017
 permalink: /products/calcetines-nike-cortos-color-negro-con-gris-unidad/
-title: "CALCETINES NIKE CORTOS COLOR NEGRO CON GRIS (UNIDAD)"
+title: CALCETINES NIKE CORTOS COLOR NEGRO CON GRIS (UNIDAD)
 price: 20
-sku: "418"
-image: "/assets/images/products/CALCETINES-NIKE-CORTOS-COLOR-NEGRO-CON-GRIS-UNIDAD.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES NIKE CORTOS COLOR NEGRO CON GRIS (UNIDAD) product image"
-category: "Moda"
+sku: '418'
+image: >-
+  /assets/images/products/CALCETINES-NIKE-CORTOS-COLOR-NEGRO-CON-GRIS-UNIDAD.webp
+alt_text: CALCETINES NIKE CORTOS COLOR NEGRO CON GRIS (UNIDAD) product image
+category: Moda
 ---
 
 ## Descripción Corta

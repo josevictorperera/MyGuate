@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 245265793
 permalink: /products/gorra-fendy-color-negro-con-blanco/
-title: "GORRA FENDY COLOR NEGRO CON BLANCO"
+title: GORRA FENDY COLOR NEGRO CON BLANCO
 price: 125
-sku: "362"
-image: "/assets/images/products/GORRA-FENDY-COLOR-NEGRO-CON-BLANCO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA FENDY COLOR NEGRO CON BLANCO product image"
-category: "Moda > Gorra"
+sku: '362'
+image: /assets/images/products/GORRA-FENDY-COLOR-NEGRO-CON-BLANCO.webp
+alt_text: GORRA FENDY COLOR NEGRO CON BLANCO product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

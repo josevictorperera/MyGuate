@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1179463131
 permalink: /products/epoxico/
-title: "Epóxico"
+title: Epóxico
 price: 45
-sku: "276"
-image: "/assets/images/products/Epoxico.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Epóxico product image"
-category: "Ferretería Hogar"
+sku: '276'
+image: /assets/images/products/Epoxico.webp
+alt_text: Epóxico product image
+category: Ferretería Hogar
 ---
 
 ## Descripción Corta

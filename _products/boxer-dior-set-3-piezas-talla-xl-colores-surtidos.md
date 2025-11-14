@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1165795115
 permalink: /products/boxer-dior-set-3-piezas-talla-xl-colores-surtidos/
-title: "BOXER DIOR SET 3 PIEZAS TALLA XL COLORES SURTIDOS"
+title: BOXER DIOR SET 3 PIEZAS TALLA XL COLORES SURTIDOS
 price: 130
-sku: "470"
-image: "/assets/images/products/BOXER-DIOR-SET-3-PIEZAS-TALLA-XL-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER DIOR SET 3 PIEZAS TALLA XL COLORES SURTIDOS product image"
-category: "Moda"
+sku: '470'
+image: /assets/images/products/BOXER-DIOR-SET-3-PIEZAS-TALLA-XL-COLORES-SURTIDOS.webp
+alt_text: BOXER DIOR SET 3 PIEZAS TALLA XL COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

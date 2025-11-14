@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1043090800
 permalink: /products/doblador-de-pestanias-verde/
-title: "Doblador de Pestañas Verde"
+title: Doblador de Pestañas Verde
 price: 190
-sku: "296"
-image: "/assets/images/products/Doblador-de-Pestanas-Verde.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Doblador de Pestañas Verde product image"
-category: "Belleza"
+sku: '296'
+image: /assets/images/products/Doblador-de-Pestanas-Verde.webp
+alt_text: Doblador de Pestañas Verde product image
+category: Belleza
 ---
 
 ## Descripción Corta

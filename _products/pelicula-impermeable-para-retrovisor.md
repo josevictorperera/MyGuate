@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 949736032
 permalink: /products/pelicula-impermeable-para-retrovisor/
-title: "PELÍCULA IMPERMEABLE PARA RETROVISOR"
+title: PELÍCULA IMPERMEABLE PARA RETROVISOR
 price: 99
-sku: "524"
-image: "/assets/images/products/PELICULA-IMPERMEBLE-PARA-RETROVISOR.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PELÍCULA IMPERMEABLE PARA RETROVISOR product image"
-category: "Autos"
+sku: '524'
+image: /assets/images/products/PELICULA-IMPERMEBLE-PARA-RETROVISOR.webp
+alt_text: PELÍCULA IMPERMEABLE PARA RETROVISOR product image
+category: Autos
 ---
 
 ## Descripción Corta

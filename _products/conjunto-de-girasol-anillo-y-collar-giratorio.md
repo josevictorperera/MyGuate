@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1315005887
 permalink: /products/conjunto-de-girasol-anillo-y-collar-giratorio/
-title: "Conjunto de Girasol anillo y collar Giratorio"
+title: Conjunto de Girasol anillo y collar Giratorio
 price: 145
-sku: "198"
-image: "/assets/images/products/Conjunto-de-Girasol-anillo-y-collar-Giratorio.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Conjunto de Girasol anillo y collar Giratorio product image"
-category: "joyas"
+sku: '198'
+image: /assets/images/products/Conjunto-de-Girasol-anillo-y-collar-Giratorio.webp
+alt_text: Conjunto de Girasol anillo y collar Giratorio product image
+category: joyas
 ---
 
 ## Descripción Corta

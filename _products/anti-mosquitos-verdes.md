@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1619241657
 permalink: /products/anti-mosquitos-verdes/
-title: "Anti Mosquitos Verdes"
+title: Anti Mosquitos Verdes
 price: 225
-sku: "300"
-image: "/assets/images/products/Anti-Mosquitos-Verdes.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Anti Mosquitos Verdes product image"
-category: "Hogar"
+sku: '300'
+image: /assets/images/products/Anti-Mosquitos-Verdes.webp
+alt_text: Anti Mosquitos Verdes product image
+category: Hogar
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1929005244
 permalink: /products/gorra-buberry-color-azul/
-title: "GORRA BUBERRY COLOR AZUL"
+title: GORRA BUBERRY COLOR AZUL
 price: 125
-sku: "378"
-image: "/assets/images/products/GORRA-BUBERRY-COLOR-AZUL.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA BUBERRY COLOR AZUL product image"
-category: "Moda > Gorra"
+sku: '378'
+image: /assets/images/products/GORRA-BUBERRY-COLOR-AZUL.webp
+alt_text: GORRA BUBERRY COLOR AZUL product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

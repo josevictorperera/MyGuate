@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1908026009
 permalink: /products/parches-termicos-para-colicos-menstruales/
-title: "PARCHES TÉRMICOS PARA CÓLICOS MENSTRUALES"
+title: PARCHES TÉRMICOS PARA CÓLICOS MENSTRUALES
 price: 199
-sku: "157"
-image: "/assets/images/products/PARCHES-TERMICOS-PARA-COLICOS-MENSTRUALES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PARCHES TÉRMICOS PARA CÓLICOS MENSTRUALES product image"
-category: "Salud"
+sku: '157'
+image: /assets/images/products/PARCHES-TERMICOS-PARA-COLICOS-MENSTRUALES.webp
+alt_text: PARCHES TÉRMICOS PARA CÓLICOS MENSTRUALES product image
+category: Salud
 ---
 
 ## Descripción Corta

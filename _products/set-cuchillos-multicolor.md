@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 244554470
 permalink: /products/set-cuchillos-multicolor/
-title: "SET CUCHILLOS MULTICOLOR"
+title: SET CUCHILLOS MULTICOLOR
 price: 100
-sku: "142"
-image: "/assets/images/products/cuchillos.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SET CUCHILLOS MULTICOLOR product image"
-category: "Hogar"
+sku: '142'
+image: /assets/images/products/cuchillos.webp
+alt_text: SET CUCHILLOS MULTICOLOR product image
+category: Hogar
 ---
 
 ## Descripción Corta

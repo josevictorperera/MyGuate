@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 965280990
 permalink: /products/espuma-multi-usos/
-title: "Espuma multi-usos"
+title: Espuma multi-usos
 price: 55
-sku: "275"
-image: "/assets/images/products/Espuma-multi-usos.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Espuma multi-usos product image"
-category: "Hogar"
+sku: '275'
+image: /assets/images/products/Espuma-multi-usos.webp
+alt_text: Espuma multi-usos product image
+category: Hogar
 ---
 
 ## Descripción Corta

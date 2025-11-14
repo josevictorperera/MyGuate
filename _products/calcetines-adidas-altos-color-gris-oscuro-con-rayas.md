@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 478285806
 permalink: /products/calcetines-adidas-altos-color-gris-oscuro-con-rayas/
-title: "CALCETINES ADIDAS ALTOS COLOR GRIS OSCURO CON RAYAS"
+title: CALCETINES ADIDAS ALTOS COLOR GRIS OSCURO CON RAYAS
 price: 20
-sku: "441"
-image: "/assets/images/products/CALCETINES-ADIDAS-ALTOS-COLOR-GRIS-OSCURO-CON-RAYAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES ADIDAS ALTOS COLOR GRIS OSCURO CON RAYAS product image"
-category: "Moda"
+sku: '441'
+image: >-
+  /assets/images/products/CALCETINES-ADIDAS-ALTOS-COLOR-GRIS-OSCURO-CON-RAYAS.webp
+alt_text: CALCETINES ADIDAS ALTOS COLOR GRIS OSCURO CON RAYAS product image
+category: Moda
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2100970242
 permalink: /products/ukulele---cuatro-para-ninio/
-title: "UKULELE - CUATRO PARA NIÑO"
+title: UKULELE - CUATRO PARA NIÑO
 price: 240
-sku: "143"
-image: "/assets/images/products/UKULELE-CUATRO-PARA-NINO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "UKULELE - CUATRO PARA NIÑO product image"
-category: "ninios"
+sku: '143'
+image: /assets/images/products/UKULELE-CUATRO-PARA-NINO.webp
+alt_text: UKULELE - CUATRO PARA NIÑO product image
+category: ninios
 ---
 
 ## Descripción Corta

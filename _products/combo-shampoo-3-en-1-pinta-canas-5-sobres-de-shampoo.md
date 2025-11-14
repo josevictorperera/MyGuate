@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1695388439
 permalink: /products/combo-shampoo-3-en-1-pinta-canas-5-sobres-de-shampoo/
-title: "COMBO SHAMPOO 3 EN 1 PINTA CANAS  5 SOBRES DE SHAMPOO"
+title: COMBO SHAMPOO 3 EN 1 PINTA CANAS  5 SOBRES DE SHAMPOO
 price: 125
-sku: "187"
-image: "/assets/images/products/COMBO-SHAMPOO-3-EN-1-PINTA-CANAS-5-SOBRES-DE-SHAMPOO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "COMBO SHAMPOO 3 EN 1 PINTA CANAS  5 SOBRES DE SHAMPOO product image"
-category: "Belleza"
+sku: '187'
+image: >-
+  /assets/images/products/COMBO-SHAMPOO-3-EN-1-PINTA-CANAS-5-SOBRES-DE-SHAMPOO.webp
+alt_text: COMBO SHAMPOO 3 EN 1 PINTA CANAS  5 SOBRES DE SHAMPOO product image
+category: Belleza
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1611233696
 permalink: /products/mochila-hoalida/
-title: "Mochila HOALIDA"
+title: Mochila HOALIDA
 price: 200
-sku: "264"
-image: "/assets/images/products/Mochila-HOALIDA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Mochila HOALIDA product image"
-category: "Hogar ninios"
+sku: '264'
+image: /assets/images/products/Mochila-HOALIDA.webp
+alt_text: Mochila HOALIDA product image
+category: Hogar ninios
 ---
 
 ## Descripción Corta

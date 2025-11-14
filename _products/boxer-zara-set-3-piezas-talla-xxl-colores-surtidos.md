@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1586932861
 permalink: /products/boxer-zara-set-3-piezas-talla-xxl-colores-surtidos/
-title: "BOXER ZARA SET 3 PIEZAS TALLA XXL COLORES SURTIDOS"
+title: BOXER ZARA SET 3 PIEZAS TALLA XXL COLORES SURTIDOS
 price: 130
-sku: "443"
-image: "/assets/images/products/BOXER-ZARA-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER ZARA SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image"
-category: "Moda"
+sku: '443'
+image: >-
+  /assets/images/products/BOXER-ZARA-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp
+alt_text: BOXER ZARA SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

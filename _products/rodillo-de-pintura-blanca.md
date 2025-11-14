@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 898683117
 permalink: /products/rodillo-de-pintura-blanca/
-title: "RODILLO DE PINTURA BLANCA"
+title: RODILLO DE PINTURA BLANCA
 price: 99
-sku: "123"
-image: "/assets/images/products/RODILLO-DE-PINTURA-BLANCA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "RODILLO DE PINTURA BLANCA product image"
-category: "Hogar"
+sku: '123'
+image: /assets/images/products/RODILLO-DE-PINTURA-BLANCA.webp
+alt_text: RODILLO DE PINTURA BLANCA product image
+category: Hogar
 ---
 
 ## Descripción Corta

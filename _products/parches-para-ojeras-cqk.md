@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1826365016
 permalink: /products/parches-para-ojeras-cqk/
-title: "Parches para Ojeras CQK"
+title: Parches para Ojeras CQK
 price: 200
-sku: "258"
-image: "/assets/images/products/Parches-para-Ojeras-CQK.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Parches para Ojeras CQK product image"
-category: "Belleza"
+sku: '258'
+image: /assets/images/products/Parches-para-Ojeras-CQK.webp
+alt_text: Parches para Ojeras CQK product image
+category: Belleza
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1549024191
 permalink: /products/parche-de-crecimiento-de-altura-10-piezas/
-title: "PARCHE DE CRECIMIENTO DE ALTURA 10 PIEZAS"
+title: PARCHE DE CRECIMIENTO DE ALTURA 10 PIEZAS
 price: 175
-sku: "163"
-image: "/assets/images/products/PARCHE-DE-CRECIMIENTO-DE-ALTURA-10-PIEZAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PARCHE DE CRECIMIENTO DE ALTURA 10 PIEZAS product image"
-category: "Belleza"
+sku: '163'
+image: /assets/images/products/PARCHE-DE-CRECIMIENTO-DE-ALTURA-10-PIEZAS.webp
+alt_text: PARCHE DE CRECIMIENTO DE ALTURA 10 PIEZAS product image
+category: Belleza
 ---
 
 ## Descripción Corta

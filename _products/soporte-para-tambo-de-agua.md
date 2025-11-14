@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1581963938
 permalink: /products/soporte-para-tambo-de-agua/
-title: "SOPORTE PARA TAMBO DE AGUA"
+title: SOPORTE PARA TAMBO DE AGUA
 price: 99
-sku: "196"
-image: "/assets/images/products/SOPORTE-PARA-TAMBO-DE-AGUA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SOPORTE PARA TAMBO DE AGUA product image"
-category: "Hogar"
+sku: '196'
+image: /assets/images/products/SOPORTE-PARA-TAMBO-DE-AGUA.webp
+alt_text: SOPORTE PARA TAMBO DE AGUA product image
+category: Hogar
 ---
 
 ## Descripción Corta

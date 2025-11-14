@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1103273676
 permalink: /products/gorra-hugo-boss-color-besh-con-letras-beige/
-title: "GORRA HUGO BOSS COLOR BESH CON LETRAS BEIGE"
+title: GORRA HUGO BOSS COLOR BESH CON LETRAS BEIGE
 price: 125
-sku: "352"
-image: "/assets/images/products/GORRA-HUGO-BOSS-COLOR-BESH-CON-LETRAS-BEIGE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA HUGO BOSS COLOR BESH CON LETRAS BEIGE product image"
-category: "Moda > Gorra"
+sku: '352'
+image: /assets/images/products/GORRA-HUGO-BOSS-COLOR-BESH-CON-LETRAS-BEIGE.webp
+alt_text: GORRA HUGO BOSS COLOR BESH CON LETRAS BEIGE product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

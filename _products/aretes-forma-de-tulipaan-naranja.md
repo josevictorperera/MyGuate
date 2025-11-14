@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 807636915
 permalink: /products/aretes-forma-de-tulipan-naranja/
-title: "Aretes Forma de Tulipán Naranja"
+title: Aretes Forma de Tulipán Naranja
 price: 95
-sku: "210"
-image: "/assets/images/products/Aretes-Forma-de-Tulipan-Naranja.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Aretes Forma de Tulipán Naranja product image"
-category: "joyas"
+sku: '210'
+image: /assets/images/products/Aretes-Forma-de-Tulipan-Naranja.webp
+alt_text: Aretes Forma de Tulipán Naranja product image
+category: joyas
 ---
 
 ## Descripción Corta

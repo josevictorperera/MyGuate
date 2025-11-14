@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1157744130
 permalink: /products/esquinero-para-ducha/
-title: "Esquinero para Ducha"
+title: Esquinero para Ducha
 price: 300
-sku: "274"
-image: "/assets/images/products/Esquinero-para-Ducha.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Esquinero para Ducha product image"
-category: "Hogar"
+sku: '274'
+image: /assets/images/products/Esquinero-para-Ducha.webp
+alt_text: Esquinero para Ducha product image
+category: Hogar
 ---
 
 ## Descripción Corta

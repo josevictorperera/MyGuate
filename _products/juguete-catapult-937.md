@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1216180776
 permalink: /products/juguete-catapult-937/
-title: "JUGUETE CATAPULT 937"
+title: JUGUETE CATAPULT 937
 price: 300
-sku: "494"
-image: "/assets/images/products/JUGUETE-CATAPULT-937.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "JUGUETE CATAPULT 937 product image"
-category: "Juguetes"
+sku: '494'
+image: /assets/images/products/JUGUETE-CATAPULT-937.webp
+alt_text: JUGUETE CATAPULT 937 product image
+category: Juguetes
 ---
 
 ## Descripción Corta

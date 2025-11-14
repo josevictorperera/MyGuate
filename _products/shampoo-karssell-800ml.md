@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1471083033
 permalink: /products/shampoo-karssell-800ml/
-title: "Shampoo KARSSELL 800ml"
+title: Shampoo KARSSELL 800ml
 price: 300
-sku: "253"
-image: "/assets/images/products/Shampoo-KARSSELL-800ml.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Shampoo KARSSELL 800ml product image"
-category: "Belleza"
+sku: '253'
+image: /assets/images/products/Shampoo-KARSSELL-800ml.webp
+alt_text: Shampoo KARSSELL 800ml product image
+category: Belleza
 ---
 
 ## Descripción Corta

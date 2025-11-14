@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 2037844541
 permalink: /products/perfume-dama-my-way-nectar--georgio-armani-eau-de-parfum-90ml/
-title: "PERFUME DAMA MY WAY NECTAR , GEORGIO ARMANI EAU DE PARFUM 90ML"
+title: 'PERFUME DAMA MY WAY NECTAR , GEORGIO ARMANI EAU DE PARFUM 90ML'
 price: 200
-sku: "nan"
-image: "/assets/images/products/PERFUME-DAMA-MY-WAY-NECTAR-GEORGIO-ARMANI-EAU-DE-PARFUM-90ML.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PERFUME DAMA MY WAY NECTAR , GEORGIO ARMANI EAU DE PARFUM 90ML product image"
-category: "Belleza"
+sku: nan
+image: >-
+  /assets/images/products/PERFUME-DAMA-MY-WAY-NECTAR-GEORGIO-ARMANI-EAU-DE-PARFUM-90ML.webp
+alt_text: 'PERFUME DAMA MY WAY NECTAR , GEORGIO ARMANI EAU DE PARFUM 90ML product image'
+category: Belleza
 ---
 
 ## Descripción Corta

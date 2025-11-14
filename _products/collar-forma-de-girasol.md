@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1994452073
 permalink: /products/collar-forma-de-girasol/
-title: "Collar Forma de Girasol"
+title: Collar Forma de Girasol
 price: 95
-sku: "206"
-image: "/assets/images/products/Collar-Forma-de-Girasol.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Collar Forma de Girasol product image"
-category: "joyas"
+sku: '206'
+image: /assets/images/products/Collar-Forma-de-Girasol.webp
+alt_text: Collar Forma de Girasol product image
+category: joyas
 ---
 
 ## Descripción Corta

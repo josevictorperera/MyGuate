@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 632641289
 permalink: /products/mascarias-ojeras/
-title: "Mascarias Ojeras"
+title: Mascarias Ojeras
 price: 190
-sku: "293"
-image: "/assets/images/products/Mascarias-Ojeras.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Mascarias Ojeras product image"
-category: "Belleza"
+sku: '293'
+image: /assets/images/products/Mascarias-Ojeras.webp
+alt_text: Mascarias Ojeras product image
+category: Belleza
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1343434227
 permalink: /products/parche-de-colageno-koreano-para-contorno-de-ojos/
-title: "PARCHE DE COLÁGENO KOREANO PARA CONTORNO DE OJOS"
+title: PARCHE DE COLÁGENO KOREANO PARA CONTORNO DE OJOS
 price: 175
-sku: "165"
-image: "/assets/images/products/PARCHE-DE-COLAGENO-KOREANO-PARA-CONTORNO-DE-OJOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PARCHE DE COLÁGENO KOREANO PARA CONTORNO DE OJOS product image"
-category: "Belleza"
+sku: '165'
+image: /assets/images/products/PARCHE-DE-COLAGENO-KOREANO-PARA-CONTORNO-DE-OJOS.webp
+alt_text: PARCHE DE COLÁGENO KOREANO PARA CONTORNO DE OJOS product image
+category: Belleza
 ---
 
 ## Descripción Corta

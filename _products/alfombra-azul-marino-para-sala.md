@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1738639267
 permalink: /products/alfombra-azul-marino-para-sala/
-title: "ALFOMBRA AZUL MARINO PARA SALA"
+title: ALFOMBRA AZUL MARINO PARA SALA
 price: 300
-sku: "140"
-image: "/assets/images/products/alfombraAzul.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ALFOMBRA AZUL MARINO PARA SALA product image"
-category: "Hogar"
+sku: '140'
+image: /assets/images/products/alfombraAzul.webp
+alt_text: ALFOMBRA AZUL MARINO PARA SALA product image
+category: Hogar
 ---
 
 ## Descripción Corta

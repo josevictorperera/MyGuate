@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2085195932
 permalink: /products/gorra-mercedes-benz-color-negro/
-title: "GORRA MERCEDES BENZ COLOR NEGRO"
+title: GORRA MERCEDES BENZ COLOR NEGRO
 price: 125
-sku: "331"
-image: "/assets/images/products/GORRA-MERCEDES-BENZ-COLOR-NEGRO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA MERCEDES BENZ COLOR NEGRO product image"
-category: "Moda > Gorra"
+sku: '331'
+image: /assets/images/products/GORRA-MERCEDES-BENZ-COLOR-NEGRO.webp
+alt_text: GORRA MERCEDES BENZ COLOR NEGRO product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

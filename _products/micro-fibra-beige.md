@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1434446440
 permalink: /products/micro-fibra-beige/
-title: "Micro fibra beige"
+title: Micro fibra beige
 price: 200
-sku: "266"
-image: "/assets/images/products/Micro-fibra-beige.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Micro fibra beige product image"
-category: "Ferretería Hogar"
+sku: '266'
+image: /assets/images/products/Micro-fibra-beige.webp
+alt_text: Micro fibra beige product image
+category: Ferretería Hogar
 ---
 
 ## Descripción Corta

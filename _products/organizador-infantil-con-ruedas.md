@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1984680188
 permalink: /products/organizador-infantil-con-ruedas/
-title: "ORGANIZADOR INFANTIL CON RUEDAS"
+title: ORGANIZADOR INFANTIL CON RUEDAS
 price: 200
-sku: "117"
-image: "/assets/images/products/ORGANIZADOR-INFANTIL-CON-RUEDAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ORGANIZADOR INFANTIL CON RUEDAS product image"
-category: "bebe Hogar"
+sku: '117'
+image: /assets/images/products/ORGANIZADOR-INFANTIL-CON-RUEDAS.webp
+alt_text: ORGANIZADOR INFANTIL CON RUEDAS product image
+category: bebe Hogar
 ---
 
 ## Descripción Corta

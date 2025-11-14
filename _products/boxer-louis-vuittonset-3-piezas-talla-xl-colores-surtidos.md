@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 84579038
 permalink: /products/boxer-louis-vuittonset-3-piezas-talla-xl-colores-surtidos/
-title: "BOXER LOUIS VUITTONSET 3 PIEZAS TALLA XL COLORES SURTIDOS"
+title: BOXER LOUIS VUITTONSET 3 PIEZAS TALLA XL COLORES SURTIDOS
 price: 130
-sku: "458"
-image: "/assets/images/products/BOXER-LOUIS-VUITTONSET-3-PIEZAS-TALLA-XL-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER LOUIS VUITTONSET 3 PIEZAS TALLA XL COLORES SURTIDOS product image"
-category: "Moda"
+sku: '458'
+image: >-
+  /assets/images/products/BOXER-LOUIS-VUITTONSET-3-PIEZAS-TALLA-XL-COLORES-SURTIDOS.webp
+alt_text: BOXER LOUIS VUITTONSET 3 PIEZAS TALLA XL COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

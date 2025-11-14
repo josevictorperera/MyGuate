@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1396819922
 permalink: /products/pulidora-de-brillo-im2020/
-title: "PULIDORA DE BRILLO (IM2020)"
+title: PULIDORA DE BRILLO (IM2020)
 price: 230
-sku: "521"
-image: "/assets/images/products/PULIDORA-DE-BRILLO-IM2020.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PULIDORA DE BRILLO (IM2020) product image"
-category: "Autos"
+sku: '521'
+image: /assets/images/products/PULIDORA-DE-BRILLO-IM2020.webp
+alt_text: PULIDORA DE BRILLO (IM2020) product image
+category: Autos
 ---
 
 ## Descripción Corta

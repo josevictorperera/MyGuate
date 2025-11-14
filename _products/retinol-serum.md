@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1668417926
 permalink: /products/retinol-serum/
-title: "RETINOL SERUM"
+title: RETINOL SERUM
 price: 275
-sku: "151"
-image: "/assets/images/products/RETINOL-SERUM.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "RETINOL SERUM product image"
-category: "Belleza"
+sku: '151'
+image: /assets/images/products/RETINOL-SERUM.webp
+alt_text: RETINOL SERUM product image
+category: Belleza
 ---
 
 ## Descripción Corta

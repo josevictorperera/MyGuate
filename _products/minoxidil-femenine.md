@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1981125285
 permalink: /products/minoxidil-femenine/
-title: "MINOXIDIL FEMENINE"
+title: MINOXIDIL FEMENINE
 price: 165
-sku: "167"
-image: "/assets/images/products/MINOXIDIL-FEMENINE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "MINOXIDIL FEMENINE product image"
-category: "Belleza"
+sku: '167'
+image: /assets/images/products/MINOXIDIL-FEMENINE.webp
+alt_text: MINOXIDIL FEMENINE product image
+category: Belleza
 ---
 
 ## Descripción Corta

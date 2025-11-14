@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1929004766
 permalink: /products/mopa-360-rojo/
-title: "Mopa 360 rojo"
+title: Mopa 360 rojo
 price: 250
-sku: "263"
-image: "/assets/images/products/Mopa-360-rojo.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Mopa 360 rojo product image"
-category: "Hogar"
+sku: '263'
+image: /assets/images/products/Mopa-360-rojo.webp
+alt_text: Mopa 360 rojo product image
+category: Hogar
 ---
 
 ## Descripción Corta

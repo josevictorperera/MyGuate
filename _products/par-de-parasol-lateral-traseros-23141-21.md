@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 435199898
 permalink: /products/par-de-parasol-lateral-traseros-23141-21/
-title: "PAR DE PARASOL LATERAL TRASEROS 23141-21"
+title: PAR DE PARASOL LATERAL TRASEROS 23141-21
 price: 100
-sku: "525"
-image: "/assets/images/products/PAR-DE-PARASOL-LATERAL-TRASEROS-23141-21.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PAR DE PARASOL LATERAL TRASEROS 23141-21 product image"
-category: "Autos"
+sku: '525'
+image: /assets/images/products/PAR-DE-PARASOL-LATERAL-TRASEROS-23141-21.webp
+alt_text: PAR DE PARASOL LATERAL TRASEROS 23141-21 product image
+category: Autos
 ---
 
 ## Descripción Corta

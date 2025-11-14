@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 129997898
 permalink: /products/crema-aclarate/
-title: "CREMA ACLARATE"
+title: CREMA ACLARATE
 price: 150
-sku: "184"
-image: "/assets/images/products/CREMA-ACLARATE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CREMA ACLARATE product image"
-category: "Belleza"
+sku: '184'
+image: /assets/images/products/CREMA-ACLARATE.webp
+alt_text: CREMA ACLARATE product image
+category: Belleza
 ---
 
 ## Descripción Corta

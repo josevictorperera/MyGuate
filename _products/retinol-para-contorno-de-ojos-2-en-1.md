@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1773371284
 permalink: /products/retinol-para-contorno-de-ojos-2-en-1/
-title: "RETINOL PARA CONTORNO DE OJOS 2 EN 1"
+title: RETINOL PARA CONTORNO DE OJOS 2 EN 1
 price: 160
-sku: "152"
-image: "/assets/images/products/RETINOL-PARA-CONTORNO-DE-OJOS-2-EN-1.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "RETINOL PARA CONTORNO DE OJOS 2 EN 1 product image"
-category: "Belleza"
+sku: '152'
+image: /assets/images/products/RETINOL-PARA-CONTORNO-DE-OJOS-2-EN-1.webp
+alt_text: RETINOL PARA CONTORNO DE OJOS 2 EN 1 product image
+category: Belleza
 ---
 
 ## Descripción Corta

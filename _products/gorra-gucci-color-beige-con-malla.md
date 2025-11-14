@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1755467603
 permalink: /products/gorra-gucci-color-beige-con-malla/
-title: "GORRA GUCCI COLOR BEIGE CON MALLA"
+title: GORRA GUCCI COLOR BEIGE CON MALLA
 price: 125
-sku: "358"
-image: "/assets/images/products/GORRA-GUCCI-COLOR-BEIGE-CON-MALLA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA GUCCI COLOR BEIGE CON MALLA product image"
-category: "Moda > Gorra"
+sku: '358'
+image: /assets/images/products/GORRA-GUCCI-COLOR-BEIGE-CON-MALLA.webp
+alt_text: GORRA GUCCI COLOR BEIGE CON MALLA product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

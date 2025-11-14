@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 720023353
 permalink: /products/mascarilla-capilar-de-colageno-karseell-sobre/
-title: "MASCARILLA CAPILAR DE COLAGENO KARSEELL SOBRE"
+title: MASCARILLA CAPILAR DE COLAGENO KARSEELL SOBRE
 price: 150
-sku: "111"
-image: "/assets/images/products/MASCARILLA-CAPILAR-DE-COLAGENO-KARSEELL-SOBRE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "MASCARILLA CAPILAR DE COLAGENO KARSEELL SOBRE product image"
-category: "Belleza"
+sku: '111'
+image: /assets/images/products/MASCARILLA-CAPILAR-DE-COLAGENO-KARSEELL-SOBRE.webp
+alt_text: MASCARILLA CAPILAR DE COLAGENO KARSEELL SOBRE product image
+category: Belleza
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1518202921
 permalink: /products/doblador-de-pestanias-blanco/
-title: "Doblador de Pestañas Blanco"
+title: Doblador de Pestañas Blanco
 price: 190
-sku: "298"
-image: "/assets/images/products/Doblador-de-Pestanas-Blanco.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Doblador de Pestañas Blanco product image"
-category: "Belleza"
+sku: '298'
+image: /assets/images/products/Doblador-de-Pestanas-Blanco.webp
+alt_text: Doblador de Pestañas Blanco product image
+category: Belleza
 ---
 
 ## Descripción Corta

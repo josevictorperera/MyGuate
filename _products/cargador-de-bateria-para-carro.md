@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1373692471
 permalink: /products/cargador-de-bateria-para-carro/
-title: "CARGADOR DE BATERÍA PARA CARRO"
+title: CARGADOR DE BATERÍA PARA CARRO
 price: 250
-sku: "540"
-image: "/assets/images/products/CARGADOR-DE-BATERIA-PARA-CARRO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CARGADOR DE BATERÍA PARA CARRO product image"
-category: "Autos"
+sku: '540'
+image: /assets/images/products/CARGADOR-DE-BATERIA-PARA-CARRO.webp
+alt_text: CARGADOR DE BATERÍA PARA CARRO product image
+category: Autos
 ---
 
 ## Descripción Corta

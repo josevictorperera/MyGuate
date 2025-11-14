@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1196643416
 permalink: /products/mochila-plegable-para-viaje---variedad-de-colores/
-title: "Mochila Plegable para viaje - Variedad de colores"
+title: Mochila Plegable para viaje - Variedad de colores
 price: 45
-sku: "229"
-image: "/assets/images/products/Mochila-Plegable-para-viaje-Variedad-de-colores.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Mochila Plegable para viaje - Variedad de colores product image"
-category: "Hogar"
+sku: '229'
+image: /assets/images/products/Mochila-Plegable-para-viaje-Variedad-de-colores.webp
+alt_text: Mochila Plegable para viaje - Variedad de colores product image
+category: Hogar
 ---
 
 ## Descripción Corta

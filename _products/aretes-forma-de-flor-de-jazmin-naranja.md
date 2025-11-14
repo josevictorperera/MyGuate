@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1293388404
 permalink: /products/aretes-forma-de-flor-de-jazmin-naranja/
-title: "Aretes Forma de Flor de jazmin Naranja"
+title: Aretes Forma de Flor de jazmin Naranja
 price: 95
-sku: "217"
-image: "/assets/images/products/Aretes-Forma-de-Flor-de-jazmin-Naranja.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Aretes Forma de Flor de jazmin Naranja product image"
-category: "joyas"
+sku: '217'
+image: /assets/images/products/Aretes-Forma-de-Flor-de-jazmin-Naranja.webp
+alt_text: Aretes Forma de Flor de jazmin Naranja product image
+category: joyas
 ---
 
 ## Descripción Corta

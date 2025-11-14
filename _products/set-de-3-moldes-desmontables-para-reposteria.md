@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1669459167
 permalink: /products/set-de-3-moldes-desmontables-para-reposteria/
-title: "Set de 3 Moldes desmontables para reposteria"
+title: Set de 3 Moldes desmontables para reposteria
 price: 75
-sku: "224"
-image: "/assets/images/products/Set-de-3-Moldes-desmontables-para-reposteria.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Set de 3 Moldes desmontables para reposteria product image"
-category: "Hogar"
+sku: '224'
+image: /assets/images/products/Set-de-3-Moldes-desmontables-para-reposteria.webp
+alt_text: Set de 3 Moldes desmontables para reposteria product image
+category: Hogar
 ---
 
 ## Descripción Corta

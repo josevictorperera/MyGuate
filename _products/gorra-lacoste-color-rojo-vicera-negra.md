@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1806407659
 permalink: /products/gorra-lacoste-color-rojo-vicera-negra/
-title: "GORRA LACOSTE COLOR ROJO VICERA NEGRA"
+title: GORRA LACOSTE COLOR ROJO VICERA NEGRA
 price: 125
-sku: "338"
-image: "/assets/images/products/GORRA-LACOSTE-COLOR-ROJO-VICERA-NEGRA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA LACOSTE COLOR ROJO VICERA NEGRA product image"
-category: "Moda > Gorra"
+sku: '338'
+image: /assets/images/products/GORRA-LACOSTE-COLOR-ROJO-VICERA-NEGRA.webp
+alt_text: GORRA LACOSTE COLOR ROJO VICERA NEGRA product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 295529085
 permalink: /products/calcetines-tommy-talla-4_6-corto-color-negro-unidad/
-title: "CALCETINES TOMMY TALLA 4_6 CORTO COLOR NEGRO (UNIDAD)"
+title: CALCETINES TOMMY TALLA 4_6 CORTO COLOR NEGRO (UNIDAD)
 price: 20
-sku: "395"
-image: "/assets/images/products/CALCETINES-TOMMY-TALLA-4_6-CORTO-COLOR-NEGRO-UNIDAD.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES TOMMY TALLA 4_6 CORTO COLOR NEGRO (UNIDAD) product image"
-category: "Moda"
+sku: '395'
+image: >-
+  /assets/images/products/CALCETINES-TOMMY-TALLA-4_6-CORTO-COLOR-NEGRO-UNIDAD.webp
+alt_text: CALCETINES TOMMY TALLA 4_6 CORTO COLOR NEGRO (UNIDAD) product image
+category: Moda
 ---
 
 ## Descripción Corta

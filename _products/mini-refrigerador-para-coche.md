@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1294891430
 permalink: /products/mini-refrigerador-para-coche/
-title: "Mini Refrigerador para Coche"
+title: Mini Refrigerador para Coche
 price: 300
-sku: "529"
-image: "/assets/images/products/Mini-Refrigerador-para-Coche.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Mini Refrigerador para Coche product image"
-category: "Autos"
+sku: '529'
+image: /assets/images/products/Mini-Refrigerador-para-Coche.webp
+alt_text: Mini Refrigerador para Coche product image
+category: Autos
 ---
 
 ## Descripción Corta

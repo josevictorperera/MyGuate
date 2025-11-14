@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 150291558
 permalink: /products/caviar-sleeping-eye-mask-anti-age/
-title: "CAVIAR SLEEPING EYE MASK ANTI-AGE"
+title: CAVIAR SLEEPING EYE MASK ANTI-AGE
 price: 150
-sku: "189"
-image: "/assets/images/products/CAVIAR-SLEEPING-EYE-MASK-ANTI-AGE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CAVIAR SLEEPING EYE MASK ANTI-AGE product image"
-category: "Belleza"
+sku: '189'
+image: /assets/images/products/CAVIAR-SLEEPING-EYE-MASK-ANTI-AGE.webp
+alt_text: CAVIAR SLEEPING EYE MASK ANTI-AGE product image
+category: Belleza
 ---
 
 ## Descripción Corta

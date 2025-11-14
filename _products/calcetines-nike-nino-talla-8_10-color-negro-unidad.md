@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1390563510
 permalink: /products/calcetines-nike-ninio-talla-8_10-color-negro-unidad/
-title: "CALCETINES NIKE NIÑO TALLA 8_10 COLOR NEGRO (UNIDAD)"
+title: CALCETINES NIKE NIÑO TALLA 8_10 COLOR NEGRO (UNIDAD)
 price: 20
-sku: "414"
-image: "/assets/images/products/CALCETINES-NIKE-NINO-TALLA-8_10-COLOR-NEGRO-UNIDAD.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES NIKE NIÑO TALLA 8_10 COLOR NEGRO (UNIDAD) product image"
-category: "Moda ninios"
+sku: '414'
+image: >-
+  /assets/images/products/CALCETINES-NIKE-NINO-TALLA-8_10-COLOR-NEGRO-UNIDAD.webp
+alt_text: CALCETINES NIKE NIÑO TALLA 8_10 COLOR NEGRO (UNIDAD) product image
+category: Moda ninios
 ---
 
 ## Descripción Corta

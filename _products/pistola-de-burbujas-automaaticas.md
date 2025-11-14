@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1354222006
 permalink: /products/pistola-de-burbujas-automaticas/
-title: "PISTOLA DE BURBUJAS AUTOMÁTICAS"
+title: PISTOLA DE BURBUJAS AUTOMÁTICAS
 price: 99
-sku: "501"
-image: "/assets/images/products/PISTOLA-DE-BURBUJAS-AUTOMATICAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PISTOLA DE BURBUJAS AUTOMÁTICAS product image"
-category: "bebe"
+sku: '501'
+image: /assets/images/products/PISTOLA-DE-BURBUJAS-AUTOMATICAS.webp
+alt_text: PISTOLA DE BURBUJAS AUTOMÁTICAS product image
+category: bebe
 ---
 
 ## Descripción Corta

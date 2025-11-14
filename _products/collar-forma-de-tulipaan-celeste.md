@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 517716682
 permalink: /products/collar-forma-de-tulipan-celeste/
-title: "Collar Forma de Tulipán Celeste"
+title: Collar Forma de Tulipán Celeste
 price: 95
-sku: "204"
-image: "/assets/images/products/Collar-Forma-de-Tulipan-Celeste.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Collar Forma de Tulipán Celeste product image"
-category: "joyas"
+sku: '204'
+image: /assets/images/products/Collar-Forma-de-Tulipan-Celeste.webp
+alt_text: Collar Forma de Tulipán Celeste product image
+category: joyas
 ---
 
 ## Descripción Corta

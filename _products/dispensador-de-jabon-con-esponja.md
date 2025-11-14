@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1118946519
 permalink: /products/dispensador-de-jabon-con-esponja/
-title: "DISPENSADOR DE JABON CON ESPONJA"
+title: DISPENSADOR DE JABON CON ESPONJA
 price: 99
-sku: "137"
-image: "/assets/images/products/dispensadordejabon.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "DISPENSADOR DE JABON CON ESPONJA product image"
-category: "Hogar"
+sku: '137'
+image: /assets/images/products/dispensadordejabon.webp
+alt_text: DISPENSADOR DE JABON CON ESPONJA product image
+category: Hogar
 ---
 
 ## Descripción Corta

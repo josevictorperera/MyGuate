@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 351316307
 permalink: /products/boxer-burberry-set-3-piezas-talla-m-colores-surtidos/
-title: "BOXER BURBERRY SET 3 PIEZAS TALLA M COLORES SURTIDOS"
+title: BOXER BURBERRY SET 3 PIEZAS TALLA M COLORES SURTIDOS
 price: 130
-sku: "481"
-image: "/assets/images/products/BOXER-BURBERRY-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER BURBERRY SET 3 PIEZAS TALLA M COLORES SURTIDOS product image"
-category: "Moda"
+sku: '481'
+image: >-
+  /assets/images/products/BOXER-BURBERRY-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp
+alt_text: BOXER BURBERRY SET 3 PIEZAS TALLA M COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

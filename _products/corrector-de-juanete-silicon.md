@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1664614524
 permalink: /products/corrector-de-juanete-silicon/
-title: "CORRECTOR DE JUANETE SILICON"
+title: CORRECTOR DE JUANETE SILICON
 price: 125
-sku: "185"
-image: "/assets/images/products/CORRECTOR-DE-JUANETE-SILICON.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CORRECTOR DE JUANETE SILICON product image"
-category: "Belleza"
+sku: '185'
+image: /assets/images/products/CORRECTOR-DE-JUANETE-SILICON.webp
+alt_text: CORRECTOR DE JUANETE SILICON product image
+category: Belleza
 ---
 
 ## Descripción Corta

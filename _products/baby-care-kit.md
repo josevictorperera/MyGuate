@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 822274561
 permalink: /products/baby-care-kit/
-title: "BABY CARE KIT"
+title: BABY CARE KIT
 price: 99
-sku: "101"
-image: "/assets/images/products/BABY-CARE-KIT.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BABY CARE KIT product image"
-category: "bebe"
+sku: '101'
+image: /assets/images/products/BABY-CARE-KIT.webp
+alt_text: BABY CARE KIT product image
+category: bebe
 ---
 
 ## Descripción Corta

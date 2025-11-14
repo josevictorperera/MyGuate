@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2112667293
 permalink: /products/balsamo-intimo-envolvente-unixes/
-title: "BÁLSAMO INTIMO ENVOLVENTE UNIXES"
+title: BÁLSAMO INTIMO ENVOLVENTE UNIXES
 price: 125
-sku: "195"
-image: "/assets/images/products/BALSAMO-INTIMO-ENVOLVENTE-UNIXES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BÁLSAMO INTIMO ENVOLVENTE UNIXES product image"
-category: "Belleza"
+sku: '195'
+image: /assets/images/products/BALSAMO-INTIMO-ENVOLVENTE-UNIXES.webp
+alt_text: BÁLSAMO INTIMO ENVOLVENTE UNIXES product image
+category: Belleza
 ---
 
 ## Descripción Corta

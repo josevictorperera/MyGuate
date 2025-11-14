@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 231142236
 permalink: /products/set-de-cortadores-para-frutas/
-title: "Set de cortadores para Frutas"
+title: Set de cortadores para Frutas
 price: 25
-sku: "222"
-image: "/assets/images/products/Set-de-cortadores-para-Frutas.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Set de cortadores para Frutas product image"
-category: "Hogar"
+sku: '222'
+image: /assets/images/products/Set-de-cortadores-para-Frutas.webp
+alt_text: Set de cortadores para Frutas product image
+category: Hogar
 ---
 
 ## Descripción Corta

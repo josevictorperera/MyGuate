@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1221921652
 permalink: /products/suero-mouse-corrector-para-el-blanquiamiento-de-dientes/
-title: "SUERO MOUSE CORRECTOR PARA EL BLANQUIAMIENTO DE DIENTES"
+title: SUERO MOUSE CORRECTOR PARA EL BLANQUIAMIENTO DE DIENTES
 price: 125
-sku: "144"
-image: "/assets/images/products/SUERO-MOUSE-CORRECTOR-PARA-EL-BLANQUIAMIENTO-DE-DIENTES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SUERO MOUSE CORRECTOR PARA EL BLANQUIAMIENTO DE DIENTES product image"
-category: "Belleza"
+sku: '144'
+image: >-
+  /assets/images/products/SUERO-MOUSE-CORRECTOR-PARA-EL-BLANQUIAMIENTO-DE-DIENTES.webp
+alt_text: SUERO MOUSE CORRECTOR PARA EL BLANQUIAMIENTO DE DIENTES product image
+category: Belleza
 ---
 
 ## Descripción Corta

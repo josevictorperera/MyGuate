@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 635018420
 permalink: /products/gorra-armani-color-azul-marino/
-title: "GORRA ARMANI COLOR AZUL MARINO"
+title: GORRA ARMANI COLOR AZUL MARINO
 price: 125
-sku: "389"
-image: "/assets/images/products/GORRA-ARMANI-COLOR-AZUL-MARINO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA ARMANI COLOR AZUL MARINO product image"
-category: "Moda > Gorra"
+sku: '389'
+image: /assets/images/products/GORRA-ARMANI-COLOR-AZUL-MARINO.webp
+alt_text: GORRA ARMANI COLOR AZUL MARINO product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

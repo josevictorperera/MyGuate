@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 403152874
 permalink: /products/organizador-de-mesh-grande-para-bolsa-y-articulos/
-title: "ORGANIZADOR DE MESH GRANDE Para Bolsa y Artículos"
+title: ORGANIZADOR DE MESH GRANDE Para Bolsa y Artículos
 price: 95
-sku: "528"
-image: "/assets/images/products/ORGANIZADOR-DE-MESH-GRANDE-Para-Bolsa-y-Articulos.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ORGANIZADOR DE MESH GRANDE Para Bolsa y Artículos product image"
-category: "Autos"
+sku: '528'
+image: /assets/images/products/ORGANIZADOR-DE-MESH-GRANDE-Para-Bolsa-y-Articulos.webp
+alt_text: ORGANIZADOR DE MESH GRANDE Para Bolsa y Artículos product image
+category: Autos
 ---
 
 ## Descripción Corta

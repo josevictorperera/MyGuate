@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1365873671
 permalink: /products/organizador-de-ropa/
-title: "ORGANIZADOR DE ROPA"
+title: ORGANIZADOR DE ROPA
 price: 240
-sku: "116"
-image: "/assets/images/products/ORGANIZADOR-DE-ROPA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ORGANIZADOR DE ROPA product image"
-category: "Hogar"
+sku: '116'
+image: /assets/images/products/ORGANIZADOR-DE-ROPA.webp
+alt_text: ORGANIZADOR DE ROPA product image
+category: Hogar
 ---
 
 ## Descripción Corta

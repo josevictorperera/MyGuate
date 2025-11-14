@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 460274188
 permalink: /products/protector-de-pintura/
-title: "PROTECTOR DE PINTURA"
+title: PROTECTOR DE PINTURA
 price: 99
-sku: "522"
-image: "/assets/images/products/PROTECTOR-DE-PINTURA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PROTECTOR DE PINTURA product image"
-category: "Autos"
+sku: '522'
+image: /assets/images/products/PROTECTOR-DE-PINTURA.webp
+alt_text: PROTECTOR DE PINTURA product image
+category: Autos
 ---
 
 ## Descripción Corta

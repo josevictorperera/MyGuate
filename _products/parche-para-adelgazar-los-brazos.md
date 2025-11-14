@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 44947865
 permalink: /products/parche-para-adelgazar-los-brazos/
-title: "Parche para Adelgazar los Brazos"
+title: Parche para Adelgazar los Brazos
 price: 170
-sku: "291"
-image: "/assets/images/products/Parche-para-Adelgazar-los-Brazos.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Parche para Adelgazar los Brazos product image"
-category: "Belleza"
+sku: '291'
+image: /assets/images/products/Parche-para-Adelgazar-los-Brazos.webp
+alt_text: Parche para Adelgazar los Brazos product image
+category: Belleza
 ---
 
 ## Descripción Corta

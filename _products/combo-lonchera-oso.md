@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 651345525
 permalink: /products/combo-lonchera-oso/
-title: "COMBO LONCHERA OSO"
+title: COMBO LONCHERA OSO
 price: 99
-sku: "105"
-image: "/assets/images/products/COMBO-LONCHERA-OSO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "COMBO LONCHERA OSO product image"
-category: "bebe Hogar"
+sku: '105'
+image: /assets/images/products/COMBO-LONCHERA-OSO.webp
+alt_text: COMBO LONCHERA OSO product image
+category: bebe Hogar
 ---
 
 ## Descripción Corta

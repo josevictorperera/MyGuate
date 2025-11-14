@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1127248664
 permalink: /products/cargador-de-bebe/
-title: "CARGADOR DE BEBE"
+title: CARGADOR DE BEBE
 price: 495
-sku: "511"
-image: "/assets/images/products/CARGADOR-DE-BEBE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CARGADOR DE BEBE product image"
-category: "bebe"
+sku: '511'
+image: /assets/images/products/CARGADOR-DE-BEBE.webp
+alt_text: CARGADOR DE BEBE product image
+category: bebe
 ---
 
 ## Descripción Corta

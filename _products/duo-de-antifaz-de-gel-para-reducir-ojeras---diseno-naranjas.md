@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1451921880
 permalink: /products/duo-de-antifaz-de-gel-para-reducir-ojeras---diseño-naranjas/
-title: "Duo de Antifaz de gel para reducir Ojeras - Diseño Naranjas"
+title: Duo de Antifaz de gel para reducir Ojeras - Diseño Naranjas
 price: 25
-sku: "239"
-image: "/assets/images/products/Duo-de-Antifaz-de-gel-para-reducir-Ojeras-Diseno-Naranjas.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Duo de Antifaz de gel para reducir Ojeras - Diseño Naranjas product image"
-category: "estilo"
+sku: '239'
+image: >-
+  /assets/images/products/Duo-de-Antifaz-de-gel-para-reducir-Ojeras-Diseno-Naranjas.webp
+alt_text: Duo de Antifaz de gel para reducir Ojeras - Diseño Naranjas product image
+category: estilo
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1433631454
 permalink: /products/lonchera-termica/
-title: "Lonchera Térmica"
+title: Lonchera Térmica
 price: 100
-sku: "270"
-image: "/assets/images/products/Lonchera-Termica.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Lonchera Térmica product image"
-category: "Hogar ninios"
+sku: '270'
+image: /assets/images/products/Lonchera-Termica.webp
+alt_text: Lonchera Térmica product image
+category: Hogar ninios
 ---
 
 ## Descripción Corta

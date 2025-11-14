@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 178299765
 permalink: /products/boxer-emporio-armani-set-3-piezas-talla-xxl-colores-surtidos/
-title: "BOXER EMPORIO ARMANI SET 3 PIEZAS TALLA XXL COLORES SURTIDOS"
+title: BOXER EMPORIO ARMANI SET 3 PIEZAS TALLA XXL COLORES SURTIDOS
 price: 130
-sku: "465"
-image: "/assets/images/products/BOXER-EMPORIO-ARMANI-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER EMPORIO ARMANI SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image"
-category: "Moda"
+sku: '465'
+image: >-
+  /assets/images/products/BOXER-EMPORIO-ARMANI-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp
+alt_text: BOXER EMPORIO ARMANI SET 3 PIEZAS TALLA XXL COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

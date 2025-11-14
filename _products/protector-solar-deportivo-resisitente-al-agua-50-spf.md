@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1296355110
 permalink: /products/protector-solar-deportivo-resisitente-al-agua-50-spf/
-title: "PROTECTOR SOLAR DEPORTIVO RESISITENTE AL AGUA 50 spf"
+title: PROTECTOR SOLAR DEPORTIVO RESISITENTE AL AGUA 50 spf
 price: 150
-sku: "154"
-image: "/assets/images/products/PROTECTOR-SOLAR-DEPORTIVO-RESISITENTE-AL-AGUA-50-spf.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PROTECTOR SOLAR DEPORTIVO RESISITENTE AL AGUA 50 spf product image"
-category: "Deportes Salud"
+sku: '154'
+image: >-
+  /assets/images/products/PROTECTOR-SOLAR-DEPORTIVO-RESISITENTE-AL-AGUA-50-spf.webp
+alt_text: PROTECTOR SOLAR DEPORTIVO RESISITENTE AL AGUA 50 spf product image
+category: Deportes Salud
 ---
 
 ## Descripción Corta

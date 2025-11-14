@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1362647105
 permalink: /products/rizador-de-pestanias/
-title: "RIZADOR DE PESTAÑAS"
+title: RIZADOR DE PESTAÑAS
 price: 125
-sku: "150"
-image: "/assets/images/products/RIZADOR-DE-PESTANAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "RIZADOR DE PESTAÑAS product image"
-category: "Belleza"
+sku: '150'
+image: /assets/images/products/RIZADOR-DE-PESTANAS.webp
+alt_text: RIZADOR DE PESTAÑAS product image
+category: Belleza
 ---
 
 ## Descripción Corta

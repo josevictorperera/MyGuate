@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 2039909235
 permalink: /products/calcetines-polo-alto-de-vestir-color-blanco-unidad/
-title: "CALCETINES POLO ALTO DE VESTIR COLOR BLANCO (UNIDAD)"
+title: CALCETINES POLO ALTO DE VESTIR COLOR BLANCO (UNIDAD)
 price: 20
-sku: "412"
-image: "/assets/images/products/CALCETINES-POLO-ALTO-DE-VESTIR-COLOR-BLANCO-UNIDAD.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES POLO ALTO DE VESTIR COLOR BLANCO (UNIDAD) product image"
-category: "Moda"
+sku: '412'
+image: >-
+  /assets/images/products/CALCETINES-POLO-ALTO-DE-VESTIR-COLOR-BLANCO-UNIDAD.webp
+alt_text: CALCETINES POLO ALTO DE VESTIR COLOR BLANCO (UNIDAD) product image
+category: Moda
 ---
 
 ## Descripción Corta

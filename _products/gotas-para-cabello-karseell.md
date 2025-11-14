@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 226748750
 permalink: /products/gotas-para-cabello-karseell/
-title: "GOTAS PARA CABELLO KARSEELL"
+title: GOTAS PARA CABELLO KARSEELL
 price: 150
-sku: "109"
-image: "/assets/images/products/GOTAS-PARA-CABELLO-KARSEELL.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GOTAS PARA CABELLO KARSEELL product image"
-category: "Belleza"
+sku: '109'
+image: /assets/images/products/GOTAS-PARA-CABELLO-KARSEELL.webp
+alt_text: GOTAS PARA CABELLO KARSEELL product image
+category: Belleza
 ---
 
 ## Descripción Corta

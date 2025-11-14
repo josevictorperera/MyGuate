@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1820004840
 permalink: /products/jabon-en-barra-con-acido-hialuronico/
-title: "JABÓN EN BARRA CON ÁCIDO HIALURÓNICO"
+title: JABÓN EN BARRA CON ÁCIDO HIALURÓNICO
 price: 105
-sku: "173"
-image: "/assets/images/products/JABON-EN-BARRA-CON-ACIDO-HILURONICO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "JABÓN EN BARRA CON ÁCIDO HIALURÓNICO product image"
-category: "Belleza"
+sku: '173'
+image: /assets/images/products/JABON-EN-BARRA-CON-ACIDO-HILURONICO.webp
+alt_text: JABÓN EN BARRA CON ÁCIDO HIALURÓNICO product image
+category: Belleza
 ---
 
 ## Descripción Corta

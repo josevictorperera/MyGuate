@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 22189130
 permalink: /products/dou-de-muletas/
-title: "Dou de Muletas"
+title: Dou de Muletas
 price: 300
-sku: "279"
-image: "/assets/images/products/Dou-de-Muletas.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Dou de Muletas product image"
-category: "Salud"
+sku: '279'
+image: /assets/images/products/Dou-de-Muletas.webp
+alt_text: Dou de Muletas product image
+category: Salud
 ---
 
 ## Descripción Corta

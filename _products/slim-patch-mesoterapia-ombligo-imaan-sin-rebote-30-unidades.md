@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1797813739
 permalink: /products/slim-patch-mesoterapia-ombligo-iman-sin-rebote-30-unidades/
-title: "SLIM PATCH MESOTERAPIA OMBLIGO IMÁN SIN REBOTE 30 UNIDADES"
+title: SLIM PATCH MESOTERAPIA OMBLIGO IMÁN SIN REBOTE 30 UNIDADES
 price: 175
-sku: "145"
-image: "/assets/images/products/SLIM-PATCH-MESOTERAPIA-OMBLIGO-IMAN-SIN-REBOTE-30-UNIDADES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SLIM PATCH MESOTERAPIA OMBLIGO IMÁN SIN REBOTE 30 UNIDADES product image"
-category: "Belleza"
+sku: '145'
+image: >-
+  /assets/images/products/SLIM-PATCH-MESOTERAPIA-OMBLIGO-IMAN-SIN-REBOTE-30-UNIDADES.webp
+alt_text: SLIM PATCH MESOTERAPIA OMBLIGO IMÁN SIN REBOTE 30 UNIDADES product image
+category: Belleza
 ---
 
 ## Descripción Corta

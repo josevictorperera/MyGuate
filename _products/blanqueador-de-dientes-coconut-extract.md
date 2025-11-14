@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2138900881
 permalink: /products/blanqueador-de-dientes-coconut-extract/
-title: "BLANQUEADOR DE DIENTES COCONUT EXTRACT"
+title: BLANQUEADOR DE DIENTES COCONUT EXTRACT
 price: 150
-sku: "192"
-image: "/assets/images/products/BLANQUEADOR-DE-DIENTES-COCONUT-EXTRACT.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BLANQUEADOR DE DIENTES COCONUT EXTRACT product image"
-category: "Belleza"
+sku: '192'
+image: /assets/images/products/BLANQUEADOR-DE-DIENTES-COCONUT-EXTRACT.webp
+alt_text: BLANQUEADOR DE DIENTES COCONUT EXTRACT product image
+category: Belleza
 ---
 
 ## Descripción Corta

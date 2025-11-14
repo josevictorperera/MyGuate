@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 968918666
 permalink: /products/gorro-de-silicona-para-duchar-bebe---color-celeste/
-title: "Gorro de silicona para duchar bebe - color celeste"
+title: Gorro de silicona para duchar bebe - color celeste
 price: 25
-sku: "234"
-image: "/assets/images/products/Gorro-de-silicona-para-duchar-bebe-color-celeste.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Gorro de silicona para duchar bebe - color celeste product image"
-category: "bebe"
+sku: '234'
+image: /assets/images/products/Gorro-de-silicona-para-duchar-bebe-color-celeste.webp
+alt_text: Gorro de silicona para duchar bebe - color celeste product image
+category: bebe
 ---
 
 ## Descripción Corta

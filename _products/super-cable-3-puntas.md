@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1570498559
 permalink: /products/super-cable-3-puntas/
-title: "Super Cable 3 Puntas"
+title: Super Cable 3 Puntas
 price: 215
-sku: "287"
-image: "/assets/images/products/Super-Cable-3-Puntas.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Super Cable 3 Puntas product image"
-category: "Electrónica"
+sku: '287'
+image: /assets/images/products/Super-Cable-3-Puntas.webp
+alt_text: Super Cable 3 Puntas product image
+category: Electrónica
 ---
 
 ## Descripción Corta

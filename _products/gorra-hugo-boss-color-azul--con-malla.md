@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1308891174
 permalink: /products/gorra-hugo-boss-color-azul--con-malla/
-title: "GORRA HUGO BOSS COLOR AZUL , CON MALLA"
+title: 'GORRA HUGO BOSS COLOR AZUL , CON MALLA'
 price: 125
-sku: "nan"
-image: "/assets/images/products/GORRA-HUGO-BOSS-COLOR-AZUL-CON-MALLA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA HUGO BOSS COLOR AZUL , CON MALLA product image"
-category: "Moda > Gorra"
+sku: nan
+image: /assets/images/products/GORRA-HUGO-BOSS-COLOR-AZUL-CON-MALLA.webp
+alt_text: 'GORRA HUGO BOSS COLOR AZUL , CON MALLA product image'
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

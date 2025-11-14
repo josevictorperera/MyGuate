@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 172758837
 permalink: /products/limpiador-facial-con-acido-kojito--colageno/
-title: "LIMPIADOR FACIAL CON ACIDO KOJITO & COLAGENO"
+title: LIMPIADOR FACIAL CON ACIDO KOJITO & COLAGENO
 price: 125
-sku: "172"
-image: "/assets/images/products/LIMPIADOR-FACIAL-CON-ACIDO-KOJITO-COLAGENO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "LIMPIADOR FACIAL CON ACIDO KOJITO & COLAGENO product image"
-category: "Belleza"
+sku: '172'
+image: /assets/images/products/LIMPIADOR-FACIAL-CON-ACIDO-KOJITO-COLAGENO.webp
+alt_text: LIMPIADOR FACIAL CON ACIDO KOJITO & COLAGENO product image
+category: Belleza
 ---
 
 ## Descripción Corta

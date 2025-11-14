@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2040585060
 permalink: /products/biberon-dr-gym-con-strass/
-title: "BIBERÓN DR. GYM CON STRASS"
+title: BIBERÓN DR. GYM CON STRASS
 price: 99
-sku: "517"
-image: "/assets/images/products/BIBERON-DR.-GYM-CON-STRASS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BIBERÓN DR. GYM CON STRASS product image"
-category: "bebe"
+sku: '517'
+image: /assets/images/products/BIBERON-DR.-GYM-CON-STRASS.webp
+alt_text: BIBERÓN DR. GYM CON STRASS product image
+category: bebe
 ---
 
 ## Descripción Corta

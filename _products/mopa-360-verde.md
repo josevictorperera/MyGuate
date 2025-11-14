@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1820103558
 permalink: /products/mopa-360-verde/
-title: "Mopa 360 verde"
+title: Mopa 360 verde
 price: 250
-sku: "262"
-image: "/assets/images/products/Mopa-360-verde.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Mopa 360 verde product image"
-category: "Hogar"
+sku: '262'
+image: /assets/images/products/Mopa-360-verde.webp
+alt_text: Mopa 360 verde product image
+category: Hogar
 ---
 
 ## Descripción Corta

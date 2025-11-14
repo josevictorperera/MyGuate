@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 292781508
 permalink: /products/calentador-de-biberon-usb/
-title: "CALENTADOR DE BIBERÓN USB"
+title: CALENTADOR DE BIBERÓN USB
 price: 99
-sku: "513"
-image: "/assets/images/products/CALENTADOR-DE-BIBERON-USB.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALENTADOR DE BIBERÓN USB product image"
-category: "bebe"
+sku: '513'
+image: /assets/images/products/CALENTADOR-DE-BIBERON-USB.webp
+alt_text: CALENTADOR DE BIBERÓN USB product image
+category: bebe
 ---
 
 ## Descripción Corta

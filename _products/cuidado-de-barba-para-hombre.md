@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1346221805
 permalink: /products/cuidado-de-barba-para-hombre/
-title: "CUIDADO DE BARBA PARA HOMBRE"
+title: CUIDADO DE BARBA PARA HOMBRE
 price: 165
-sku: "178"
-image: "/assets/images/products/CUIDADO-DE-BARBA-PARA-HOMBRE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CUIDADO DE BARBA PARA HOMBRE product image"
-category: "Belleza"
+sku: '178'
+image: /assets/images/products/CUIDADO-DE-BARBA-PARA-HOMBRE.webp
+alt_text: CUIDADO DE BARBA PARA HOMBRE product image
+category: Belleza
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1749818762
 permalink: /products/crema-blanqueadora-pontenciadora-7v/
-title: "CREMA BLANQUEADORA PONTENCIADORA  7V"
+title: CREMA BLANQUEADORA PONTENCIADORA  7V
 price: 125
-sku: "182"
-image: "/assets/images/products/CREMA-BLANQUEADORA-PONTENCIADORA-7V.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CREMA BLANQUEADORA PONTENCIADORA  7V product image"
-category: "Belleza"
+sku: '182'
+image: /assets/images/products/CREMA-BLANQUEADORA-PONTENCIADORA-7V.webp
+alt_text: CREMA BLANQUEADORA PONTENCIADORA  7V product image
+category: Belleza
 ---
 
 ## Descripción Corta

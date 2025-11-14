@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 498321385
 permalink: /products/seduccion-natural-con-feromonas/
-title: "SEDUCCIÓN NATURAL CON FEROMONAS"
+title: SEDUCCIÓN NATURAL CON FEROMONAS
 price: 250
-sku: "149"
-image: "/assets/images/products/SEDUCCION-NATURAL-CON-FEROMONAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SEDUCCIÓN NATURAL CON FEROMONAS product image"
-category: "Belleza"
+sku: '149'
+image: /assets/images/products/SEDUCCION-NATURAL-CON-FEROMONAS.webp
+alt_text: SEDUCCIÓN NATURAL CON FEROMONAS product image
+category: Belleza
 ---
 
 ## Descripción Corta

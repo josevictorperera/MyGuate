@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1660165237
 permalink: /products/cubiertos-con-diseños-de-camiones/
-title: "CUBIERTOS CON DISEÑOS DE CAMIONES"
+title: CUBIERTOS CON DISEÑOS DE CAMIONES
 price: 99
-sku: "507"
-image: "/assets/images/products/CUBIERTOS-CON-DISENOS-DE-CAMIONES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CUBIERTOS CON DISEÑOS DE CAMIONES product image"
-category: "bebe"
+sku: '507'
+image: /assets/images/products/CUBIERTOS-CON-DISENOS-DE-CAMIONES.webp
+alt_text: CUBIERTOS CON DISEÑOS DE CAMIONES product image
+category: bebe
 ---
 
 ## Descripción Corta

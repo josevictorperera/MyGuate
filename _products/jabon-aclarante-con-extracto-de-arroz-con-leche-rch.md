@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1724367680
 permalink: /products/jabon-aclarante-con-extracto-de-arroz-con-leche-rch/
-title: "Jabón aclarante con extracto de arroz con leche RCH"
+title: Jabón aclarante con extracto de arroz con leche RCH
 price: 100
-sku: "271"
-image: "/assets/images/products/Jabon-aclarante-con-extracto-de-arroz-con-leche-RCH.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Jabón aclarante con extracto de arroz con leche RCH product image"
-category: "Belleza"
+sku: '271'
+image: >-
+  /assets/images/products/Jabon-aclarante-con-extracto-de-arroz-con-leche-RCH.webp
+alt_text: Jabón aclarante con extracto de arroz con leche RCH product image
+category: Belleza
 ---
 
 ## Descripción Corta

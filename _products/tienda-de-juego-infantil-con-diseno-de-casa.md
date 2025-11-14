@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1845315025
 permalink: /products/tienda-de-juego-infantil-con-diseño-de-casa/
-title: "TIENDA DE JUEGO INFANTIL CON DISEÑO DE CASA"
+title: TIENDA DE JUEGO INFANTIL CON DISEÑO DE CASA
 price: 250
-sku: "133"
-image: "/assets/images/products/TiendaDeJuego.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "TIENDA DE JUEGO INFANTIL CON DISEÑO DE CASA product image"
-category: "bebe Hogar"
+sku: '133'
+image: /assets/images/products/TiendaDeJuego.webp
+alt_text: TIENDA DE JUEGO INFANTIL CON DISEÑO DE CASA product image
+category: bebe Hogar
 ---
 
 ## Descripción Corta

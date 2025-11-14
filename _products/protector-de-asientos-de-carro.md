@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1737486473
 permalink: /products/protector-de-asientos-de-carro/
-title: "PROTECTOR DE ASIENTOS DE CARRO"
+title: PROTECTOR DE ASIENTOS DE CARRO
 price: 300
-sku: "121"
-image: "/assets/images/products/PROTECTOR-DE-ASIENTOS-DE-CARRO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PROTECTOR DE ASIENTOS DE CARRO product image"
-category: "Autos"
+sku: '121'
+image: /assets/images/products/PROTECTOR-DE-ASIENTOS-DE-CARRO.webp
+alt_text: PROTECTOR DE ASIENTOS DE CARRO product image
+category: Autos
 ---
 
 ## Descripción Corta

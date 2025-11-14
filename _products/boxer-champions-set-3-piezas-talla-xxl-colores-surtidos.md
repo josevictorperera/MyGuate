@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1301003223
 permalink: /products/boxer-champions-set-3-piezas-talla-xxl-colores-surtidos/
-title: "BOXER CHAMPIONS SET 3 PIEZAS TALLA XXL  COLORES SURTIDOS"
+title: BOXER CHAMPIONS SET 3 PIEZAS TALLA XXL  COLORES SURTIDOS
 price: 130
-sku: "473"
-image: "/assets/images/products/BOXER-CHAMPIONS-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER CHAMPIONS SET 3 PIEZAS TALLA XXL  COLORES SURTIDOS product image"
-category: "Moda"
+sku: '473'
+image: >-
+  /assets/images/products/BOXER-CHAMPIONS-SET-3-PIEZAS-TALLA-XXL-COLORES-SURTIDOS.webp
+alt_text: BOXER CHAMPIONS SET 3 PIEZAS TALLA XXL  COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

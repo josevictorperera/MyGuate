@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 376300973
 permalink: /products/calcetines-adidas-cortos-ninio-8_10-color-negro/
-title: "CALCETINES ADIDAS CORTOS NIÑO 8_10 COLOR NEGRO"
+title: CALCETINES ADIDAS CORTOS NIÑO 8_10 COLOR NEGRO
 price: 20
-sku: "433"
-image: "/assets/images/products/CALCETINES-ADIDAS-CORTOS-NINO-8_10-COLOR-NEGRO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES ADIDAS CORTOS NIÑO 8_10 COLOR NEGRO product image"
-category: "Moda ninios"
+sku: '433'
+image: /assets/images/products/CALCETINES-ADIDAS-CORTOS-NINO-8_10-COLOR-NEGRO.webp
+alt_text: CALCETINES ADIDAS CORTOS NIÑO 8_10 COLOR NEGRO product image
+category: Moda ninios
 ---
 
 ## Descripción Corta

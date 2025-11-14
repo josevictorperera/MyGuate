@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 264045133
 permalink: /products/gorra-louis-vuitton-color-negro-con-malla/
-title: "GORRA LOUIS VUITTON COLOR NEGRO CON MALLA"
+title: GORRA LOUIS VUITTON COLOR NEGRO CON MALLA
 price: 125
-sku: "333"
-image: "/assets/images/products/GORRA-LOUIS-VUITTON-COLOR-NEGRO-CON-MALLA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA LOUIS VUITTON COLOR NEGRO CON MALLA product image"
-category: "Moda > Gorra"
+sku: '333'
+image: /assets/images/products/GORRA-LOUIS-VUITTON-COLOR-NEGRO-CON-MALLA.webp
+alt_text: GORRA LOUIS VUITTON COLOR NEGRO CON MALLA product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

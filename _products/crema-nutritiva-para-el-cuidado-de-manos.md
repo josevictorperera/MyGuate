@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1124757845
 permalink: /products/crema-nutritiva-para-el-cuidado-de-manos/
-title: "Crema nutritiva para el cuidado de manos"
+title: Crema nutritiva para el cuidado de manos
 price: 125
-sku: "180"
-image: "/assets/images/products/Crema-nutritiva-para-el-cuidado-de-manos.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Crema nutritiva para el cuidado de manos product image"
-category: "Belleza"
+sku: '180'
+image: /assets/images/products/Crema-nutritiva-para-el-cuidado-de-manos.webp
+alt_text: Crema nutritiva para el cuidado de manos product image
+category: Belleza
 ---
 
 ## Descripción Corta

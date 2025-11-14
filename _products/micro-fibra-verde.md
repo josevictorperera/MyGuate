@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 879549266
 permalink: /products/micro-fibra-verde/
-title: "Micro fibra verde"
+title: Micro fibra verde
 price: 200
-sku: "265"
-image: "/assets/images/products/Micro-fibra-verde.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Micro fibra verde product image"
-category: "Ferretería Hogar"
+sku: '265'
+image: /assets/images/products/Micro-fibra-verde.webp
+alt_text: Micro fibra verde product image
+category: Ferretería Hogar
 ---
 
 ## Descripción Corta

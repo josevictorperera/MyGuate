@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1855568351
 permalink: /products/organizador-de-huevos/
-title: "Organizador de Huevos"
+title: Organizador de Huevos
 price: 200
-sku: "259"
-image: "/assets/images/products/Organizador-de-Huevos.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Organizador de Huevos product image"
-category: "Hogar"
+sku: '259'
+image: /assets/images/products/Organizador-de-Huevos.webp
+alt_text: Organizador de Huevos product image
+category: Hogar
 ---
 
 ## Descripción Corta

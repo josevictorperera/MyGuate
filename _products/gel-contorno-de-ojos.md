@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1210279687
 permalink: /products/gel-contorno-de-ojos/
-title: "Gel Contorno de Ojos"
+title: Gel Contorno de Ojos
 price: 220
-sku: "175"
-image: "/assets/images/products/Gel-Contorno-de-Ojos.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Gel Contorno de Ojos product image"
-category: "Belleza"
+sku: '175'
+image: /assets/images/products/Gel-Contorno-de-Ojos.webp
+alt_text: Gel Contorno de Ojos product image
+category: Belleza
 ---
 
 ## Descripción Corta

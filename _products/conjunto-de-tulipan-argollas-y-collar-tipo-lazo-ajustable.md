@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1762502330
 permalink: /products/conjunto-de-tulipan-argollas-y-collar-tipo-lazo-ajustable/
-title: "Conjunto de Tulipan Argollas y Collar tipo lazo ajustable"
+title: Conjunto de Tulipan Argollas y Collar tipo lazo ajustable
 price: 145
-sku: "197"
-image: "/assets/images/products/Conjunto-de-Tulipan-Argollas-y-Collar-tipo-lazo-ajustable.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Conjunto de Tulipan Argollas y Collar tipo lazo ajustable product image"
-category: "joyas"
+sku: '197'
+image: >-
+  /assets/images/products/Conjunto-de-Tulipan-Argollas-y-Collar-tipo-lazo-ajustable.webp
+alt_text: Conjunto de Tulipan Argollas y Collar tipo lazo ajustable product image
+category: joyas
 ---
 
 ## Descripción Corta

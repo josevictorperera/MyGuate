@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1092169281
 permalink: /products/serum-hidratador-de-niamicida/
-title: "Serum Hidratador de Niamicida"
+title: Serum Hidratador de Niamicida
 price: 180
-sku: "290"
-image: "/assets/images/products/Serum-Hidratador-de-Niamicida.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Serum Hidratador de Niamicida product image"
-category: "Belleza"
+sku: '290'
+image: /assets/images/products/Serum-Hidratador-de-Niamicida.webp
+alt_text: Serum Hidratador de Niamicida product image
+category: Belleza
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1998715069
 permalink: /products/calcetines-fila-cortos-color-gris/
-title: "CALCETINES FILA CORTOS COLOR GRIS"
+title: CALCETINES FILA CORTOS COLOR GRIS
 price: 20
-sku: "431"
-image: "/assets/images/products/CALCETINES-FILA-CORTOS-COLOR-GRIS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES FILA CORTOS COLOR GRIS product image"
-category: "Moda"
+sku: '431'
+image: /assets/images/products/CALCETINES-FILA-CORTOS-COLOR-GRIS.webp
+alt_text: CALCETINES FILA CORTOS COLOR GRIS product image
+category: Moda
 ---
 
 ## Descripción Corta

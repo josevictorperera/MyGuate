@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 499828808
 permalink: /products/silla-de-comer-para-bebes-multifuncional/
-title: "SILLA DE COMER PARA BEBES MULTIFUNCIONAL"
+title: SILLA DE COMER PARA BEBES MULTIFUNCIONAL
 price: 950
-sku: "124"
-image: "/assets/images/products/SILLA-DE-COMER-PARA-BEBES-MULTIFUNCIONAL.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SILLA DE COMER PARA BEBES MULTIFUNCIONAL product image"
-category: "bebe Hogar"
+sku: '124'
+image: /assets/images/products/SILLA-DE-COMER-PARA-BEBES-MULTIFUNCIONAL.webp
+alt_text: SILLA DE COMER PARA BEBES MULTIFUNCIONAL product image
+category: bebe Hogar
 ---
 
 ## Descripción Corta

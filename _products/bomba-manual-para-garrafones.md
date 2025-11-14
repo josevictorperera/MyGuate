@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2058145334
 permalink: /products/bomba-manual-para-garrafones/
-title: "BOMBA MANUAL PARA GARRAFONES"
+title: BOMBA MANUAL PARA GARRAFONES
 price: 99
-sku: "102"
-image: "/assets/images/products/BOMBA-MANUAL-PARA-GARRAFONES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOMBA MANUAL PARA GARRAFONES product image"
-category: "Hogar"
+sku: '102'
+image: /assets/images/products/BOMBA-MANUAL-PARA-GARRAFONES.webp
+alt_text: BOMBA MANUAL PARA GARRAFONES product image
+category: Hogar
 ---
 
 ## Descripción Corta

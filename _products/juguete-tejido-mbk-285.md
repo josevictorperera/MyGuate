@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1437895236
 permalink: /products/juguete-tejido-mbk-285/
-title: "JUGUETE TEJIDO MBK-285"
+title: JUGUETE TEJIDO MBK-285
 price: 300
-sku: "489"
-image: "/assets/images/products/JUGUETE-TEJIDO-MBK-285.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "JUGUETE TEJIDO MBK-285 product image"
-category: "Juguetes"
+sku: '489'
+image: /assets/images/products/JUGUETE-TEJIDO-MBK-285.webp
+alt_text: JUGUETE TEJIDO MBK-285 product image
+category: Juguetes
 ---
 
 ## Descripción Corta

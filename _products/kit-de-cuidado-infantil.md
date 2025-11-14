@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 101064694
 permalink: /products/kit-de-cuidado-infantil/
-title: "KIT DE CUIDADO INFANTIL"
+title: KIT DE CUIDADO INFANTIL
 price: 99
-sku: "504"
-image: "/assets/images/products/KIT-DE-CUIDADO-INFANTIL-.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "KIT DE CUIDADO INFANTIL product image"
-category: "bebe"
+sku: '504'
+image: /assets/images/products/KIT-DE-CUIDADO-INFANTIL-.webp
+alt_text: KIT DE CUIDADO INFANTIL product image
+category: bebe
 ---
 
 ## Descripción Corta

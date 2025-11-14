@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1478245420
 permalink: /products/perfume-dama-si-georgio-armani-eau-de-parfum-100ml/
-title: "PERFUME DAMA SI GEORGIO ARMANI EAU DE PARFUM 100ML"
+title: PERFUME DAMA SI GEORGIO ARMANI EAU DE PARFUM 100ML
 price: 200
-sku: "302"
-image: "/assets/images/products/PERFUME-DAMA-SI-GEORGIO-ARMANI-EAU-DE-PARFUM-100ML.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PERFUME DAMA SI GEORGIO ARMANI EAU DE PARFUM 100ML product image"
-category: "Belleza"
+sku: '302'
+image: >-
+  /assets/images/products/PERFUME-DAMA-SI-GEORGIO-ARMANI-EAU-DE-PARFUM-100ML.webp
+alt_text: PERFUME DAMA SI GEORGIO ARMANI EAU DE PARFUM 100ML product image
+category: Belleza
 ---
 
 ## Descripción Corta

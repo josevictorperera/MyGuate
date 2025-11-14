@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1787067147
 permalink: /products/parches-de-colageno-ajuste-koreano/
-title: "PARCHES DE COLÁGENO AJUSTE KOREANO"
+title: PARCHES DE COLÁGENO AJUSTE KOREANO
 price: 125
-sku: "161"
-image: "/assets/images/products/PARCHES-DE-COLAGENO-AJUSTE-KOREANO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PARCHES DE COLÁGENO AJUSTE KOREANO product image"
-category: "Belleza"
+sku: '161'
+image: /assets/images/products/PARCHES-DE-COLAGENO-AJUSTE-KOREANO.webp
+alt_text: PARCHES DE COLÁGENO AJUSTE KOREANO product image
+category: Belleza
 ---
 
 ## Descripción Corta

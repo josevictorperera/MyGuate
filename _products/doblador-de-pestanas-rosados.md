@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 20959051
 permalink: /products/doblador-de-pestanias-rosados/
-title: "Doblador de Pestañas Rosados"
+title: Doblador de Pestañas Rosados
 price: 190
-sku: "297"
-image: "/assets/images/products/Doblador-de-Pestanas-Rosados.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Doblador de Pestañas Rosados product image"
-category: "Belleza"
+sku: '297'
+image: /assets/images/products/Doblador-de-Pestanas-Rosados.webp
+alt_text: Doblador de Pestañas Rosados product image
+category: Belleza
 ---
 
 ## Descripción Corta

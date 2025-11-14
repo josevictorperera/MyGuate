@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 606024807
 permalink: /products/calcetines-nike-cortos-color-blanco-con-negro-unidad/
-title: "CALCETINES NIKE CORTOS COLOR BLANCO CON NEGRO (UNIDAD)"
+title: CALCETINES NIKE CORTOS COLOR BLANCO CON NEGRO (UNIDAD)
 price: 20
-sku: "420"
-image: "/assets/images/products/CALCETINES-NIKE-CORTOS-COLOR-BLANCO-CON-NEGRO-UNIDAD.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES NIKE CORTOS COLOR BLANCO CON NEGRO (UNIDAD) product image"
-category: "Moda"
+sku: '420'
+image: >-
+  /assets/images/products/CALCETINES-NIKE-CORTOS-COLOR-BLANCO-CON-NEGRO-UNIDAD.webp
+alt_text: CALCETINES NIKE CORTOS COLOR BLANCO CON NEGRO (UNIDAD) product image
+category: Moda
 ---
 
 ## Descripción Corta

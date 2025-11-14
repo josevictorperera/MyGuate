@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 433414455
 permalink: /products/masajeadora-de-ojeras-360/
-title: "Masajeadora de Ojeras 360"
+title: Masajeadora de Ojeras 360
 price: 160
-sku: "294"
-image: "/assets/images/products/Masajeadora-de-Ojeras-360.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Masajeadora de Ojeras 360 product image"
-category: "Belleza"
+sku: '294'
+image: /assets/images/products/Masajeadora-de-Ojeras-360.webp
+alt_text: Masajeadora de Ojeras 360 product image
+category: Belleza
 ---
 
 ## Descripción Corta

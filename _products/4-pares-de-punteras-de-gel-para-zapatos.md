@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1838562960
 permalink: /products/4-pares-de-punteras-de-gel-para-zapatos/
-title: "4 Pares de punteras de gel para zapatos"
+title: 4 Pares de punteras de gel para zapatos
 price: 25
-sku: "244"
-image: "/assets/images/products/4-Pares-de-punteras-de-gel-para-zapatos.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "4 Pares de punteras de gel para zapatos product image"
-category: "accesorios"
+sku: '244'
+image: /assets/images/products/4-Pares-de-punteras-de-gel-para-zapatos.webp
+alt_text: 4 Pares de punteras de gel para zapatos product image
+category: accesorios
 ---
 
 ## Descripción Corta

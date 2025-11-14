@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1110723680
 permalink: /products/blanqueador-facial-en-barra-de-vitamina-c/
-title: "BLANQUEADOR FACIAL EN BARRA DE VITAMINA C"
+title: BLANQUEADOR FACIAL EN BARRA DE VITAMINA C
 price: 125
-sku: "191"
-image: "/assets/images/products/BLANQUEADOR-FACIAL-EN-BARRA-DE-VITAMINA-C.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BLANQUEADOR FACIAL EN BARRA DE VITAMINA C product image"
-category: "Belleza"
+sku: '191'
+image: /assets/images/products/BLANQUEADOR-FACIAL-EN-BARRA-DE-VITAMINA-C.webp
+alt_text: BLANQUEADOR FACIAL EN BARRA DE VITAMINA C product image
+category: Belleza
 ---
 
 ## Descripción Corta

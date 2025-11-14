@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 26784520
 permalink: /products/calcetines-nike-alto-color-blanco/
-title: "CALCETINES NIKE ALTO COLOR BLANCO"
+title: CALCETINES NIKE ALTO COLOR BLANCO
 price: 20
-sku: "429"
-image: "/assets/images/products/CALCETINES-NIKE-ALTO-COLOR-BLANCO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES NIKE ALTO COLOR BLANCO product image"
-category: "Moda"
+sku: '429'
+image: /assets/images/products/CALCETINES-NIKE-ALTO-COLOR-BLANCO.webp
+alt_text: CALCETINES NIKE ALTO COLOR BLANCO product image
+category: Moda
 ---
 
 ## Descripción Corta

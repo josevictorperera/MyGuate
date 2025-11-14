@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1793350772
 permalink: /products/carillas-dentales/
-title: "CARILLAS DENTALES"
+title: CARILLAS DENTALES
 price: 125
-sku: "190"
-image: "/assets/images/products/CARILLAS-DENTALES.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CARILLAS DENTALES product image"
-category: "Belleza"
+sku: '190'
+image: /assets/images/products/CARILLAS-DENTALES.webp
+alt_text: CARILLAS DENTALES product image
+category: Belleza
 ---
 
 ## Descripción Corta

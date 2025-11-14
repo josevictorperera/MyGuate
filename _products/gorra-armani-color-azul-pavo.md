@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 629230500
 permalink: /products/gorra-armani-color-azul-pavo/
-title: "GORRA ARMANI COLOR AZUL PAVO"
+title: GORRA ARMANI COLOR AZUL PAVO
 price: 125
-sku: "388"
-image: "/assets/images/products/GORRA-ARMANI-COLOR-AZUL-PAVO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA ARMANI COLOR AZUL PAVO product image"
-category: "Moda > Gorra"
+sku: '388'
+image: /assets/images/products/GORRA-ARMANI-COLOR-AZUL-PAVO.webp
+alt_text: GORRA ARMANI COLOR AZUL PAVO product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

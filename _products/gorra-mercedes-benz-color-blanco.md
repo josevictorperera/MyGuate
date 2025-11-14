@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 580077336
 permalink: /products/gorra-mercedes-benz-color-blanco/
-title: "GORRA MERCEDES BENZ COLOR BLANCO"
+title: GORRA MERCEDES BENZ COLOR BLANCO
 price: 125
-sku: "332"
-image: "/assets/images/products/GORRA-MERCEDES-BENZ-COLOR-BLANCO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA MERCEDES BENZ COLOR BLANCO product image"
-category: "Moda > Gorra"
+sku: '332'
+image: /assets/images/products/GORRA-MERCEDES-BENZ-COLOR-BLANCO.webp
+alt_text: GORRA MERCEDES BENZ COLOR BLANCO product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

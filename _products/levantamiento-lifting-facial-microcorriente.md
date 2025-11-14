@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1507463060
 permalink: /products/levantamiento-lifting-facial-microcorriente/
-title: "LEVANTAMIENTO LIFTING FACIAL MICROCORRIENTE"
+title: LEVANTAMIENTO LIFTING FACIAL MICROCORRIENTE
 price: 225
-sku: "171"
-image: "/assets/images/products/LEVANTAMIENTO-LIFTING-FACIAL-MICROCORRIENTE.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "LEVANTAMIENTO LIFTING FACIAL MICROCORRIENTE product image"
-category: "Belleza"
+sku: '171'
+image: /assets/images/products/LEVANTAMIENTO-LIFTING-FACIAL-MICROCORRIENTE.webp
+alt_text: LEVANTAMIENTO LIFTING FACIAL MICROCORRIENTE product image
+category: Belleza
 ---
 
 ## Descripción Corta

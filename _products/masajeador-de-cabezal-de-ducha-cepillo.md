@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 513618605
 permalink: /products/masajeador-de-cabezal-de-ducha-cepillo/
-title: "MASAJEADOR DE CABEZAL DE DUCHA CEPILLO"
+title: MASAJEADOR DE CABEZAL DE DUCHA CEPILLO
 price: 125
-sku: "169"
-image: "/assets/images/products/MASAJEADOR-DE-CABEZAL-DE-DUCHA-CEPILLO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "MASAJEADOR DE CABEZAL DE DUCHA CEPILLO product image"
-category: "Belleza"
+sku: '169'
+image: /assets/images/products/MASAJEADOR-DE-CABEZAL-DE-DUCHA-CEPILLO.webp
+alt_text: MASAJEADOR DE CABEZAL DE DUCHA CEPILLO product image
+category: Belleza
 ---
 
 ## Descripción Corta

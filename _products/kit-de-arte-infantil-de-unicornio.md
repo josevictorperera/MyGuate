@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1615864746
 permalink: /products/kit-de-arte-infantil-de-unicornio/
-title: "KIT DE ARTE INFANTIL DE UNICORNIO"
+title: KIT DE ARTE INFANTIL DE UNICORNIO
 price: 250
-sku: "110"
-image: "/assets/images/products/KIT-DE-ARTE-INFANTIL-DE-UNICORNIO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "KIT DE ARTE INFANTIL DE UNICORNIO product image"
-category: "bebe Librería"
+sku: '110'
+image: /assets/images/products/KIT-DE-ARTE-INFANTIL-DE-UNICORNIO.webp
+alt_text: KIT DE ARTE INFANTIL DE UNICORNIO product image
+category: bebe Librería
 ---
 
 ## Descripción Corta

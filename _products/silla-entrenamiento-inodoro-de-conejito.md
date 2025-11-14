@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 317868668
 permalink: /products/silla-entrenamiento-inodoro-de-conejito/
-title: "SILLA ENTRENAMIENTO INODORO DE CONEJITO"
+title: SILLA ENTRENAMIENTO INODORO DE CONEJITO
 price: 250
-sku: "126"
-image: "/assets/images/products/SILLA-ENTRENAMIENTO-INODORO-DE-CONEJITO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SILLA ENTRENAMIENTO INODORO DE CONEJITO product image"
-category: "bebe Hogar"
+sku: '126'
+image: /assets/images/products/SILLA-ENTRENAMIENTO-INODORO-DE-CONEJITO.webp
+alt_text: SILLA ENTRENAMIENTO INODORO DE CONEJITO product image
+category: bebe Hogar
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1231914124
 permalink: /products/suero-facial-20-ml/
-title: "Suero Facial 20 ml"
+title: Suero Facial 20 ml
 price: 200
-sku: "250"
-image: "/assets/images/products/Suero-Facial-20-ml.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Suero Facial 20 ml product image"
-category: "Belleza"
+sku: '250'
+image: /assets/images/products/Suero-Facial-20-ml.webp
+alt_text: Suero Facial 20 ml product image
+category: Belleza
 ---
 
 ## Descripción Corta

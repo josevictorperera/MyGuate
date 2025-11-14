@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1994052007
 permalink: /products/set-de-cuchillos/
-title: "Set de Cuchillos"
+title: Set de Cuchillos
 price: 150
-sku: "256"
-image: "/assets/images/products/Set-de-Cuchillos.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Set de Cuchillos product image"
-category: "Hogar"
+sku: '256'
+image: /assets/images/products/Set-de-Cuchillos.webp
+alt_text: Set de Cuchillos product image
+category: Hogar
 ---
 
 ## Descripción Corta

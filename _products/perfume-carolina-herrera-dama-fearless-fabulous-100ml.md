@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 2075874187
 permalink: /products/perfume-carolina-herrera-dama-fearless-fabulous-100ml/
-title: "PERFUME CAROLINA HERRERA DAMA FEARLESS FABULOUS 100ML"
+title: PERFUME CAROLINA HERRERA DAMA FEARLESS FABULOUS 100ML
 price: 200
-sku: "305"
-image: "/assets/images/products/PERFUME-CAROLINA-HERRERA-DAMA-FEARLESS-FABULOUS-100ML.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PERFUME CAROLINA HERRERA DAMA FEARLESS FABULOUS 100ML product image"
-category: "Belleza"
+sku: '305'
+image: >-
+  /assets/images/products/PERFUME-CAROLINA-HERRERA-DAMA-FEARLESS-FABULOUS-100ML.webp
+alt_text: PERFUME CAROLINA HERRERA DAMA FEARLESS FABULOUS 100ML product image
+category: Belleza
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 154354979
 permalink: /products/lima-de-uñas-para-bb/
-title: "LIMA DE UÑAS PARA BB"
+title: LIMA DE UÑAS PARA BB
 price: 99
-sku: "503"
-image: "/assets/images/products/LIMA-DE-UNAS-PARA-BB.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "LIMA DE UÑAS PARA BB product image"
-category: "bebe"
+sku: '503'
+image: /assets/images/products/LIMA-DE-UNAS-PARA-BB.webp
+alt_text: LIMA DE UÑAS PARA BB product image
+category: bebe
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1613465362
 permalink: /products/trolly-con-canastas/
-title: "TROLLY CON CANASTAS"
+title: TROLLY CON CANASTAS
 price: 325
-sku: "131"
-image: "/assets/images/products/TROLLY-CON-CANASTAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "TROLLY CON CANASTAS product image"
-category: "Hogar"
+sku: '131'
+image: /assets/images/products/TROLLY-CON-CANASTAS.webp
+alt_text: TROLLY CON CANASTAS product image
+category: Hogar
 ---
 
 ## Descripción Corta

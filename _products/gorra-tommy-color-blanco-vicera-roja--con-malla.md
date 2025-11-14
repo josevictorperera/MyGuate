@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1273953672
 permalink: /products/gorra-tommy-color-blanco-vicera-roja--con-malla/
-title: "GORRA TOMMY COLOR BLANCO VICERA ROJA , CON MALLA"
+title: 'GORRA TOMMY COLOR BLANCO VICERA ROJA , CON MALLA'
 price: 125
-sku: "nan"
-image: "/assets/images/products/GORRA-TOMMY-COLOR-BLANCO-VICERA-ROJA-CON-MALLA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA TOMMY COLOR BLANCO VICERA ROJA , CON MALLA product image"
-category: "Moda > Gorra"
+sku: nan
+image: /assets/images/products/GORRA-TOMMY-COLOR-BLANCO-VICERA-ROJA-CON-MALLA.webp
+alt_text: 'GORRA TOMMY COLOR BLANCO VICERA ROJA , CON MALLA product image'
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

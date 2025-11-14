@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2066497620
 permalink: /products/mesa-infantil-capibara/
-title: "MESA INFANTIL CAPIBARA"
+title: MESA INFANTIL CAPIBARA
 price: 99
-sku: "112"
-image: "/assets/images/products/MESA-INFANTIL-CAPIBARA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "MESA INFANTIL CAPIBARA product image"
-category: "bebe Hogar"
+sku: '112'
+image: /assets/images/products/MESA-INFANTIL-CAPIBARA.webp
+alt_text: MESA INFANTIL CAPIBARA product image
+category: bebe Hogar
 ---
 
 ## Descripción Corta

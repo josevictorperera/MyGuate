@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1640712066
 permalink: /products/organizador-de-maquillaje-con-espejo-y-cajones/
-title: "ORGANIZADOR DE MAQUILLAJE CON ESPEJO Y CAJONES"
+title: ORGANIZADOR DE MAQUILLAJE CON ESPEJO Y CAJONES
 price: 99
-sku: "135"
-image: "/assets/images/products/ORganizadorMaquillaje.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ORGANIZADOR DE MAQUILLAJE CON ESPEJO Y CAJONES product image"
-category: "Belleza Hogar"
+sku: '135'
+image: /assets/images/products/ORganizadorMaquillaje.webp
+alt_text: ORGANIZADOR DE MAQUILLAJE CON ESPEJO Y CAJONES product image
+category: Belleza Hogar
 ---
 
 ## Descripción Corta

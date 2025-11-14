@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 92438973
 permalink: /products/calcetines-puma-talla-l-corto-color-negro-unidad/
-title: "CALCETINES PUMA TALLA L CORTO COLOR NEGRO (UNIDAD)"
+title: CALCETINES PUMA TALLA L CORTO COLOR NEGRO (UNIDAD)
 price: 20
-sku: "401"
-image: "/assets/images/products/CALCETINES-PUMA-TALLA-L-CORTO-COLOR-NEGRO-UNIDAD.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES PUMA TALLA L CORTO COLOR NEGRO (UNIDAD) product image"
-category: "Moda"
+sku: '401'
+image: /assets/images/products/CALCETINES-PUMA-TALLA-L-CORTO-COLOR-NEGRO-UNIDAD.webp
+alt_text: CALCETINES PUMA TALLA L CORTO COLOR NEGRO (UNIDAD) product image
+category: Moda
 ---
 
 ## Descripción Corta

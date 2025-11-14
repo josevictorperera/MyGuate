@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 801142658
 permalink: /products/boxer-versaceset-3-piezas-talla-m-colores-surtidos/
-title: "BOXER VERSACESET 3 PIEZAS TALLA M COLORES SURTIDOS"
+title: BOXER VERSACESET 3 PIEZAS TALLA M COLORES SURTIDOS
 price: 130
-sku: "448"
-image: "/assets/images/products/BOXER-VERSACESET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER VERSACESET 3 PIEZAS TALLA M COLORES SURTIDOS product image"
-category: "Moda"
+sku: '448'
+image: >-
+  /assets/images/products/BOXER-VERSACESET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp
+alt_text: BOXER VERSACESET 3 PIEZAS TALLA M COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

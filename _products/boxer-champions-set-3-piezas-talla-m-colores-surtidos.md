@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 307784936
 permalink: /products/boxer-champions-set-3-piezas-talla-m-colores-surtidos/
-title: "BOXER CHAMPIONS SET 3 PIEZAS TALLA M COLORES SURTIDOS"
+title: BOXER CHAMPIONS SET 3 PIEZAS TALLA M COLORES SURTIDOS
 price: 130
-sku: "475"
-image: "/assets/images/products/BOXER-CHAMPIONS-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER CHAMPIONS SET 3 PIEZAS TALLA M COLORES SURTIDOS product image"
-category: "Moda"
+sku: '475'
+image: >-
+  /assets/images/products/BOXER-CHAMPIONS-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp
+alt_text: BOXER CHAMPIONS SET 3 PIEZAS TALLA M COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

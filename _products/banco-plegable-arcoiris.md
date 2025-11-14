@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1360107801
 permalink: /products/banco-plegable-arcoiris/
-title: "Banco Plegable Arcoíris"
+title: Banco Plegable Arcoíris
 price: 150
-sku: "284"
-image: "/assets/images/products/Banco-Plegable-Arcoiris.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Banco Plegable Arcoíris product image"
-category: "Hogar"
+sku: '284'
+image: /assets/images/products/Banco-Plegable-Arcoiris.webp
+alt_text: Banco Plegable Arcoíris product image
+category: Hogar
 ---
 
 ## Descripción Corta

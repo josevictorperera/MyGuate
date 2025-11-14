@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 851054805
 permalink: /products/gaveta-para-closet-alta-unidad/
-title: "GAVETA PARA CLOSET ALTA UNIDAD"
+title: GAVETA PARA CLOSET ALTA UNIDAD
 price: 135
-sku: "107"
-image: "/assets/images/products/GAVETA-PARA-CLOSET-ALTA-UNIDAD.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GAVETA PARA CLOSET ALTA UNIDAD product image"
-category: "Hogar"
+sku: '107'
+image: /assets/images/products/GAVETA-PARA-CLOSET-ALTA-UNIDAD.webp
+alt_text: GAVETA PARA CLOSET ALTA UNIDAD product image
+category: Hogar
 ---
 
 ## Descripción Corta

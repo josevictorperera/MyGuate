@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 32664128
 permalink: /products/perfume-dama-fame-paco-rabanne-80ml/
-title: "PERFUME DAMA FAME PACO RABANNE 80ML"
+title: PERFUME DAMA FAME PACO RABANNE 80ML
 price: 250
-sku: "304"
-image: "/assets/images/products/PERFUME-DAMA-FAME-PACO-RABANNE-80ML.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PERFUME DAMA FAME PACO RABANNE 80ML product image"
-category: "Belleza"
+sku: '304'
+image: /assets/images/products/PERFUME-DAMA-FAME-PACO-RABANNE-80ML.webp
+alt_text: PERFUME DAMA FAME PACO RABANNE 80ML product image
+category: Belleza
 ---
 
 ## Descripción Corta

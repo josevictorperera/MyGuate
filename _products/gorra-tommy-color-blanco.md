@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 32625398
 permalink: /products/gorra-tommy-color-blanco/
-title: "GORRA TOMMY COLOR BLANCO"
+title: GORRA TOMMY COLOR BLANCO
 price: 125
-sku: "314"
-image: "/assets/images/products/GORRA-TOMMY-COLOR-BLANCO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA TOMMY COLOR BLANCO product image"
-category: "Moda > Gorra"
+sku: '314'
+image: /assets/images/products/GORRA-TOMMY-COLOR-BLANCO.webp
+alt_text: GORRA TOMMY COLOR BLANCO product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

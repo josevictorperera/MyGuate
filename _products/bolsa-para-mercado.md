@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 253302190
 permalink: /products/bolsa-para-mercado/
-title: "Bolsa para Mercado"
+title: Bolsa para Mercado
 price: 150
-sku: "283"
-image: "/assets/images/products/Bolsa-para-Mercado.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Bolsa para Mercado product image"
-category: "Hogar"
+sku: '283'
+image: /assets/images/products/Bolsa-para-Mercado.webp
+alt_text: Bolsa para Mercado product image
+category: Hogar
 ---
 
 ## Descripción Corta

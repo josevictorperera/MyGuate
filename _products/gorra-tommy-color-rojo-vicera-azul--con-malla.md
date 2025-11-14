@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1086261101
 permalink: /products/gorra-tommy-color-rojo-vicera-azul--con-malla/
-title: "GORRA TOMMY COLOR ROJO VICERA AZUL , CON MALLA"
+title: 'GORRA TOMMY COLOR ROJO VICERA AZUL , CON MALLA'
 price: 125
-sku: "nan"
-image: "/assets/images/products/GORRA-TOMMY-COLOR-ROJO-VICERA-AZUL-CON-MALLA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA TOMMY COLOR ROJO VICERA AZUL , CON MALLA product image"
-category: "Moda > Gorra"
+sku: nan
+image: /assets/images/products/GORRA-TOMMY-COLOR-ROJO-VICERA-AZUL-CON-MALLA.webp
+alt_text: 'GORRA TOMMY COLOR ROJO VICERA AZUL , CON MALLA product image'
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

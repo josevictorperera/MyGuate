@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 201456660
 permalink: /products/serum-alargador-de-pestanias/
-title: "SERUM ALARGADOR DE PESTAÑAS"
+title: SERUM ALARGADOR DE PESTAÑAS
 price: 220
-sku: "148"
-image: "/assets/images/products/SERUM-ALARGADOR-DE-PESTANAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SERUM ALARGADOR DE PESTAÑAS product image"
-category: "Belleza"
+sku: '148'
+image: /assets/images/products/SERUM-ALARGADOR-DE-PESTANAS.webp
+alt_text: SERUM ALARGADOR DE PESTAÑAS product image
+category: Belleza
 ---
 
 ## Descripción Corta

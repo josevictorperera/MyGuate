@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 681133026
 permalink: /products/set-de-arte-180-piezas/
-title: "SET DE ARTE 180 PIEZAS"
+title: SET DE ARTE 180 PIEZAS
 price: 150
-sku: "125"
-image: "/assets/images/products/SET-DE-ARTE-180-PIEZAS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "SET DE ARTE 180 PIEZAS product image"
-category: "Librería"
+sku: '125'
+image: /assets/images/products/SET-DE-ARTE-180-PIEZAS.webp
+alt_text: SET DE ARTE 180 PIEZAS product image
+category: Librería
 ---
 
 ## Descripción Corta

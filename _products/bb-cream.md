@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1771577507
 permalink: /products/bb-cream/
-title: "BB Cream"
+title: BB Cream
 price: 280
-sku: "193"
-image: "/assets/images/products/BB-Cream.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BB Cream product image"
-category: "Belleza"
+sku: '193'
+image: /assets/images/products/BB-Cream.webp
+alt_text: BB Cream product image
+category: Belleza
 ---
 
 ## Descripción Corta

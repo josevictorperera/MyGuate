@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1796377588
 permalink: /products/boxer-adiadas-set-3-piezas-talla-l-colores-surtidos/
-title: "BOXER ADIADAS SET 3 PIEZAS TALLA L COLORES SURTIDOS"
+title: BOXER ADIADAS SET 3 PIEZAS TALLA L COLORES SURTIDOS
 price: 130
-sku: "486"
-image: "/assets/images/products/BOXER-ADIADAS-SET-3-PIEZAS-TALLA-L-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER ADIADAS SET 3 PIEZAS TALLA L COLORES SURTIDOS product image"
-category: "Moda"
+sku: '486'
+image: >-
+  /assets/images/products/BOXER-ADIADAS-SET-3-PIEZAS-TALLA-L-COLORES-SURTIDOS.webp
+alt_text: BOXER ADIADAS SET 3 PIEZAS TALLA L COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

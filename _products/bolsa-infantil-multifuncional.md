@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 485136846
 permalink: /products/bolsa-infantil-multifuncional/
-title: "BOLSA INFANTIL MULTIFUNCIONAL"
+title: BOLSA INFANTIL MULTIFUNCIONAL
 price: 150
-sku: "516"
-image: "/assets/images/products/BOLSA-INFANTIL-MULTIFUNCIONAL.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOLSA INFANTIL MULTIFUNCIONAL product image"
-category: "bebe"
+sku: '516'
+image: /assets/images/products/BOLSA-INFANTIL-MULTIFUNCIONAL.webp
+alt_text: BOLSA INFANTIL MULTIFUNCIONAL product image
+category: bebe
 ---
 
 ## Descripción Corta

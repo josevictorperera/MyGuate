@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 658530826
 permalink: /products/balsamo-labial/
-title: "Bálsamo Labial"
+title: Bálsamo Labial
 price: 95
-sku: "194"
-image: "/assets/images/products/Balsamo-Labial.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Bálsamo Labial product image"
-category: "Belleza"
+sku: '194'
+image: /assets/images/products/Balsamo-Labial.webp
+alt_text: Bálsamo Labial product image
+category: Belleza
 ---
 
 ## Descripción Corta

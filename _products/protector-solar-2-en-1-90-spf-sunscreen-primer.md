@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 985663876
 permalink: /products/protector-solar-2-en-1-90-spf-sunscreen-primer/
-title: "PROTECTOR SOLAR 2 EN 1 90 SPF SUNSCREEN PRIMER"
+title: PROTECTOR SOLAR 2 EN 1 90 SPF SUNSCREEN PRIMER
 price: 175
-sku: "155"
-image: "/assets/images/products/PROTECTOR-SOLAR-2-EN-1-90-SPF-SUNSCREEN-PRIMER.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PROTECTOR SOLAR 2 EN 1 90 SPF SUNSCREEN PRIMER product image"
-category: "Belleza Salud"
+sku: '155'
+image: /assets/images/products/PROTECTOR-SOLAR-2-EN-1-90-SPF-SUNSCREEN-PRIMER.webp
+alt_text: PROTECTOR SOLAR 2 EN 1 90 SPF SUNSCREEN PRIMER product image
+category: Belleza Salud
 ---
 
 ## Descripción Corta

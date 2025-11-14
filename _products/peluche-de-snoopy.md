@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1676609013
 permalink: /products/peluche-de-snoopy/
-title: "PELUCHE DE SNOOPY"
+title: PELUCHE DE SNOOPY
 price: 99
-sku: "120"
-image: "/assets/images/products/PELUCHE-DE-SNOOPY.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "PELUCHE DE SNOOPY product image"
-category: "bebe Hogar"
+sku: '120'
+image: /assets/images/products/PELUCHE-DE-SNOOPY.webp
+alt_text: PELUCHE DE SNOOPY product image
+category: bebe Hogar
 ---
 
 ## Descripción Corta

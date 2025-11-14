@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1962882043
 permalink: /products/mascarilla-facial-de-arroz/
-title: "Mascarilla Facial de Arroz"
+title: Mascarilla Facial de Arroz
 price: 200
-sku: "269"
-image: "/assets/images/products/Mascarilla-Facial-de-Arroz.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Mascarilla Facial de Arroz product image"
-category: "Belleza"
+sku: '269'
+image: /assets/images/products/Mascarilla-Facial-de-Arroz.webp
+alt_text: Mascarilla Facial de Arroz product image
+category: Belleza
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1822643518
 permalink: /products/organizador-de-zapatos-tokio-gris/
-title: "ORGANIZADOR DE ZAPATOS TOKIO GRIS"
+title: ORGANIZADOR DE ZAPATOS TOKIO GRIS
 price: 195
-sku: "118"
-image: "/assets/images/products/ORGANIZADOR-DE-ZAPATOS-TOKIO-GRIS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ORGANIZADOR DE ZAPATOS TOKIO GRIS product image"
-category: "Hogar"
+sku: '118'
+image: /assets/images/products/ORGANIZADOR-DE-ZAPATOS-TOKIO-GRIS.webp
+alt_text: ORGANIZADOR DE ZAPATOS TOKIO GRIS product image
+category: Hogar
 ---
 
 ## Descripción Corta

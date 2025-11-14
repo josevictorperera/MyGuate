@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 159977228
 permalink: /products/gorra-versace-azul--con-malla/
-title: "GORRA VERSACE AZUL , CON MALLA"
+title: 'GORRA VERSACE AZUL , CON MALLA'
 price: 125
-sku: "nan"
-image: "/assets/images/products/GORRA-VERSACE-AZUL-CON-MALLA.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA VERSACE AZUL , CON MALLA product image"
-category: "Moda > Gorra, Moda"
+sku: nan
+image: /assets/images/products/GORRA-VERSACE-AZUL-CON-MALLA.webp
+alt_text: 'GORRA VERSACE AZUL , CON MALLA product image'
+category: 'Moda > Gorra, Moda'
 ---
 
 ## Descripción Corta

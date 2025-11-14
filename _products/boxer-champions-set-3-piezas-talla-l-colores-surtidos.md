@@ -1,12 +1,14 @@
 ---
 layout: product
+ID: 1052020121
 permalink: /products/boxer-champions-set-3-piezas-talla-l-colores-surtidos/
-title: "BOXER CHAMPIONS SET 3 PIEZAS TALLA L COLORES SURTIDOS"
+title: BOXER CHAMPIONS SET 3 PIEZAS TALLA L COLORES SURTIDOS
 price: 130
-sku: "476"
-image: "/assets/images/products/BOXER-CHAMPIONS-SET-3-PIEZAS-TALLA-L-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER CHAMPIONS SET 3 PIEZAS TALLA L COLORES SURTIDOS product image"
-category: "Moda"
+sku: '476'
+image: >-
+  /assets/images/products/BOXER-CHAMPIONS-SET-3-PIEZAS-TALLA-L-COLORES-SURTIDOS.webp
+alt_text: BOXER CHAMPIONS SET 3 PIEZAS TALLA L COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

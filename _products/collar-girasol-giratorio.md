@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 921684612
 permalink: /products/collar-girasol-giratorio/
-title: "Collar Girasol Giratorio"
+title: Collar Girasol Giratorio
 price: 95
-sku: "199"
-image: "/assets/images/products/Collar-Girasol-Giratorio.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Collar Girasol Giratorio product image"
-category: "joyas"
+sku: '199'
+image: /assets/images/products/Collar-Girasol-Giratorio.webp
+alt_text: Collar Girasol Giratorio product image
+category: joyas
 ---
 
 ## Descripción Corta

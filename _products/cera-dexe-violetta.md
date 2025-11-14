@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1329615449
 permalink: /products/cera-dexe-violetta/
-title: "Cera Dexe Violetta"
+title: Cera Dexe Violetta
 price: 200
-sku: "280"
-image: "/assets/images/products/Cera-Dexe-Violetta.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Cera Dexe Violetta product image"
-category: "Belleza"
+sku: '280'
+image: /assets/images/products/Cera-Dexe-Violetta.webp
+alt_text: Cera Dexe Violetta product image
+category: Belleza
 ---
 
 ## Descripción Corta

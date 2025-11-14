@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 807691491
 permalink: /products/tira-de-luz-led-5m/
-title: "TIRA DE LUZ LED 5M"
+title: TIRA DE LUZ LED 5M
 price: 125
-sku: "134"
-image: "/assets/images/products/tiraluz.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "TIRA DE LUZ LED 5M product image"
-category: "Hogar"
+sku: '134'
+image: /assets/images/products/tiraluz.webp
+alt_text: TIRA DE LUZ LED 5M product image
+category: Hogar
 ---
 
 ## Descripción Corta

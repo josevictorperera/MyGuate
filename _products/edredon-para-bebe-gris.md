@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1389974323
 permalink: /products/edredon-para-bebe-gris/
-title: "Edredón para bebe gris"
+title: Edredón para bebe gris
 price: 250
-sku: "277"
-image: "/assets/images/products/Edredon-para-bebe-gris.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Edredón para bebe gris product image"
-category: "bebe"
+sku: '277'
+image: /assets/images/products/Edredon-para-bebe-gris.webp
+alt_text: Edredón para bebe gris product image
+category: bebe
 ---
 
 ## Descripción Corta

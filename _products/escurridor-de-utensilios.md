@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 672773112
 permalink: /products/escurridor-de-utensilios/
-title: "ESCURRIDOR DE UTENSILIOS"
+title: ESCURRIDOR DE UTENSILIOS
 price: 150
-sku: "104"
-image: "/assets/images/products/ESCURRIDOR-DE-UTENSILIOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ESCURRIDOR DE UTENSILIOS product image"
-category: "Hogar"
+sku: '104'
+image: /assets/images/products/ESCURRIDOR-DE-UTENSILIOS.webp
+alt_text: ESCURRIDOR DE UTENSILIOS product image
+category: Hogar
 ---
 
 ## Descripción Corta

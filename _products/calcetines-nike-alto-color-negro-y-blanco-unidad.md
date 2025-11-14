@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1521987304
 permalink: /products/calcetines-nike-alto-color-negro-y-blanco-unidad/
-title: "CALCETINES NIKE ALTO COLOR NEGRO Y BLANCO (UNIDAD)"
+title: CALCETINES NIKE ALTO COLOR NEGRO Y BLANCO (UNIDAD)
 price: 20
-sku: "422"
-image: "/assets/images/products/CALCETINES-NIKE-ALTO-COLOR-NEGRO-Y-BLANCO-UNIDAD.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "CALCETINES NIKE ALTO COLOR NEGRO Y BLANCO (UNIDAD) product image"
-category: "Moda"
+sku: '422'
+image: /assets/images/products/CALCETINES-NIKE-ALTO-COLOR-NEGRO-Y-BLANCO-UNIDAD.webp
+alt_text: CALCETINES NIKE ALTO COLOR NEGRO Y BLANCO (UNIDAD) product image
+category: Moda
 ---
 
 ## Descripción Corta

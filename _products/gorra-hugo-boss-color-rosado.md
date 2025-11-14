@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1123826020
 permalink: /products/gorra-hugo-boss-color-rosado/
-title: "GORRA HUGO BOSS COLOR ROSADO"
+title: GORRA HUGO BOSS COLOR ROSADO
 price: 125
-sku: "344"
-image: "/assets/images/products/GORRA-HUGO-BOSS-COLOR-ROSADO.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "GORRA HUGO BOSS COLOR ROSADO product image"
-category: "Moda > Gorra"
+sku: '344'
+image: /assets/images/products/GORRA-HUGO-BOSS-COLOR-ROSADO.webp
+alt_text: GORRA HUGO BOSS COLOR ROSADO product image
+category: Moda > Gorra
 ---
 
 ## Descripción Corta

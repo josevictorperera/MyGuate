@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1847939513
 permalink: /products/organizador-de-baño-de-1-puerta/
-title: "Organizador de Baño de 1 puerta"
+title: Organizador de Baño de 1 puerta
 price: 150
-sku: "260"
-image: "/assets/images/products/Organizador-de-Bano-de-1-puerta.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Organizador de Baño de 1 puerta product image"
-category: "Hogar"
+sku: '260'
+image: /assets/images/products/Organizador-de-Bano-de-1-puerta.webp
+alt_text: Organizador de Baño de 1 puerta product image
+category: Hogar
 ---
 
 ## Descripción Corta

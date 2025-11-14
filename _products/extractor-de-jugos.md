@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 1450515243
 permalink: /products/extractor-de-jugos/
-title: "Extractor de Jugos"
+title: Extractor de Jugos
 price: 250
-sku: "273"
-image: "/assets/images/products/Extractor-de-Jugos.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Extractor de Jugos product image"
-category: "Hogar"
+sku: '273'
+image: /assets/images/products/Extractor-de-Jugos.webp
+alt_text: Extractor de Jugos product image
+category: Hogar
 ---
 
 ## Descripción Corta

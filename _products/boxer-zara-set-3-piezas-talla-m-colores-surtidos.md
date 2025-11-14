@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 128702060
 permalink: /products/boxer-zara-set-3-piezas-talla-m-colores-surtidos/
-title: "BOXER ZARA SET 3 PIEZAS TALLA M COLORES SURTIDOS"
+title: BOXER ZARA SET 3 PIEZAS TALLA M COLORES SURTIDOS
 price: 130
-sku: "445"
-image: "/assets/images/products/BOXER-ZARA-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "BOXER ZARA SET 3 PIEZAS TALLA M COLORES SURTIDOS product image"
-category: "Moda"
+sku: '445'
+image: /assets/images/products/BOXER-ZARA-SET-3-PIEZAS-TALLA-M-COLORES-SURTIDOS.webp
+alt_text: BOXER ZARA SET 3 PIEZAS TALLA M COLORES SURTIDOS product image
+category: Moda
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 841282555
 permalink: /products/organizador-de-ducha-de-esquina/
-title: "ORGANIZADOR DE DUCHA DE ESQUINA"
+title: ORGANIZADOR DE DUCHA DE ESQUINA
 price: 150
-sku: "138"
-image: "/assets/images/products/organizadorDucha.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "ORGANIZADOR DE DUCHA DE ESQUINA product image"
-category: "Hogar"
+sku: '138'
+image: /assets/images/products/organizadorDucha.webp
+alt_text: ORGANIZADOR DE DUCHA DE ESQUINA product image
+category: Hogar
 ---
 
 ## Descripción Corta

@@ -1,12 +1,13 @@
 ---
 layout: product
+ID: 2089121330
 permalink: /products/spray-impermeabilizante/
-title: "Spray impermeabilizante"
+title: Spray impermeabilizante
 price: 60
-sku: "251"
-image: "/assets/images/products/Spray-impermeabilizante.webp" # <-- SIMPLE DIRECT PATH
-alt_text: "Spray impermeabilizante product image"
-category: "Ferretería"
+sku: '251'
+image: /assets/images/products/Spray-impermeabilizante.webp
+alt_text: Spray impermeabilizante product image
+category: Ferretería
 ---
 
 ## Descripción Corta

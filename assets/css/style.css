@@ -2,7 +2,7 @@
 ---
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #ffd74f;
+  --primary-color:                #ccb643;
   --secondary-color:              #f65129;
   --section-bg-color:             #f9f9f9;
   --site-footer-bg-color:         #4646e6;
@@ -1577,7 +1577,7 @@ strong {
 }
 
 .snipcart-checkout:hover {
-    background-color: #45a049;
+    background-color: var(--primary-color);
 }
 
 /* Style the count badge */
@@ -1606,13 +1606,14 @@ strong {
 /* Base styling for all buttons */
 .button {
     display: inline-block;
-    padding: 10px 15px;
+    padding: 7px;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
     cursor: pointer;
     transition: background-color 0.3s ease;
     border: none; /* Remove default button border */
+    background-color: #ccb643;
 }
 
 /* Styling for the View Details button */
@@ -1627,8 +1628,7 @@ strong {
 
 /* Styling for the Añadir al carrito (Snipcart) button */
 .snipcart-add-item.alt {
-    background-color: #ffd503; /* Primary call-to-action green */
-    color: rgb(0, 0, 0);
+    color: #ffffff;
 }
 .snipcart-add-item.alt:hover {
     background-color: #ffe96f;
@@ -1677,8 +1677,8 @@ strong {
 
 /* Styling for the Añadir al carrito (Snipcart) button */
 .snipcart-add-item {
-    padding: .25rem;
     font-size: small;
+    padding: 7px;
 }
 .detalles {
     font-size: small;

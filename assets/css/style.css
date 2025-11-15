@@ -836,7 +836,6 @@ strong {
 .share-options-panel {
   position: absolute;
   /* Position it right next to the button (or above/below as desired) */
-  top: 100;
   left: 10%;
   transform: translateX(-50%);
   margin-left: 10px; /* Space between button and panel */

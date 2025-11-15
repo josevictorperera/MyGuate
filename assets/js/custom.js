@@ -154,5 +154,56 @@ document.addEventListener('DOMContentLoaded', () => {
     applyFilters();
 });
 
+//SHARE LINK ON HEADER
+document.getElementById('share-toggle').addEventListener('click', function(event) {
+    event.preventDefault(); // Stop the link from navigating
+    event.stopPropagation(); // Stop the event from immediately closing the dropdown
 
+    const options = document.getElementById('share-options');
+    options.classList.toggle('active');
+});
 
+// Hide the panel when clicking outside
+document.addEventListener('click', function(event) {
+    const container = document.querySelector('.share-container');
+    if (container && !container.contains(event.target)) {
+        document.getElementById('share-options').classList.remove('active');
+    }
+});
+
+// Copy to Clipboard Function (as before, but using window.location.href)
+function copyToClipboard(url) {
+    navigator.clipboard.writeText(url)
+        .then(() => {
+            alert('¡Enlace copiado al portapapeles!');
+            document.getElementById('share-options').classList.remove('active'); // Close panel after copying
+        })
+        .catch(err => {
+            console.error('No se pudo copiar el texto: ', err);
+        });
+}
+//HIDE THE HOME LINK WHEN ON HOME PAGE
+document.addEventListener('DOMContentLoaded', function() {
+    const homeNavItem = document.getElementById('home-nav-item');
+    
+    // Get the part of the URL that comes after the domain (e.g., '/index.html')
+    let currentPath = window.location.pathname;
+
+    // Normalize the path for comparison. 
+    // This removes leading slashes and ensures consistency.
+    // Example: '/' and '/index.html' are common home page paths.
+    // We check for the explicit file name OR the root path.
+    
+    if (homeNavItem) {
+        // Condition 1: Check if the path ends with /index.html (case insensitive)
+        const isIndexFile = currentPath.toLowerCase().endsWith('/index.html');
+
+        // Condition 2: Check if the path is just the root '/'
+        const isRootPath = currentPath === '/';
+        
+        // If the user is on the home page, hide the navigation item
+        if (isIndexFile || isRootPath) {
+            homeNavItem.style.display = 'none';
+        }
+    }
+});

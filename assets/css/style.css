@@ -826,6 +826,53 @@ strong {
 /*---------------------------------------
   CONTACT               
 -----------------------------------------*/
+/* Container for positioning */
+.share-container {
+  position: relative; /* Essential for positioning the panel relative to the button */
+  display: inline-block;
+}
+
+/* Style and hiding the options panel */
+.share-options-panel {
+  position: absolute;
+  /* Position it right next to the button (or above/below as desired) */
+  top: 100;
+  left: 10%;
+  transform: translateX(-50%);
+  margin-left: 10px; /* Space between button and panel */
+  margin-top: 5px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 5px;
+
+  /* HIDE by default */
+  display: none;
+  z-index: 10;
+}
+
+/* Style for individual share icons */
+.share-icon {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  margin: 0 3px;
+  background-color: #eee;
+  border-radius: 50%;
+  text-decoration: none;
+  color: #495057;
+  font-size: 1.5rem;
+  /* Add specific colors for better branding */
+}
+
+/* CSS to SHOW the panel (will be toggled by JavaScript) */
+.share-options-panel.active {
+  display: flex; /* Or display: block; */
+}
+
+
 .contact-section {
   background: var(--white-color);
 }
@@ -1683,6 +1730,12 @@ url("../fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("wo
 .bi-telephone-x-fill::before { content: "\f5bf"; }
 .bi-telephone-x::before { content: "\f5c0"; }
 .bi-telephone::before { content: "\f5c1"; }
+.bi-clipboard-check::before { content: "\f28b"; }
+.bi-clipboard-data::before { content: "\f28c"; }
+.bi-clipboard-minus::before { content: "\f28d"; }
+.bi-clipboard-plus::before { content: "\f28e"; }
+.bi-clipboard-x::before { content: "\f28f"; }
+.bi-clipboard::before { content: "\f290"; }
 
 .bi::before,
 [class^="bi-"]::before,

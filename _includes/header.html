@@ -19,11 +19,11 @@
 
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" href="/index.html">Incio</a>
+                        <li class="nav-item" id="home-nav-item">
+                            <a class="nav-link" href="/index.html">Incio</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle click-scroll" href="#section_3" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Políticas</a>
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Políticas</a>
 
                             <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
                                 <li><a class="dropdown-item" href="/politica_de_privacidad/">Políticas de Privacidad</a></li>
@@ -35,27 +35,37 @@
                         </li>                        
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle click-scroll" href="#section_3" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Tienda</a>
+                            <a class="nav-link dropdown-toggle click-scroll" href="#" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Contact</a>
 
                             <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
-                                <li><a class="dropdown-item" href="shop-listing.html">Shop Listing</a></li>
+                                <li><a class="dropdown-item" href="https://wa.me/50259655375" target="_blank">WhatsApp</a></li>
 
-                                <li><a class="dropdown-item" href="shop-detail.html">Shop Detail</a></li>
+                                <li><a class="dropdown-item" href="tel:+50259655375" target="_blank">Teléfono</a></li>
+
+                                <li><a class="dropdown-item" href="mailto:help@myguate.com" target="_blank">help@myguate.com</a></li>
                             </ul>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_4">Reviews</a>
-                        </li>
+                        <li class="nav-item share-container">
+                            <a id="share-toggle" class="nav-link share-button" href="#">Compartir</a>
+                            <ul class="share-container">
+                                <li id="share-options" class="share-options-panel">
+                                <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.myguate.com/" target="_blank" class="share-icon facebook social-icon-link social-icon-facebook bi-facebook" title="Comparte por  Facebook"></a>
+                                <a href="https://www.instagram.com/myguate_online/" class="share-icon social-icon-link social-icon-instagram bi-instagram" title="Comparte por  Instagram" target="_blank"></a>
+                                <a href="https://wa.me/?text=te%20quiero%20compartir%20este%20producto%20chilero%20pilas:%20https://www.myguate.com/" class="share-icon social-icon-link social-icon-whatsapp bi-whatsapp" target="_blank" title="Comparte por  WhatsApp"></a>
 
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_5">Contact</a>
-                        </li>
+                                <a href="mailto:?subject=que productos&body=mira que chilero lo que encontré: https://www.myguate.com/" class="share-icon email social-icon-link social-icon-envelope bi-envelope-plus" title="Comparte por Email" target="_blank"></a>
 
+                                <span class="bi bi-clipboard share-icon copy-url" onclick="copyToClipboard(window.location.href)" title="Copia el Link"></span>
+                                </li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
             </div>
         </nav>
+        
+
 
                         <p class="lead">🚚 Envío y productos pago contra entrega | 🇬🇹 Servicio solo en Guatemala</p>
                         <p class="lead">MyGuate.Com! La tienda en línea de Guatemala. Mejorando la vida de los chapines.</p>

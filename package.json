@@ -1,0 +1,18 @@
+{
+  "name": "myguate.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "jekyll-build": "bundle exec jekyll build",
+    "extract-critical": "npx critical _site/index.html --base _site/ --css assets/css/style.css assets/css/bootstrap.min.css --extract > _includes/critical.css",
+    "optimize": "npm run jekyll-build && npm run extract-critical && npm run jekyll-build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "critical": "^7.2.1"
+  }
+}

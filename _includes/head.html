@@ -129,18 +129,29 @@
 </script>
 
 <!--END APPLICATION SEO-->
+<!--START CSS-->
+  <style>
+    {%- include critical.css -%}
+  </style>
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/assets/css/style.css" media="print" onload="this.media='all'">
 
-    <link 
-        rel="stylesheet" 
-        href="{{ '/assets/css/bootstrap.min.css' | relative_url }}"
-    >
-
-    <link 
-        rel="stylesheet" 
-        href="{{ '/assets/css/style.css' | relative_url }}"
-    >
-
-
+    <script>
+        /*! LoadCSS onload property polyfill */
+        function loadCSS_polyfill() {
+          var links = document.querySelectorAll('link[media="print"]');
+          for (var i = 0; i < links.length; i++) {
+            links[i].media = 'all';
+          }
+        }
+        // Only run the fallback if JavaScript is enabled but the onload trick fails (e.g., older browsers)
+        if ('onload' in window) {
+          // Modern browsers handle it in the link tag
+        } else {
+          // Legacy browsers will run the fallback on page load
+          window.addEventListener('load', loadCSS_polyfill);
+        }
+      </script>
                               <!--   SITE FAVICONS  -->
     <link rel="icon" type="image/png" href="/assets/images/favicon/favicon-96x96.png" sizes="96x96" >
     <link rel="icon" type="image/svg+xml" href="/assets/images/favicon/favicon.svg" >

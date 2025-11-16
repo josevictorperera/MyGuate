@@ -7,6 +7,8 @@
     "extract-critical": "npx critical _site/index.html --base _site/ --css assets/css/style.css assets/css/bootstrap.min.css --extract > _includes/critical.css",
     "optimize": "npm run jekyll-build && npm run extract-critical && npm run jekyll-build",
     "purge-css": "npx postcss _site/assets/css/bootstrap.min.css _site/assets/css/style.css --base _site/assets/css/ -d _site/assets/css/",
+    "build:css": "purgecss --config purgecss.config.js --output css/purged-bootstrap.min.css",
+    "build": "npm run build:css && bundle exec jekyll build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -17,6 +19,7 @@
     "@fullhuman/postcss-purgecss": "^7.0.2",
     "critical": "^7.2.1",
     "postcss": "^8.5.6",
-    "postcss-cli": "^11.0.1"
+    "postcss-cli": "^11.0.1",
+    "purgecss": "^5.0.0"
   }
 }

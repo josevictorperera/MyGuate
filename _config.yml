@@ -7,7 +7,7 @@ email: myguate@myguate.com
 description: >- # This description is used for SEO and RSS feeds
   La tienda en Internet de Guatemala. Mejorando la vida de los chapines. Productos se pueden comprar con pago contra entrega.
 baseurl: "" # The subpath of your site, e.g. /blog. Set to "" for a site at the root.
-url: "http://127.0.0.1:4000" # The base hostname & protocol for your site
+url: "https://myguate.com" # The base hostname & protocol for your site
 repository: "" # e.g., username/repo_name (used for GitHub Pages)
 timezone: America/Guatemala # Set the correct timezone
 

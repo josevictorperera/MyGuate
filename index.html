@@ -18,9 +18,9 @@ title: MyGuate.Com
                             
                             <article class="card h-100 shadow-sm">
                                 
-                                <a href="{{ product.url | relative_url }}" class="text-decoration-none text-dark">
+                                <a href="{{ product.url | absolute_url }}" class="text-decoration-none text-dark">
                                     <img 
-                                        src="{{ product.image | relative_url }}" 
+                                        src="{{ product.image | absolute_url }}" 
                                         alt="{{ product.alt_text | default: product.title }}"
                                         class="card-img-top" 
                                         style="height: 100px; object-fit: cover;"
@@ -39,7 +39,7 @@ title: MyGuate.Com
                                         data-item-id="{{ product.sku }}"
                                         data-item-price="{{ product.price }}"
                                         data-item-url="{{ product.url | absolute_url }}"
-                                        data-item-image="{{ site.url }}{{ product.image | relative_url }}" 
+                                        data-item-image="{{ site.url }}{{ product.image | absolute_url }}" 
                                         data-item-name="{{ product.title }}"
                                     >
                                         Comprar
@@ -76,10 +76,10 @@ title: MyGuate.Com
                 
                 <article class="card h-100 shadow-sm">
                     
-                    <a href="{{ product.url | relative_url }}" class="text-decoration-none text-dark">
+                    <a href="{{ product.url | absolute_url }}" class="text-decoration-none text-dark">
                         
                         <img 
-                            src="{{ product.image | relative_url }}" 
+                            src="{{ product.image | absolute_url }}" 
                             alt="{{ product.alt_text | default: product.title }}"
                             class="card-img-top" 
                             style="height: 250px; object-fit: cover;"
@@ -100,7 +100,7 @@ title: MyGuate.Com
                             data-item-id="{{ product.sku }}"
                             data-item-price="{{ product.price }}"
                             data-item-url="{{ product.url | absolute_url }}"
-                            data-item-image="{{ site.url }}{{ product.image | relative_url }}" 
+                            data-item-image="{{ site.url }}{{ product.image | absolute_url }}" 
                             data-item-name="{{ product.title }}"
                         >
                             Comprar

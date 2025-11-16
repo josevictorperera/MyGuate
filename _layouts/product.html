@@ -18,7 +18,7 @@ layout: default
             <div class="woocommerce-product-gallery__wrapper">
                 <div class="woocommerce-product-gallery__image">
                     <img 
-                        src="{{ page.image | relative_url }}" 
+                        src="{{ page.image | absolute_url }}" 
                         alt="{{ page.alt_text }}"
                         class="wp-post-image"
                         width="400" 
@@ -52,7 +52,8 @@ layout: default
                 data-item-id="{{ page.sku }}" 
                 data-item-price="{{ page.price }}" 
                 data-item-url="{{ page.url | absolute_url }}" 
-                data-item-name="{{ page.title }}">
+                data-item-name="{{ page.title }}"
+                data-item-image="{{ page.image | absolute_url }}">
                 Añadir al carrito
             </button>
         </form>

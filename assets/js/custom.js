@@ -167,20 +167,26 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 //SHARE LINK ON HEADER
-document.getElementById('share-toggle').addEventListener('click', function(event) {
-    event.preventDefault(); // Stop the link from navigating
-    event.stopPropagation(); // Stop the event from immediately closing the dropdown
+document.addEventListener('DOMContentLoaded', () => {
 
-    const options = document.getElementById('share-options');
-    options.classList.toggle('active');
-});
+    const shareToggle = document.getElementById('share-toggle');
+    const shareOptions = document.getElementById('share-options');
 
-// Hide the panel when clicking outside
-document.addEventListener('click', function(event) {
-    const container = document.querySelector('.share-container');
-    if (container && !container.contains(event.target)) {
-        document.getElementById('share-options').classList.remove('active');
+    if (shareToggle && shareOptions) {
+        shareToggle.addEventListener('click', function(event) {
+            event.preventDefault();
+            event.stopPropagation();
+            shareOptions.classList.toggle('active');
+        });
     }
+
+    document.addEventListener('click', function(event) {
+        const container = document.querySelector('.share-container');
+        if (container && !container.contains(event.target)) {
+            if (shareOptions) shareOptions.classList.remove('active');
+        }
+    });
+
 });
 
 // Copy to Clipboard Function (as before, but using window.location.href)

@@ -132,9 +132,11 @@
 <style>
 {%- include critical.css -%}
 </style>
+<link rel="stylesheet" href="/assets/css/snipcart.css" />
+<link rel="stylesheet" href="/assets/css/snipcart-theme.css" />
 <link rel="stylesheet" href="/assets/css/bootstrap.min.css" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="/assets/css/style.css" media="print" onload="this.media='all'">
-
+<link rel="stylesheet" href="/assets/css/fonts.css">
     <script>
         /*! LoadCSS onload property polyfill */
         function loadCSS_polyfill() {
@@ -159,5 +161,110 @@
 <meta name="apple-mobile-web-app-title" content="MyGuate.Com" >
 <link rel="manifest" href="/assets/images/favicon/site.webmanifest" >
 
+<!--SNIPCART CODE START-->
 
+<!-- Snipcart Settings -->
+<script>
+  window.SnipcartSettings = {
+    publicApiKey: "MjU3MzA4NjMtODE5OC00MGQ1LWIyYjMtMmJkZDFjY2I5NmZkNjM4OTg0MDk4NTkzODQ1MTI5",
+    version: "3.0",
+    timeoutDuration: 300,
+    loadStrategy: "on-user-interaction",
 
+    /* OPTIONAL — Custom templates (HTML file) 
+    templatesUrl: "/assets/templates/cart-templates.html",*/
+
+    /* OPTIONAL — Customize modal UI (defaults: side, full, card) */
+    modalStyle: "side"
+  };
+</script>
+
+<!-- Local Snipcart Loader with Custom Theme Support -->
+<script>
+(function () {
+  const settings = window.SnipcartSettings || {};
+  const loadEvents = ["focus", "mouseover", "touchmove", "scroll", "keydown"];
+  let initialized = false;
+
+  document.readyState === "loading"
+    ? document.addEventListener("DOMContentLoaded", init)
+    : init();
+
+  function init() {
+    if (settings.loadStrategy === "on-user-interaction") {
+      loadEvents.forEach(evt => document.addEventListener(evt, loadSnipcart));
+      setTimeout(loadSnipcart, settings.timeoutDuration);
+    } else {
+      loadSnipcart();
+    }
+  }
+
+  function loadSnipcart() {
+    if (initialized) return;
+    initialized = true;
+
+    createRoot();
+    injectBaseCSS();
+    injectCustomThemeCSS();   // <-- THE OVERRIDE FILE
+    injectBaseJS();
+
+    loadEvents.forEach(evt =>
+      document.removeEventListener(evt, loadSnipcart)
+    );
+  }
+
+  function createRoot() {
+    let root = document.getElementById("snipcart");
+
+    if (!root) {
+      root = document.createElement("div");
+      root.id = "snipcart";
+      root.hidden = true;
+      document.body.appendChild(root);
+    }
+
+    applySettings(root);
+  }
+
+  function applySettings(root) {
+    const s = window.SnipcartSettings;
+
+    if (s.publicApiKey) root.dataset.apiKey = s.publicApiKey;
+    if (s.currency) root.dataset.currency = s.currency;
+    if (s.templatesUrl) root.dataset.templatesUrl = s.templatesUrl;
+    if (s.modalStyle) root.dataset.configModalStyle = s.modalStyle;
+    if (s.addProductBehavior)
+      root.dataset.configAddProductBehavior = s.addProductBehavior;
+  }
+
+  function injectBaseCSS() {
+    if (!document.querySelector('link[href$="snipcart.css"]')) {
+      const link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.href = "/assets/css/snipcart.css";
+      document.head.prepend(link);
+    }
+  }
+
+  function injectCustomThemeCSS() {
+    if (!document.querySelector('link[href$="snipcart-theme.css"]')) {
+      const link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.href = "/assets/css/snipcart-theme.css";
+      document.head.appendChild(link);
+    }
+  }
+
+  function injectBaseJS() {
+    if (!document.querySelector('script[src$="snipcart.js"]')) {
+      const script = document.createElement("script");
+      script.src = "/assets/js/snipcart.js";
+      script.async = true;
+      document.head.appendChild(script);
+    }
+  }
+
+})();
+</script>
+
+<!--SNIPCART CODE END-->

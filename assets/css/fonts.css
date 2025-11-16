@@ -1,0 +1,49 @@
+/*---------------------------------------
+  SELF-HOSTED FONTS
+-----------------------------------------*/
+
+/* Bunny */
+@font-face {
+  font-family: 'Bunny';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/Bunny-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Bunny';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/Bunny-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Bunny';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/Bunny-bold.woff2') format('woff2');
+}
+
+/* Bunny */
+@font-face {
+  font-family: 'Bunny';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('/assets/fonts/Bunny-black.woff2') format('woff2');
+}
+
+/*---------------------------------------
+  USAGE EXAMPLES
+-----------------------------------------*/
+body, p, ul li, a, button {
+  font-family: 'Bunny', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, 
+.header_tag_line, .mg-store, .navbar-brand-text, .Bunny_brand {
+  font-family: 'Bunny', sans-serif;
+}

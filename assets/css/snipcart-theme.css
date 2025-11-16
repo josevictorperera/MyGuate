@@ -1,0 +1,311 @@
+.snipcart__box {
+    margin-bottom: 0;
+}
+
+.snipcart__font--std {
+	font-size: 18px;
+	line-height: 20px;
+}
+
+.snipcart__font--bold {
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.snipcart-checkout-step {
+  padding-bottom: 5px;
+}
+
+.snipcart-form__select,
+.snipcart-form__input {
+  display: block !important;
+  position: relative !important;
+  z-index: 100 !important;
+}
+
+.snipcart-cart__footer-col {
+background-color: var(--primary-color);
+}
+
+/* ================================
+ROW DISPLAY
+===================================*/
+.snipcart-cart-summary-fees {
+    display: flex;
+    flex-direction: row;   /* force row layout */
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;             /* optional spacing */
+}
+
+.snipcart-cart-summary-fees__item {
+    display: flex;
+    flex-direction: row;   /* title + amount in a row */
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.snipcart-cart-summary-fees__title,
+.snipcart-cart-summary-fees__amount {
+    font-weight: bold !important;  /* make text bold */
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.snipcart-cart-summary-fees__title {
+  margin-right: 10px;
+}
+/* =============================
+3D/raised button effect 
+================================*/
+
+/* Force elements inside the button to line up in a row */
+.snipcart-cart-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;            
+    font-weight: bold;
+
+    /* 3D button styling */
+    background: linear-gradient(#fefefe, #d7d7d7); /* top → bottom */
+    border: 1px solid #b5b5b5;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+
+    /* 3D shadow */
+    box-shadow: 
+        0px 3px 0px #999,       /* bottom shadow (3D effect) */
+        0px 6px 10px rgba(0,0,0,0.15); /* soft outer shadow */
+    
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+/* Pressed effect */
+.snipcart-cart-button:active {
+    transform: translateY(2px);
+    box-shadow: 
+        0px 1px 0px #777,       /* reduced shadow for pressed look */
+        0px 3px 6px rgba(0,0,0,0.1);
+}
+
+/* Ensure SVG and icon align properly */
+.snipcart-cart-button svg,
+.snipcart-cart-button__icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* =======================
+MEDIA QUERIES
+=======================*/ 
+@media (min-width: 1024px) {
+  .snipcart__box--slim {
+    padding: 0;
+  }
+}
+/*=========================
+NOTHING TO BE ADDED BELOW THIS LINE
+===========================================================================*/
+/* -----------------------------
+   LUXURY PREMIUM STORE THEME
+   Black + Gold
+   ----------------------------- 
+
+/* CUSTOM FONT (OPTIONAL)
+   Replace Bunny with your preferred elegant font 
+.snipcart {
+  font-family: "Bunny", serif;
+  letter-spacing: 0.3px;
+}
+
+/* COLOR SYSTEM 
+.snipcart {
+  --color-primary: #ccb643;      /*DEEP GOLD 
+  --color-secondary: #d4af37;       /*  GOLD 
+  --color-text: #f4f1e8;         /* LIGHT GOLD-TINTED WHITE 
+  --color-text-dark: #111;
+  --color-border: #2a2a2a;
+  --color-success: #d4af37;
+  --color-error: #c0392b;
+}
+
+/* GLOBAL BACKGROUND 
+.snipcart-cart,
+.snipcart-modal,
+.snipcart-layout,
+.snipcart__font--secondary,
+.snipcart__box {
+  background: var(--color-primary);
+  color: var(--color-text);
+}
+
+.snipcart__box--header,
+.snipcart-cart-header {
+  background: var(--color-primary);
+  border-bottom: 1px solid #2a2a2a;
+}
+
+/* SECTION TITLES 
+.snipcart__font--secondary,
+.snipcart__font--large,
+.snipcart-cart-header__title,
+.snipcart__actions--link {
+  color: var(--color-text);
+  letter-spacing: 0.5px;
+}
+
+/* GOLD TITLES 
+.snipcart__font--subtitle,
+.snipcart__font--subtitle-small,
+.snipcart__font--snipcart-title {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+/* DIVIDERS 
+.snipcart__divider,
+.snipcart__item-divider {
+  border-color: #2a2a2a;
+}
+
+/* BUTTONS 
+.snipcart__button-primary {
+  background: var(--color-primary);
+  border-radius: 5px;
+  padding: 12px 18px;
+  color: var(--white-color);
+  font-weight: 600;
+  transition: all 0.25s ease-in-out;
+}
+
+.snipcart__button-primary:hover {
+  background: #f2d675; /* Softened gold 
+  box-shadow: 0 0 12px rgba(212, 175, 55, 0.5);
+}
+
+.snipcart__button-secondary,
+.snipcart-cart__checkout-button,
+.snipcart__actions--link {
+  background: var(--color-primary);
+  border: 1px solid var(--color-primary);
+  color: var(--color-primary);
+  border-radius: 5px;
+  transition: all 0.25s ease-in-out;
+}
+
+.snipcart__button-secondary:hover,
+.snipcart__actions--link:hover {
+  background: rgba(212, 175, 55, 0.1);
+}
+
+/* INPUTS 
+.snipcart__input,
+.snipcart-form__select {
+  background: var(--color-primary);
+  border: 1px solid #2a2a2a;
+  color: var(--color-text);
+  border-radius: 4px;
+}
+
+.snipcart__input:focus,
+.snipcart-form__select:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 5px rgba(212, 175, 55, 0.4);
+}
+
+/* PRODUCT LINES 
+.snipcart-item-line {
+  background: var(--color-primary);
+  border-radius: 6px;
+  padding: 12px;
+  margin-bottom: 12px;
+  border: 1px solid #1a1a1a;
+  transition: transform .15s ease-in-out;
+}
+
+.snipcart-item-line:hover {
+  transform: translateY(-2px);
+}
+
+/* PRODUCT TITLES 
+.snipcart-item-line__title {
+  color: var(--color-primary);
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+
+/* PRICE 
+.snipcart-item-line__price,
+.snipcart-summary-fees__amount,
+.snipcart-summary-fees__title,
+.snipcart__font--default {
+  color: var(--color-text);
+}
+
+/* SUMMARY PANEL 
+.snipcart-summary {
+  border: 1px solid #2a2a2a;
+  background: var(--color-primary);
+  padding: 16px;
+  border-radius: 6px;
+}
+
+/* CART FOOTER 
+.snipcart-cart__footer {
+  border-top: 1px solid #2a2a2a;
+  background: var(--color-primary);
+}
+
+/* MODAL SHADOW 
+.snipcart-modal {
+  box-shadow: 0 0 40px rgba(212, 175, 55, 0.2);
+}
+
+/* CHECKOUT STEPS 
+.snipcart-progress__step--active .snipcart-progress__step-icon {
+  background: var(--color-primary);
+  color: #000;
+}
+
+/* LINKS 
+.snipcart a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.snipcart a:hover {
+  color: #f2d675;
+}
+
+/* ALERTS 
+.snipcart-alert__content {
+  background: var(--color-primary);
+  border-left: 4px solid var(--color-success);
+}
+
+/* SUCCESS PAGE 
+.snipcart-payment__header {
+  color: var(--color-primary);
+}
+
+/* LOADER (SPINNER) 
+.snipcart-spinner__icon {
+  border-color: #333;
+  border-top-color: var(--color-primary);
+}
+
+/* CART OPEN BUTTON OVERRIDE (IF YOU USE SNIPCART BUY BUTTON) 
+.snipcart-add-item, .button {
+  background: var(--color-primary);
+  color: var(--white-color);
+  border: 1px solid var(--color-primary);
+  border-radius: 6px;
+  transition: all 0.25s ease-in-out;
+}
+
+.snipcart-add-item:hover {
+  background: rgba(236, 195, 60, 0.893);
+}

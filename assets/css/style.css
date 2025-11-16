@@ -811,6 +811,8 @@ span.cart-icon-wrapper:hover {
 -----------------------------------------*/
 .reviews-section {
   background: var(--section-bg-color);
+  padding-top: 20px;
+  margin-top: 40px;
 }
 
 .reviews-carousel .owl-item img,
@@ -827,6 +829,7 @@ span.cart-icon-wrapper:hover {
   right: 0;
 }
 
+/* ARROWS CONTATINAER*/
 .reviews-carousel .owl-nav button.owl-next, 
 .reviews-carousel .owl-nav button.owl-prev {
   background: var(--white-color);
@@ -835,6 +838,7 @@ span.cart-icon-wrapper:hover {
   height: 35px;
   margin: 5px;
   transition: all 0.5s;
+  margin-top: 30px;
 }
 
 .reviews-carousel .owl-nav button.owl-next:hover, 
@@ -880,7 +884,7 @@ span.cart-icon-wrapper:hover {
 }
 
 .reviews-body {
-  padding: 50px 40px;
+  padding: 5px 4px;
 }
 
 .reviews-bottom {

@@ -133,22 +133,34 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // --- Event listeners ---
-    filterButtons.forEach(button => {
-        button.addEventListener('click', () => {
-            filterButtons.forEach(btn => btn.classList.remove('active'));
-            button.classList.add('active');
-            currentFilter = button.dataset.filter;
-            searchInput.value = '';
-            applyFilters();
-        });
-    });
+        // --- Event listeners ---
 
-    let searchTimeout;
-    searchInput.addEventListener('input', () => {
-        clearTimeout(searchTimeout);
-        searchTimeout = setTimeout(applyFilters, 250); // debounce for performance
-    });
+        // --- FIX 1: Check if filterButtons (which is likely a NodeList/Array) has elements ---
+        // If filterButtons is declared as a global variable, ensure it was properly populated 
+        // before this section, likely using document.querySelectorAll('.filter-class').
+        if (filterButtons && filterButtons.length > 0) {
+            filterButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    filterButtons.forEach(btn => btn.classList.remove('active'));
+                    button.classList.add('active');
+                    currentFilter = button.dataset.filter;
+                    searchInput.value = '';
+                    applyFilters();
+                });
+            });
+        }
+
+
+        let searchTimeout;
+
+        // --- FIX 2: Check if searchInput exists (is not null) before attaching the listener ---
+        // This is the line that was likely throwing the error because searchInput was null.
+        if (searchInput) {
+            searchInput.addEventListener('input', () => {
+                clearTimeout(searchTimeout);
+                searchTimeout = setTimeout(applyFilters, 250); // debounce for performance
+            });
+        }
 
     // Initial load
     applyFilters();

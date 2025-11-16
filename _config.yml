@@ -50,6 +50,6 @@ collections:
     permalink: /products/:path/ # Defines the URL structure
 
 # ---------------------------------------------------------------
-# 4. Custom Variables (Your Snipcart Key)
+# 4. Custom Variables (Your Snipcart Key) 
 # ---------------------------------------------------------------
-snipcart_api_key: "MjU3MzA4NjMtODE5OC00MGQ1LWIyYjMtMmJkZDFjY2I5NmZkNjM4OTg0MDk4NTkzODQ1MTI5" # Paste your actual Snipcart API Key here
+snipcart_api_key: "OTgxMjRlZmEtOTBlMi00MWI3LWJlMGItNWMzZDY4NGRmYzkxNjM4OTg0MDk4NTkzODQ1MTI5" # Paste your actual Snipcart API Key here

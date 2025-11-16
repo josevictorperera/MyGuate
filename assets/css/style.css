@@ -1175,7 +1175,7 @@ span.cart-icon-wrapper:hover {
   SITE FOOTER              
 -----------------------------------------*/
 .site-footer {
-  background: var(--site-footer-bg-color);
+  background: var(--primary-color);
   padding-top: 0;
   position: fixed;
   bottom: 0;        /* Anchor to the bottom edge */

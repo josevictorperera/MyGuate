@@ -1,49 +1,37 @@
-/*---------------------------------------
-  SELF-HOSTED FONTS
------------------------------------------*/
-
-/* Bunny */
+/* ---------------------------------------------------
+   Local Montserrat (300 & 500)
+--------------------------------------------------- */
 @font-face {
-  font-family: 'Bunny';
+  font-family: "Montserrat";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 300;
   font-display: swap;
-  src: url('/assets/fonts/Bunny-regular.woff2') format('woff2');
+  src: url("/assets/fonts/montserrat-300.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: 'Bunny';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url('/assets/fonts/Bunny-medium.woff2') format('woff2');
+  src: url("/assets/fonts/montserrat-500.woff2") format("woff2");
+}
+
+/* ---------------------------------------------------
+   Local Open Sans (300 & 600)
+--------------------------------------------------- */
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/assets/fonts/opensans-300.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: 'Bunny';
+  font-family: "Open Sans";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
   font-display: swap;
-  src: url('/assets/fonts/Bunny-bold.woff2') format('woff2');
-}
-
-/* Bunny */
-@font-face {
-  font-family: 'Bunny';
-  font-style: normal;
-  font-weight: 900;
-  font-display: swap;
-  src: url('/assets/fonts/Bunny-black.woff2') format('woff2');
-}
-
-/*---------------------------------------
-  USAGE EXAMPLES
------------------------------------------*/
-body, p, ul li, a, button {
-  font-family: 'Bunny', sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6, 
-.header_tag_line, .mg-store, .navbar-brand-text, .Bunny_brand {
-  font-family: 'Bunny', sans-serif;
+  src: url("/assets/fonts/opensans-600.woff2") format("woff2");
 }

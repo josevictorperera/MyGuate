@@ -26,7 +26,7 @@
         src="{{ '/assets/js/jquery.min.js' | relative_url }}" 
         defer 
     ></script>
-    
+  
     <script 
         src="{{ '/assets/js/jquery.backstretch.min.js' | relative_url }}" 
         defer 
@@ -40,6 +40,105 @@
         src="{{ '/assets/js/custom.js' | relative_url }}" 
         defer 
     ></script>
+
+<!-- SNIPCART CODE START -->
+
+
+<!--  ============================
+  SETTINGSSnipcart Settings 
+  ================================-->
+<script>
+window.SnipcartSettings = {
+  publicApiKey: "OTgxMjRlZmEtOTBlMi00MWI3LWJlMGItNWMzZDY4NGRmYzkxNjM4OTg0MDk4NTkzODQ1MTI5",
+  version: "3.0",
+  timeoutDuration: 300,
+  loadStrategy: "on-user-interaction",
+  modalStyle: "side"
+};
+</script>
+
+<!-- ========================
+ LOAD TEMPLATE
+ ============================-->
+<script>
+(function() {
+
+  const settings = window.SnipcartSettings || {};
+
+  function insertRootAndSetTemplatesUrl() {
+    // 1. Get or create the Snipcart root element
+    let root = document.getElementById("snipcart");
+    if (!root) {
+      root = document.createElement("div");
+      root.id = "snipcart";
+      root.hidden = true;
+      document.body.appendChild(root);
+    }
+
+    // 2. Set the data attributes, including the templates URL
+    root.dataset.apiKey = settings.publicApiKey || ''; // Use provided API Key or empty string
+    root.dataset.templatesUrl = "/assets/templates/cart-templates.html";
+    root.dataset.configModalStyle = "side"; // Retaining this setting as it's useful
+  }
+
+  // Execute the function immediately to ensure the element is ready 
+  // before the main Snipcart script is likely to load.
+  insertRootAndSetTemplatesUrl(); 
+
+})();
+</script>
+
+<!-- ======================
+ SNIPCART LOADER 
+===========================-->
+
+<!-- Snipcart Async Loader (Safe + Clean) -->
+<script>
+(function () {
+  const loadEvents = ["mouseover", "touchstart", "scroll", "keydown"];
+  let loaded = false;
+
+  const loadSnipcart = () => {
+    if (loaded) return;
+    loaded = true;
+
+    // ROOT ELEMENT
+    if (!document.getElementById("snipcart")) {
+      const root = document.createElement("div");
+      root.id = "snipcart";
+      root.hidden = true;
+      root.dataset.apiKey = window.SnipcartSettings.publicApiKey;
+      root.dataset.configModalStyle = window.SnipcartSettings.modalStyle;
+      document.body.appendChild(root);
+    }
+
+    // BASE CSS + YOUR THEME
+    const css1 = document.createElement("link");
+    css1.rel = "stylesheet";
+    css1.href = "/assets/css/snipcart.css";
+    document.head.appendChild(css1);
+
+    const css2 = document.createElement("link");
+    css2.rel = "stylesheet";
+    css2.href = "/assets/css/snipcart-theme.css";
+    document.head.appendChild(css2);
+
+    // OFFICIAL JS ONLY
+    const script = document.createElement("script");
+    script.src = "https://cdn.snipcart.com/themes/v3.3.0/default/snipcart.js";
+    script.async = true;
+    document.head.appendChild(script);
+
+    loadEvents.forEach(e => document.removeEventListener(e, loadSnipcart));
+  };
+
+  // EVENT LOADING
+  loadEvents.forEach(e => document.addEventListener(e, loadSnipcart));
+  setTimeout(loadSnipcart, window.SnipcartSettings.timeoutDuration);
+})();
+</script>
+
+<!-- SNIPCART CODE END -->
 
 </body>
 </html>

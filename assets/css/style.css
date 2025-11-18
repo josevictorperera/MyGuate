@@ -280,7 +280,7 @@ span.cart-icon-wrapper {
 }
 
 span.cart-icon-wrapper:hover {
-  color: white;
+  color: rgb(7, 7, 7);
 }
 
 .snipcart-checkout {
@@ -1290,8 +1290,8 @@ span.cart-icon-wrapper:hover {
   }
 
   .section-padding {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
 
   .hero-form {
@@ -1319,8 +1319,8 @@ span.cart-icon-wrapper:hover {
   }
 
   .about-section {
-    padding-top: 75px;
-    padding-bottom: 75px;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
 
   .about-image {

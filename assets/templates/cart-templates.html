@@ -1,5 +1,10 @@
+---
+layout: default
+title: Snipcart
+---
+
 <div id="snipcart-templates">
-  
+  <!-- The node tag must be the name of the component you want to override https://docs.snipcart.com/v3/setup/customization -->
   <billing>
     <snipcart-form @submit="save">
       <div class="snipcart__box">
@@ -12,15 +17,15 @@
           <div class="snipcart-form__row">
             
             <div class="snipcart-form__field">
-              <snipcart-label for="name">Nombre(s)</snipcart-label>
-              <snipcart-input name="name" placeholder="Ingrese su nombres" required="true"></snipcart-input>
-              <snipcart-error-message name="name"></snipcart-error-message>
+              <snipcart-label for="firstName">Nombre(s)</snipcart-label>
+              <snipcart-input name="firstName" placeholder="Ingrese su nombres" required="true"></snipcart-input>
+              <snipcart-error-message name="firstName"></snipcart-error-message>
             </div>
 
             <div class="snipcart-form__field">
-              <snipcart-label for="name2">Apellidos</snipcart-label>
-              <snipcart-input name="name2" placeholder="Ingrese sus apellidos" required="true"></snipcart-input>
-              <snipcart-error-message name="name2"></snipcart-error-message>
+              <snipcart-label for="lastName">Apellidos</snipcart-label>
+              <snipcart-input name="lastName" placeholder="Ingrese sus apellidos" required="true"></snipcart-input>
+              <snipcart-error-message name="lastName"></snipcart-error-message>
             </div>
           </div>
           
@@ -159,4 +164,4 @@
     </fieldset>
   </address-fields>
 
-</div>
+</div> <!-- snipcart-templates https://docs.snipcart.com/v3/themes/default/reference -->

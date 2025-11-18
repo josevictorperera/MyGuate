@@ -42,100 +42,23 @@
     ></script>
 
 <!-- SNIPCART CODE START -->
+<!-- ======================================================
+ SNIPCART https://docs.snipcart.com/v3/setup/customization
+ =========================================================-->
+  <script>
+    window.SnipcartSettings = {
+        publicApiKey: 'OTgxMjRlZmEtOTBlMi00MWI3LWJlMGItNWMzZDY4NGRmYzkxNjM4OTg0MDk4NTkzODQ1MTI5',
+        version: "3.0",
+        timeoutDuration: 3000,
+        loadStrategy: "on-user-interaction",
+        currency: "gtq",
+        modalStyle: "side",
+        loadCSS: false,
+        addProductBehavior: "none",
+        templatesUrl: "/assets/templates/cart-templates.html",
+    };
 
-
-<!--  ============================
-  SETTINGSSnipcart Settings 
-  ================================-->
-<script>
-window.SnipcartSettings = {
-  publicApiKey: "OTgxMjRlZmEtOTBlMi00MWI3LWJlMGItNWMzZDY4NGRmYzkxNjM4OTg0MDk4NTkzODQ1MTI5",
-  version: "3.0",
-  timeoutDuration: 300,
-  loadStrategy: "on-user-interaction",
-  modalStyle: "side"
-};
-</script>
-
-<!-- ========================
- LOAD TEMPLATE
- ============================-->
-<script>
-(function() {
-
-  const settings = window.SnipcartSettings || {};
-
-  function insertRootAndSetTemplatesUrl() {
-    // 1. Get or create the Snipcart root element
-    let root = document.getElementById("snipcart");
-    if (!root) {
-      root = document.createElement("div");
-      root.id = "snipcart";
-      root.hidden = true;
-      document.body.appendChild(root);
-    }
-
-    // 2. Set the data attributes, including the templates URL
-    root.dataset.apiKey = settings.publicApiKey || ''; // Use provided API Key or empty string
-    root.dataset.templatesUrl = "/assets/templates/cart-templates.html";
-    root.dataset.configModalStyle = "side"; // Retaining this setting as it's useful
-  }
-
-  // Execute the function immediately to ensure the element is ready 
-  // before the main Snipcart script is likely to load.
-  insertRootAndSetTemplatesUrl(); 
-
-})();
-</script>
-
-<!-- ======================
- SNIPCART LOADER 
-===========================-->
-
-<!-- Snipcart Async Loader (Safe + Clean) -->
-<script>
-(function () {
-  const loadEvents = ["mouseover", "touchstart", "scroll", "keydown"];
-  let loaded = false;
-
-  const loadSnipcart = () => {
-    if (loaded) return;
-    loaded = true;
-
-    // ROOT ELEMENT
-    if (!document.getElementById("snipcart")) {
-      const root = document.createElement("div");
-      root.id = "snipcart";
-      root.hidden = true;
-      root.dataset.apiKey = window.SnipcartSettings.publicApiKey;
-      root.dataset.configModalStyle = window.SnipcartSettings.modalStyle;
-      document.body.appendChild(root);
-    }
-
-    // BASE CSS + YOUR THEME
-    const css1 = document.createElement("link");
-    css1.rel = "stylesheet";
-    css1.href = "/assets/css/snipcart.css";
-    document.head.appendChild(css1);
-
-    const css2 = document.createElement("link");
-    css2.rel = "stylesheet";
-    css2.href = "/assets/css/snipcart-theme.css";
-    document.head.appendChild(css2);
-
-    // OFFICIAL JS ONLY
-    const script = document.createElement("script");
-    script.src = "https://cdn.snipcart.com/themes/v3.3.0/default/snipcart.js";
-    script.async = true;
-    document.head.appendChild(script);
-
-    loadEvents.forEach(e => document.removeEventListener(e, loadSnipcart));
-  };
-
-  // EVENT LOADING
-  loadEvents.forEach(e => document.addEventListener(e, loadSnipcart));
-  setTimeout(loadSnipcart, window.SnipcartSettings.timeoutDuration);
-})();
+    (()=>{var c,d;(d=(c=window.SnipcartSettings).version)!=null||(c.version="3.0");var s,S;(S=(s=window.SnipcartSettings).timeoutDuration)!=null||(s.timeoutDuration=2750);var l,p;(p=(l=window.SnipcartSettings).domain)!=null||(l.domain="cdn.snipcart.com");var w,u;(u=(w=window.SnipcartSettings).protocol)!=null||(w.protocol="https");var f=window.SnipcartSettings.version.includes("v3.0.0-ci")||window.SnipcartSettings.version!="3.0"&&window.SnipcartSettings.version.localeCompare("3.4.0",void 0,{numeric:!0,sensitivity:"base"})===-1,m=["focus","mouseover","touchmove","scroll","keydown"];window.LoadSnipcart=o;document.readyState==="loading"?document.addEventListener("DOMContentLoaded",r):r();function r(){window.SnipcartSettings.loadStrategy?window.SnipcartSettings.loadStrategy==="on-user-interaction"&&(m.forEach(t=>document.addEventListener(t,o)),setTimeout(o,window.SnipcartSettings.timeoutDuration)):o()}var a=!1;function o(){if(a)return;a=!0;let t=document.getElementsByTagName("head")[0],e=document.querySelector("#snipcart"),i=document.querySelector(`src[src^="${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}"][src$="snipcart.js"]`),n=document.querySelector(`link[href^="${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}"][href$="snipcart.css"]`);e||(e=document.createElement("div"),e.id="snipcart",e.setAttribute("hidden","true"),document.body.appendChild(e)),v(e),i||(i=document.createElement("script"),i.src=`${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}/themes/v${window.SnipcartSettings.version}/default/snipcart.js`,i.async=!0,t.appendChild(i)),n||(n=document.createElement("link"),n.rel="stylesheet",n.type="text/css",n.href=`${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}/themes/v${window.SnipcartSettings.version}/default/snipcart.css`,t.prepend(n)),m.forEach(g=>document.removeEventListener(g,o))}function v(t){!f||(t.dataset.apiKey=window.SnipcartSettings.publicApiKey,window.SnipcartSettings.addProductBehavior&&(t.dataset.configAddProductBehavior=window.SnipcartSettings.addProductBehavior),window.SnipcartSettings.modalStyle&&(t.dataset.configModalStyle=window.SnipcartSettings.modalStyle),window.SnipcartSettings.currency&&(t.dataset.currency=window.SnipcartSettings.currency),window.SnipcartSettings.templatesUrl&&(t.dataset.templatesUrl=window.SnipcartSettings.templatesUrl))}})();
 </script>
 
 <!-- SNIPCART CODE END -->

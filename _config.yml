@@ -52,4 +52,4 @@ collections:
 # ---------------------------------------------------------------
 # 4. Custom Variables (Your Snipcart Key) 
 # ---------------------------------------------------------------
-snipcart_api_key: "OTgxMjRlZmEtOTBlMi00MWI3LWJlMGItNWMzZDY4NGRmYzkxNjM4OTg0MDk4NTkzODQ1MTI5" # Paste your actual Snipcart API Key here
+publicApiKey: "OTgxMjRlZmEtOTBlMi00MWI3LWJlMGItNWMzZDY4NGRmYzkxNjM4OTg0MDk4NTkzODQ1MTI5" # Paste your actual Snipcart API Key here

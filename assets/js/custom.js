@@ -115,3 +115,101 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 });
+/*
+//SYNC QUANTITY WITH SNIPCART
+document.addEventListener('DOMContentLoaded', function() {
+    const btn = document.getElementById('add-to-cart');
+    btn.addEventListener('click', function() {
+        const qty = document.getElementById('quantity_input').value;
+        this.setAttribute('data-item-quantity', qty);
+    });
+});*/
+
+document.addEventListener('DOMContentLoaded', function() {
+    const btn = document.getElementById('add-to-cart');
+    if (btn) {
+        btn.addEventListener('click', function() {
+            const qtyInput = document.getElementById('quantity_input');
+            if (qtyInput) {
+                this.setAttribute('data-item-quantity', qtyInput.value);
+            }
+        });
+    }
+});
+  
+
+// SNIPCART TEMPLATE LOADER
+(function () {
+  const settings = window.SnipcartSettings || {};
+  const loadEvents = ["focus", "mouseover", "touchmove", "scroll", "keydown"];
+  let initialized = false;
+
+  document.readyState === "loading"
+    ? document.addEventListener("DOMContentLoaded", init)
+    : init();
+
+  function init() {
+    if (settings.loadStrategy === "on-user-interaction") {
+      loadEvents.forEach(evt => document.addEventListener(evt, loadSnipcart));
+      setTimeout(loadSnipcart, settings.timeoutDuration);
+    } else {
+      loadSnipcart();
+    }
+  }
+
+  function loadSnipcart() {
+    if (initialized) return;
+    initialized = true;
+
+    createRoot();
+    injectBaseCSS();
+    injectCustomThemeCSS();   // <-- THE OVERRIDE FILE
+
+    loadEvents.forEach(evt =>
+      document.removeEventListener(evt, loadSnipcart)
+    );
+  }
+
+  function createRoot() {
+    let root = document.getElementById("snipcart");
+
+    if (!root) {
+      root = document.createElement("div");
+      root.id = "snipcart";
+      root.hidden = true;
+      document.body.appendChild(root);
+    }
+
+    applySettings(root);
+  }
+
+  function applySettings(root) {
+    const s = window.SnipcartSettings;
+
+    if (s.publicApiKey) root.dataset.apiKey = s.publicApiKey;
+    if (s.currency) root.dataset.currency = s.currency;
+    if (s.templatesUrl) root.dataset.templatesUrl = s.templatesUrl;
+    if (s.modalStyle) root.dataset.configModalStyle = s.modalStyle;
+    if (s.addProductBehavior)
+      root.dataset.configAddProductBehavior = s.addProductBehavior;
+  }
+
+  function injectBaseCSS() {
+    if (!document.querySelector('link[href$="snipcart.css"]')) {
+      const link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.href = "/assets/css/snipcart.css";
+      document.head.prepend(link);
+    }
+  }
+
+  function injectCustomThemeCSS() {
+    if (!document.querySelector('link[href$="snipcart-theme.css"]')) {
+      const link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.href = "/assets/css/snipcart-theme.css";
+      document.head.appendChild(link);
+    }
+  }
+
+})();

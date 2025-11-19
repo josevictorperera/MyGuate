@@ -48,12 +48,14 @@ layout: default
                 <label class="screen-reader-text" for="quantity_input">{{ page.title }} cantidad</label>
                 <input type="number" id="quantity_input" class="input-text qty text" name="quantity" value="1" min="1" step="1" inputmode="numeric" autocomplete="off">
             </div>
-            <button class="snipcart-add-item single_add_to_cart_button button alt" 
+            <button id="add-to-cart" class="snipcart-add-item single_add_to_cart_button button alt" 
                 data-item-id="{{ page.sku }}" 
                 data-item-price="{{ page.price }}" 
                 data-item-url="{{ page.url | absolute_url }}" 
                 data-item-name="{{ page.title }}"
-                data-item-image="{{ page.image | absolute_url }}">
+                data-item-image="{{ page.image | absolute_url }}"
+                data-item-quantity=""
+                >
                 Añadir al carrito
             </button>
         </form>

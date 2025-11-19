@@ -35,7 +35,8 @@ exclude:
   - node_modules/
   - vendor/
   - README.md
-
+include:
+  - cart-templates.html
 # Permalinks
 permalink: pretty # Makes URLs clean: /year/month/day/title/
 

@@ -340,7 +340,7 @@ span.cart-icon-wrapper:hover {
     cursor: pointer;
     transition: background-color 0.3s ease;
     border: none; /* Remove default button border */
-    background-color: #ccb643;
+    background-color: #fff;
 }
 
 /* Styling for the View Details button */
@@ -355,7 +355,7 @@ span.cart-icon-wrapper:hover {
 
 /* Styling for the Añadir al carrito (Snipcart) button */
 .snipcart-add-item.alt {
-    color: #ffffff;
+    color: orangered;
 }
 .snipcart-add-item.alt:hover {
     background-color: #ffe96f;

@@ -232,3 +232,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 // TILO PAY LINK 
+document.addEventListener("DOMContentLoaded", function () {
+    if (typeof tlpmbdInit === "function") {
+        tlpmbdInit(); // attaches Tilopay behavior to #tlpmbd-btn-pay
+    }
+});

@@ -162,14 +162,17 @@ permalink: cart-templates.html
 <payment section="top">
           <div class="root">
             <snipcart-label class=" snipcart__font--secondary snipcart__font--bold tilo-pay" for="tlpmbd-pay">
-                <a id="tlpmbd-btn-pay" referer="https://storage.googleapis.com/tilo-uploads/assets" href="https://tp.cr/s/MjMyOTk0" target="_blank">=>Copia el monto a pagar y presiona AQUÍ. Irás al portal de Tarjetas TiloPay</a>
-                <script id="tlpmbd-platform" src="https://storage.googleapis.com/tilo-uploads/assets/js/embed.js?generation=1673969891224302"></script><script>tlpmbdInit();</script>
-                <h6>si quieres, también puedes usa el QR para pagar con tarjeta</h6>
+                <a id="tlpmbd-btn-pay" referer="https://storage.googleapis.com/tilo-uploads/assets" href="https://tp.cr/s/MjMyOTk0" target="_blank">=>Copia el monto a pagar y presiona AQUÍ. </a>
+                <script id="tlpmbd-platform" 
+        src="https://storage.googleapis.com/tilo-uploads/assets/js/embed.js?generation=1673969891224302" 
+        defer></script>
+                <p>Irás al portal de Tarjetas TiloPay</p>
+                <h6>Puedes usa el QR para pagar con Tarjeta</h6>
                 <img src="/assets/images/payments/tiloppay_qrcode.png" alt="Secured Payment" style="max-width: 100px; margin: 10px 0;">
             </snipcart-label>
             <snipcart-label class=" snipcart__font--secondary snipcart__font--bold fri-pay" for="tlpmbd-pay">
                 <a id="fri-btn-pay" href="#" target="_blank">=>AQUÍ Puedes Pagar con SoyFri</a>
-                <h6>si quieres, también puedes usa el QR para pagar con fri</h6>
+                <h6>Puedes usa el QR para pagar con fri</h6>
                 <img src="/assets/images/payments/friQRcode.png" alt="Secured Payment" style="max-width: 100px; margin: 10px 0;">
             </snipcart-label>
       
@@ -181,7 +184,7 @@ permalink: cart-templates.html
             <snipcart-label class=" snipcart__font--secondary snipcart__font--bold fri-pay" for="tlpmbd-pay">
             <p>Al siguiente paso estarás confirmando tu pedido.</p>
             <p>Te estaremos llamando en horas hábiles para confirmar tu dirección.</p>
-            <p>Preguntas las pueder hacer por teléfono al 5965-5375 ó al email help@myguate.com</p>
+            <p>Preguntas las pueder hacer por:</p> <p>teléfono al 5965-5375 ó al email help@myguate.com</p>
                 <img src="/assets/images/logo.png" alt="Secured Payment" style="max-width: 100px; margin: 10px 0;">
             </snipcart-label>        </div>
  </payment>

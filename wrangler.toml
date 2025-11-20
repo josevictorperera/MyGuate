@@ -1,5 +1,0 @@
-compatibility_date = "2025-01-01"
-
-kv_namespaces = [
-  { binding = "PRODUCT_PRICES", id = "<YOUR_KV_NAMESPACE_ID>" }
-]

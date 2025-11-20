@@ -6,16 +6,8 @@ permalink: cart-templates.html
 
 <div id="snipcart-templates">
 
-<billing section="bottom">
-    <fieldset class="snipcart-form__set">
-        <div class="snipcart-form__field">
-            <!--Adding a textbox snipcart-input can be used for simple 
-            textbox and snipcart-textarea can be used for multiline text:-->
-          
-        </div>
-    </fieldset>
-</billing>
-<!-- TEST AREA-->
+<!--================ -->
+<!-- ADDRESS AREA-->
  <address-fields>
   <div>
     <fieldset class="snipcart-form__set">
@@ -26,7 +18,15 @@ permalink: cart-templates.html
           <snipcart-label class="snipcart__font--tiny" for="address1">
             Dirección
           </snipcart-label>
-          <snipcart-input name="address1"></snipcart-input>
+          <snipcart-input 
+          name="address1" 
+          placeholder="CAMPO OBLIGATORIO"
+          class="snipcart-input__input snipcart__font--secondary snipcart__font--bold"
+          v-model="form.address1"
+          id="address1" 
+          required
+          >
+        </snipcart-input>
           <snipcart-error-message name="address1"></snipcart-error-message>
         </div>
 
@@ -45,7 +45,14 @@ permalink: cart-templates.html
         <snipcart-label class="snipcart__font--tiny" for="city">
           Ciudad ó Municipio
         </snipcart-label>
-        <snipcart-input name="city"></snipcart-input>
+        <snipcart-input 
+        name="city" 
+        placeholder="CAMPO OBLIGATORIO"
+        class="snipcart-input__input snipcart__font--secondary snipcart__font--bold"
+        v-model="form.city"
+        id="city" 
+        required
+        ></snipcart-input>
         <snipcart-error-message name="city"></snipcart-error-message>
       </div>
 
@@ -61,10 +68,16 @@ permalink: cart-templates.html
       <div class="snipcart-form__row">
         <div class="snipcart-form__field snipcart-form__cell--large">
           <snipcart-label class="snipcart__font--tiny" for="province">
-            Departamento
+            Departamento - seleccione
           </snipcart-label>
 
-          <snipcart-select name="province" class="snipcart-form__select snipcart__font--secondary snipcart__font--bold">
+          <snipcart-select 
+          name="province" 
+          class="snipcart-form__select snipcart__font--secondary snipcart__font--bold"
+          id="province"
+          v-model="form.province" 
+          required
+          >
             <option value="">Seleccione departamento</option>
             <option value="Alta Verapaz">Alta Verapaz</option>
             <option value="Baja Verapaz">Baja Verapaz</option>
@@ -96,12 +109,16 @@ permalink: cart-templates.html
         <!--POSTAL CODE-->
         <div class="snipcart-form__field snipcart-form__cell--tidy">
           <snipcart-label class="snipcart__font--tiny" for="postalCode">
-            Código Postal
+            Código Postal <br>
+            obligatorio cinco dígitos
           </snipcart-label>
 
           <snipcart-input 
-              name="postalCode" 
-              data-snipcart-optional="true">
+              name="postalCode"
+              placeholder="10001"
+              data-snipcart-optional="true"
+              class="snipcart-input__input snipcart__font--secondary snipcart__font--bold"
+              >
           </snipcart-input>
 
           <snipcart-error-message name="postalCode"></snipcart-error-message>
@@ -122,17 +139,51 @@ permalink: cart-templates.html
   </div>
 </address-fields>
 
-<!-- Políticas de Privacidad check box in the payment step You can add 
- snipcart-inputs in any step of the checkout.-->
+<!--NIT-->
     <billing section="top">
         <div class="root">
             <snipcart-label class="snipcart__font--tiny" for="vatNumber">
                 NIT
             </snipcart-label>
-          <snipcart-input name="vatNumber"></snipcart-input>
+          <snipcart-input 
+          name="vatNumber"  
+          placeholder="si quiere NIT en su factura"
+          type="text" 
+          v-model="form.vatNumber"
+          class="snipcart-input__input" 
+          >
+          </snipcart-input>
           <snipcart-error-message name="vatNumber"></snipcart-error-message>        
         </div>
     </billing>
 
-    
+    <!--TEST-->
+
+<payment section="top">
+          <div class="root">
+            <snipcart-label class=" snipcart__font--secondary snipcart__font--bold tilo-pay" for="tlpmbd-pay">
+                <a id="tlpmbd-btn-pay" referer="https://storage.googleapis.com/tilo-uploads/assets" href="https://tp.cr/s/MjMyOTk0" target="_blank">=>Copia el monto a pagar y presiona AQUÍ. Irás al portal de Tarjetas TiloPay</a>
+                <script id="tlpmbd-platform" src="https://storage.googleapis.com/tilo-uploads/assets/js/embed.js?generation=1673969891224302"></script><script>tlpmbdInit();</script>
+                <h6>si quieres, también puedes usa el QR para pagar con tarjeta</h6>
+                <img src="/assets/images/payments/tiloppay_qrcode.png" alt="Secured Payment" style="max-width: 100px; margin: 10px 0;">
+            </snipcart-label>
+            <snipcart-label class=" snipcart__font--secondary snipcart__font--bold fri-pay" for="tlpmbd-pay">
+                <a id="fri-btn-pay" href="#" target="_blank">=>AQUÍ Puedes Pagar con SoyFri</a>
+                <h6>si quieres, también puedes usa el QR para pagar con fri</h6>
+                <img src="/assets/images/payments/friQRcode.png" alt="Secured Payment" style="max-width: 100px; margin: 10px 0;">
+            </snipcart-label>
+      
+      
+        </div>
+ </payment>
+ <payment section="bottom">
+          <div class="root">
+            <snipcart-label class=" snipcart__font--secondary snipcart__font--bold fri-pay" for="tlpmbd-pay">
+            <p>Al siguiente paso estarás confirmando tu pedido.</p>
+            <p>Te estaremos llamando en horas hábiles para confirmar tu dirección.</p>
+            <p>Preguntas las pueder hacer por teléfono al 5965-5375 ó al email help@myguate.com</p>
+                <img src="/assets/images/logo.png" alt="Secured Payment" style="max-width: 100px; margin: 10px 0;">
+            </snipcart-label>        </div>
+ </payment>
+
 </div> <!-- snipcart-templates https://docs.snipcart.com/v3/themes/default/reference -->

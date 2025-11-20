@@ -213,3 +213,22 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
 })();
+
+//LANGUAGE VALIDATION
+
+    document.addEventListener('snipcart.ready', function() {
+        Snipcart.api.session.setLanguage('es', {
+            "payment": {
+                "form": {
+                    "deferred_payment_instructions": "Pagará el pedido cuando lo reciba. Por favor asegúrese de estar disponible en la dirección proporcionada.",
+                    "deferred_payment_title": "Pago contra entrega"
+                },
+                "methods": {
+                    "deferred_payment": "=> Sigue",
+                },
+                "title": "Paga con Tarjeta, con Fri o contra entrega y sigue adelante.",                
+            },
+
+        });
+    });
+// TILO PAY LINK 

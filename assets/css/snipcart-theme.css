@@ -1,7 +1,20 @@
 /*===================
 SNIPCART CHECKOUT FORM
 =====================*/
+#tlpmbd-btn-pay, #fri-btn-pay {
+  display: inline-block;        /* makes it behave like a button */
+  padding: 10px 20px;           /* space inside */
+  background-color: #007bff;    /* button background (blue) */
+  color: #fff;                  /* text color */
+  text-decoration: none;        /* remove underline */
+  border-radius: 5px;           /* rounded corners */
+  font-weight: 600;             /* bold text */
+  transition: background-color 0.3s ease; /* smooth hover effect */
+}
 
+#tlpmbd-btn-pay:hover, #fri-btn-pay:hover {
+  background-color: #0056b3;    /* darker blue on hover */
+}
 .checkout-title {
   font-family: Montserrat, sans-serif;
   font-size: 1.2rem;

@@ -13,14 +13,52 @@
     window.SnipcartSettings = {
         publicApiKey: 'OTgxMjRlZmEtOTBlMi00MWI3LWJlMGItNWMzZDY4NGRmYzkxNjM4OTg0MDk4NTkzODQ1MTI5',
         loadStrategy: 'on-user-interaction',
-        currency: "gtq",
         modalStyle: "side",
         loadCSS: false,
         addProductBehavior: "",
-        templatesUrl: "/cart-templates.html"
+        templatesUrl: "/cart-templates.html",
     };
 
     (()=>{var c,d;(d=(c=window.SnipcartSettings).version)!=null||(c.version="3.0");var s,S;(S=(s=window.SnipcartSettings).timeoutDuration)!=null||(s.timeoutDuration=2750);var l,p;(p=(l=window.SnipcartSettings).domain)!=null||(l.domain="cdn.snipcart.com");var w,u;(u=(w=window.SnipcartSettings).protocol)!=null||(w.protocol="https");var f=window.SnipcartSettings.version.includes("v3.0.0-ci")||window.SnipcartSettings.version!="3.0"&&window.SnipcartSettings.version.localeCompare("3.4.0",void 0,{numeric:!0,sensitivity:"base"})===-1,m=["focus","mouseover","touchmove","scroll","keydown"];window.LoadSnipcart=o;document.readyState==="loading"?document.addEventListener("DOMContentLoaded",r):r();function r(){window.SnipcartSettings.loadStrategy?window.SnipcartSettings.loadStrategy==="on-user-interaction"&&(m.forEach(t=>document.addEventListener(t,o)),setTimeout(o,window.SnipcartSettings.timeoutDuration)):o()}var a=!1;function o(){if(a)return;a=!0;let t=document.getElementsByTagName("head")[0],e=document.querySelector("#snipcart"),i=document.querySelector(`src[src^="${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}"][src$="snipcart.js"]`),n=document.querySelector(`link[href^="${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}"][href$="snipcart.css"]`);e||(e=document.createElement("div"),e.id="snipcart",e.setAttribute("hidden","true"),document.body.appendChild(e)),v(e),i||(i=document.createElement("script"),i.src=`${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}/themes/v${window.SnipcartSettings.version}/default/snipcart.js`,i.async=!0,t.appendChild(i)),n||(n=document.createElement("link"),n.rel="stylesheet",n.type="text/css",n.href=`${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}/themes/v${window.SnipcartSettings.version}/default/snipcart.css`,t.prepend(n)),m.forEach(g=>document.removeEventListener(g,o))}function v(t){!f||(t.dataset.apiKey=window.SnipcartSettings.publicApiKey,window.SnipcartSettings.addProductBehavior&&(t.dataset.configAddProductBehavior=window.SnipcartSettings.addProductBehavior),window.SnipcartSettings.modalStyle&&(t.dataset.configModalStyle=window.SnipcartSettings.modalStyle),window.SnipcartSettings.currency&&(t.dataset.currency=window.SnipcartSettings.currency),window.SnipcartSettings.templatesUrl&&(t.dataset.templatesUrl=window.SnipcartSettings.templatesUrl))}})();
+
+</script>
+<script>
+// The content you want to insert
+const newContent = `
+  <div class="custom-payment-section snipcart__box--header" style="margin-top: 20px; text-align: center;">
+    <p class="snipcart__font--small">
+      Otras formas de pago:
+    </p>
+    
+
+[Image of credit card and digital wallet icons]
+
+    <img src="your-image-url.jpg" alt="Secured Payment" style="max-width: 100px; margin: 10px 0;">
+    
+    <a id="tlpmbd-btn-pay" 
+       referer="https://storage.googleapis.com/tilo-uploads/assets" 
+       href="https://tp.cr/s/MjMyOTk0" 
+       target="_blank"
+       class="snipcart-btn snipcart-btn--primary" 
+       style="display: block; margin-top: 15px;">
+        Paga con Tarjeta
+    </a>
+  </div>
+`;
+
+// Target the container for the payment methods list
+const targetElement = document.querySelector('.snipcart-payment-methods-list__container');
+
+if (targetElement) {
+    // Append the new content after the existing list inside the container
+    targetElement.insertAdjacentHTML('beforeend', newContent);
+    
+    // Re-initialize the external script (if needed for the link)
+    if (typeof tlpmbdInit === 'function') {
+        tlpmbdInit();
+    }
+}
+
 </script>
 <!-- SNIPCART CODE END -->    
     <header>{% include header.html %}</header>

@@ -2,21 +2,56 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="MyGuate.Com">
     <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="profile" href="https://gmpg.org/xfn/11">
-    <link rel="pingback" href="https://www.myguate.com/xmlrpc.php">
+    <!-- CSS -->
+     <!--START CSS-->
+    <style>
+    {%- include critical.css -%}
+    </style>
+         <!-- Bootstrap (non-critical for above-the-fold) -->
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" media="print" onload="this.media='all'">
+
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" href="/assets/css/style.css" media="print" onload="this.media='all'">
+
+        <!-- Preload the fonts stylesheet to prevent FOIT -->
+    <link rel="stylesheet" href="/assets/css/fonts.css" />
+
+    <!-- Snipcart CSS (non-critical, load async) -->
+    <link rel="stylesheet" href="/assets/css/snipcart.css" media="print" onload="this.media='all'">
+
+    <link rel="stylesheet" href="/assets/css/snipcart-theme.css" media="print" onload="this.media='all'">
+
+    <!-- Prevent rare onload bug -->
+    <noscript>
+        <link rel="stylesheet" href="/assets/css/style.css">
+        <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/assets/css/snipcart.css">
+        <link rel="stylesheet" href="/assets/css/snipcart-theme.css">
+    </noscript>
+     <!--CSS -->
 
 	<!-- This site is the e-commerce platform for Guatemala, MyGuate.Com-->
-	<meta name="description" content="La tienda en línea de Guatemala. Mejorando la vida de los chapines. Productos se pueden comprar con pago contra entrega." class="MyGuate.Com-meta-tag" />
-	<link rel="canonical" href="https://www.myguate.com/" class="MyGuate.Com-meta-tag" />
-	<meta property="og:locale" content="es_ES" class="MyGuate.Com-meta-tag" />
-	<meta property="og:type" content="website" class="MyGuate.Com-meta-tag" />
-	<meta property="og:title" content="MyGuate.Com" class="MyGuate.Com-meta-tag" />
-	<meta property="og:description" content="La tienda en línea de Guatemala. Mejorando la vida de los chapines. Productos se pueden comprar con pago contra entrega." class="MyGuate.Com-meta-tag" />
-	<meta property="og:url" content="https://www.myguate.com/" class="MyGuate.Com-meta-tag" />
-	<meta property="og:site_name" content="MyGuate.Com" class="MyGuate.Com-meta-tag" />
-	<meta property="article:publisher" content="https://www.facebook.com/MyGuateVentas" class="MyGuate.Com-meta-tag" />
-	<meta name="twitter:card" content="summary_large_image" class="MyGuate.Com-meta-tag" />
-	<!-- / MyGuate.Com SEO  -->
+<!-- Base SEO -->
+<meta name="description" content="La tienda en línea de Guatemala. Mejorando la vida de los chapines. Productos se pueden comprar con pago contra entrega.">
+<link rel="canonical" href="https://www.myguate.com/">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="es_GT">
+<meta property="og:type" content="website">
+<meta property="og:title" content="MyGuate.Com">
+<meta property="og:description" content="La tienda en línea de Guatemala. Mejorando la vida de los chapines. Productos se pueden comprar con pago contra entrega.">
+<meta property="og:url" content="https://www.myguate.com/">
+<meta property="og:site_name" content="MyGuate.Com">
+<meta property="og:image" content="https://www.myguate.com/assets/images/favicon/web-app-manifest-512x512.png">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://www.myguate.com/assets/images/favicon/web-app-manifest-512x512.png">
+
+	
+  <!-- / MyGuate.Com SEO  -->
 <!--APPLICATION SEO-->
 <script type="application/ld+json">
 {
@@ -46,11 +81,11 @@
     {
       "@type": "ImageObject",
       "@id": "https://www.myguate.com/#primaryimage",
-      "url": "https://www.myguate.com/assets/images/products/1-Estante-plastico-color-negro.webp",
-      "contentUrl": "https://www.myguate.com/assets/images/products/1-Estante-plastico-color-negro.webp",
+      "url": "https://www.myguate.com/assets/images/favicon/web-app-manifest-512x512.png",
+      "contentUrl": "https://www.myguate.com/assets/images/favicon/web-app-manifest-512x512.png",
       "width": 220,
       "height": 211,
-      "caption": "1 Estante plastico color negro",
+      "caption": "MyGuate.com",
       "inLanguage": "es"
     },
     {
@@ -96,10 +131,10 @@
       "logo": {
         "@type": "ImageObject",
         "@id": "https://www.myguate.com/#logo",
-        "url": "https://www.myguate.com/assets/images/logo.webp",
-        "contentUrl": "https://www.myguate.com/assets/images/logo.webp",
-        "width": 50,
-        "height": 50,
+        "url": "https://www.myguate.com/assets/images/favicon/web-app-manifest-512x512.png",
+        "contentUrl": "https://www.myguate.com/assets/images/favicon/web-app-manifest-512x512.png",
+        "width": 512,
+        "height": 512,
         "caption": "MyGuate.Com"
       },
       "image": { "@id": "https://www.myguate.com/#logo" },
@@ -116,31 +151,32 @@
 
 <!--END APPLICATION SEO-->
 
-<!--START CSS-->
-<style>
-{%- include critical.css -%}
-</style>
+<!-- 
 <link rel="stylesheet" href="/assets/css/fonts.css">
 <link rel="stylesheet" href="/assets/css/snipcart.css" />
 <link rel="stylesheet" href="/assets/css/snipcart-theme.css" />
 <link rel="stylesheet" href="/assets/css/bootstrap.min.css" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="/assets/css/style.css" media="print" onload="this.media='all'">
-    <script>
-        /*! LoadCSS onload property polyfill */
-        function loadCSS_polyfill() {
-          var links = document.querySelectorAll('link[media="print"]');
-          for (var i = 0; i < links.length; i++) {
-            links[i].media = 'all';
-          }
-        }
-        // Only run the fallback if JavaScript is enabled but the onload trick fails (e.g., older browsers)
-        if ('onload' in window) {
-          // Modern browsers handle it in the link tag
-        } else {
-          // Legacy browsers will run the fallback on page load
-          window.addEventListener('load', loadCSS_polyfill);
-        }
-      </script>
+-->
+<script>
+(function() {
+  // Detect if link onload is supported
+  var supportsOnload = 'onload' in document.createElement('link');
+
+  function loadCSS_polyfill() {
+    var links = document.querySelectorAll('link[media="print"]');
+    for (var i = 0; i < links.length; i++) {
+      links[i].media = 'all';
+    }
+  }
+
+  if (!supportsOnload) {
+    // For older browsers: run after all resources load
+    window.addEventListener('load', loadCSS_polyfill);
+  }
+})();
+</script>
+
                               <!--   SITE FAVICONS  -->
 <link rel="icon" type="image/png" href="/assets/images/favicon/favicon-96x96.png" sizes="96x96" >
 <link rel="icon" type="image/svg+xml" href="/assets/images/favicon/favicon.svg" >

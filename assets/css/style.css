@@ -11,7 +11,7 @@
   --p-color:                      #717275;
   --border-color:                 #e9eaeb;
 
-  --mg-link-color:                #fe9000;
+  --mg-link-color:                #2200fe;
 
   --twitter-color:                #1da1f2;
   --facebook-color:               #1877f2;
@@ -128,10 +128,10 @@ strong {
 }
 
 .tooplate-red {
-	color: var(--secondary-color);
+	color: var(--instagram-color);
 }
 .tooplate-green {
-	color: var(--custom-btn-bg-color);
+	color: #4997D0;
 }
 
 /*---------------------------------------
@@ -275,7 +275,7 @@ strong {
 /*CART AND COUND BG*/
 
 span.cart-icon-wrapper {
-  color: var(--primary-color);
+  color: var(--dark-color);
   font-size: 1.2em;
 }
 
@@ -303,13 +303,13 @@ span.cart-icon-wrapper:hover {
 }
 
 .snipcart-checkout:hover {
-    background-color: orange;
+    background-color: var(--section-bg-color);
 }
 
 /* Style the count badge */
 .snipcart-items-count {
     background-color: white;
-    color: var(--primary-color);
+    color: var(--dark-color);
     padding: 7px 7px;
     border-radius: 50%;
     font-size: 0.9em;
@@ -355,7 +355,8 @@ span.cart-icon-wrapper:hover {
 
 /* Styling for the Añadir al carrito (Snipcart) button */
 .snipcart-add-item.alt {
-    color: orangered;
+    color: var(--dark-color);
+    background-color: var(--primary-color);
 }
 .snipcart-add-item.alt:hover {
     background-color: #ffe96f;
@@ -648,7 +649,7 @@ span.cart-icon-wrapper:hover {
 
 .navbar-brand,
 .navbar-brand:hover {
-  color: var(--primary-color);
+  color: #4997D0;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -1204,7 +1205,7 @@ span.cart-icon-wrapper:hover {
 }
 
 .copyright-text {
-  color: var(--section-bg-color);
+  color: var(--dark-color);
   font-size: var(--copyright-font-size);
   margin-top: 10px;
 }

@@ -224,9 +224,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     "deferred_payment_title": "Pago contra entrega"
                 },
                 "methods": {
-                    "deferred_payment": "=> Sigue",
+                    "deferred_payment": "=> Completar el Pedido",
                 },
-                "title": "Paga con Tarjeta, con Fri o solo contra entrega y sigue adelante.",                
+                "title": "Paga con Tarjeta, con Fri o solo contra entrega y completa el pedido.",                
             },
 
         });

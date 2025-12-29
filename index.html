@@ -96,7 +96,7 @@ CAROUSEL END-->
                         
                         <span class="fs-4 fw-bold text-success">Q {{ product.price }}</span>
                                               
-                        <button
+                        <!--<button
                             class="snipcart-add-item button alt btn-warning"
                             data-item-id="{{ product.sku }}"
                             data-item-price="{{ product.price }}"
@@ -105,7 +105,8 @@ CAROUSEL END-->
                             data-item-name="{{ product.title }}"
                         >
                             Comprar
-                        </button>                   
+                        </button>   --> 
+              {% include add-to-cart.html %}
                     </div>
                 </article>
                 

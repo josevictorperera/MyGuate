@@ -1,28 +1,50 @@
-<div class="quantity">
-  <input type="number" class="qty-input" value="1" min="1">
+<div class="cart-controller"> 
+  <div class="quantity mb-2">
+    <input type="number" class="qty-input form-control" value="1" min="1" style="width: 80px;">
+  </div>
+
+  <button
+    type="button"
+    class="add-to-cart btn btn-primary"
+    data-sku="{{ product.sku | default: page.sku }}"
+    data-name="{{ product.title | default: page.title | escape }}"
+    data-price="{{ product.price | default: page.price }}">
+    Agregar al carrito
+  </button>
 </div>
 
-<button
-  class="add-to-cart"
-  data-sku="{{ page.sku }}"
-  data-name="{{ page.title | escape }}"
-  data-price="{{ page.price }}">
-  Agregar al carrito
-</button>
-
 <script>
-document.addEventListener("DOMContentLoaded", () => {
-  document.querySelectorAll(".add-to-cart").forEach(btn => {
-    btn.addEventListener("click", () => {
-      const qtyInput = btn.previousElementSibling.querySelector(".qty-input");
+// We use a check to ensure we only attach this global listener once
+if (typeof cartListenerAdded === 'undefined') {
+    window.cartListenerAdded = true;
+    document.addEventListener("click", (e) => {
+        const btn = e.target.closest(".add-to-cart");
+        if (!btn) return;
 
-      addToCart({
-        sku: btn.dataset.sku,
-        name: btn.dataset.name,
-        price: parseFloat(btn.dataset.price),
-        qty: parseInt(qtyInput.value, 10) || 1
-      });
+        if (typeof addToCart !== "function") {
+            console.error("Cart system (cart.js) not loaded");
+            return;
+        }
+
+        // Find the input relative to the clicked button's container
+        const container = btn.closest(".cart-controller");
+        const qtyInput = container.querySelector(".qty-input");
+
+        addToCart({
+            sku: btn.dataset.sku,
+            name: btn.dataset.name,
+            price: parseFloat(btn.dataset.price) || 0, // Force float
+            qty: parseInt(qtyInput.value, 10) || 1
+        });
+        
+        // Optional: Visual feedback
+        const originalText = btn.innerText;
+        btn.innerText = "¡Agregado!";
+        btn.classList.replace("btn-primary", "btn-success");
+        setTimeout(() => {
+            btn.innerText = originalText;
+            btn.classList.replace("btn-success", "btn-primary");
+        }, 1000);
     });
-  });
-});
+}
 </script>

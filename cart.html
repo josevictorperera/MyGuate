@@ -3,120 +3,128 @@ layout: default
 title: Carrito
 ---
 
+<div class="container my-5">
+    <h1>Carrito de Compras</h1>
+
+    <div id="cart" class="my-4"></div>
+
+    <div class="card p-4 shadow-sm">
+        <h3>Total: <span id="total">Q 0.00</span></h3>
+        
+        <div class="cart-actions mt-4 d-grid gap-2 d-md-block">
+            <button class="btn btn-success me-md-2" onclick="handleOrder('whatsapp')">
+                <i class="bi bi-whatsapp"></i> Enviar por WhatsApp
+            </button>
+            <button class="btn btn-primary me-md-2" onclick="handleOrder('sms')">
+                Enviar por SMS
+            </button>
+            <button class="btn btn-info text-white" onclick="handleOrder('email')">
+                Enviar por Email
+            </button>
+        </div>
+        
+        <button class="btn btn-outline-secondary mt-3" onclick="window.print()">
+            Imprimir Pedido
+        </button>
+    </div>
+</div>
+
 <script>
 let CURRENT_ORDER_ID = null;
 
 function getOrderID() {
-  if (!CURRENT_ORDER_ID) {
-    CURRENT_ORDER_ID = generateOrderID();
-  }
-  return CURRENT_ORDER_ID;
+    if (!CURRENT_ORDER_ID) {
+        const d = new Date();
+        CURRENT_ORDER_ID = "MG-" + d.getFullYear().toString().slice(-2) + 
+                          (d.getMonth() + 1).toString().padStart(2, "0") + 
+                          d.getDate().toString().padStart(2, "0") + "-" + 
+                          Math.floor(1000 + Math.random() * 9000);
+    }
+    return CURRENT_ORDER_ID;
 }
-</script>
 
-<h1>Carrito de Compras</h1>
-
-<div id="cart"></div>
-
-<h3>Total: <span id="total"></span></h3>
-<div class="cart-actions">
-<button onclick="sendWhatsApp()">Enviar por WhatsApp</button>
-<button onclick="sendSMS()">Enviar por SMS</button>
-<button onclick="sendEmail()">Enviar por Email</button>
-</div>
-<button onclick="window.print()">Imprimir Pedido</button>
-
-<script src="/assets/js/cart.js"></script>
-<script>
 function renderCart() {
-  const cart = loadCart();
-  const el = document.getElementById("cart");
-  el.innerHTML = "";
+    // Check if cart.js functions exist
+    if (typeof loadCart !== "function") {
+        console.error("cart.js not loaded yet");
+        return;
+    }
 
-  if (!cart.items.length) {
-    el.innerHTML = "<p>El carrito está vacío.</p>";
-    return;
-  }
+    const cart = loadCart();
+    const el = document.getElementById("cart");
+    const totalEl = document.getElementById("total");
+    
+    if (!cart.items || !cart.items.length) {
+        el.innerHTML = "<div class='alert alert-warning'>El carrito está vacío. <a href='/'>Ir a la tienda</a></div>";
+        totalEl.innerText = "Q 0.00";
+        return;
+    }
 
-  cart.items.forEach(i => {
-    el.innerHTML += `
-      <div class="cart-item">
-        <strong>${i.name}</strong><br>
-        ${formatQ(i.price)}<br>
-        <button onclick="changeQty('${i.sku}', -1)">−</button>
-        ${i.qty}
-        <button onclick="changeQty('${i.sku}', 1)">+</button>
-      </div>
-    `;
-  });
-
-  document.getElementById("total").innerText = formatQ(cartTotal());
+    let html = '<div class="list-group">';
+    cart.items.forEach(i => {
+        html += `
+            <div class="list-group-item d-flex justify-content-between align-items-center">
+                <div>
+                    <h5 class="mb-1">${i.name}</h5>
+                    <p class="mb-1 text-muted">${formatQ(i.price)} x ${i.qty}</p>
+                </div>
+                <div class="btn-group">
+                    <button class="btn btn-outline-secondary btn-sm" onclick="updateAndRender('${i.sku}', -1)">−</button>
+                    <span class="btn btn-light btn-sm disabled">${i.qty}</span>
+                    <button class="btn btn-outline-secondary btn-sm" onclick="updateAndRender('${i.sku}', 1)">+</button>
+                </div>
+            </div>`;
+    });
+    html += '</div>';
+    
+    el.innerHTML = html;
+    totalEl.innerText = formatQ(cartTotal());
 }
 
+// Helper to update qty and immediately refresh the list
+function updateAndRender(sku, delta) {
+    changeQty(sku, delta);
+    renderCart(); 
+}
+
+function handleOrder(type) {
+    const cart = loadCart();
+    if (cart.items.length === 0) {
+        alert("El carrito está vacío");
+        return;
+    }
+
+    const orderId = getOrderID();
+    let msg = `🛒 *Nuevo Pedido*\n`;
+    msg += `Orden: ${orderId}\n\n`;
+
+    cart.items.forEach(i => {
+        msg += `• ${i.name}\n  Cantidad: ${i.qty}\n  Precio: ${formatQ(i.price)}\n\n`;
+    });
+
+    msg += `TOTAL: ${formatQ(cartTotal())}\n`;
+    msg += `Pago: Contra entrega\n`;
+    
+    const encodedMsg = encodeURIComponent(msg);
+    const phone = "50259655375";
+
+    if (type === 'whatsapp') {
+        window.open(`https://wa.me/${phone}?text=${encodedMsg}`, '_blank');
+    } else if (type === 'sms') {
+        window.location.href = `sms:+${phone}?body=${encodedMsg}`;
+    } else if (type === 'email') {
+        window.location.href = `mailto:help@myguate.com?subject=Pedido ${orderId}&body=${encodedMsg}`;
+    }
+
+    // Optional: clear cart after a delay
+    setTimeout(() => {
+        if(confirm("¿Deseas vaciar el carrito ahora que el pedido fue enviado?")) {
+            clearCart();
+            renderCart();
+        }
+    }, 2000);
+}
+
+// CRITICAL: Initialize on load
 document.addEventListener("DOMContentLoaded", renderCart);
-
-
-// Order Message Builder (Critical) This ensures consistent, readable orders across WhatsApp, SMS, and Email.
-function buildOrderMessage() {
-  const cart = loadCart();
-  const orderId = getOrderID();
-
-
-  let msg = `🛒 *Nuevo Pedido*\n`;
-  msg += `Orden: ${orderId}\n\n`;
-
-  cart.items.forEach(i => {
-    msg += `• ${i.name}\n  Cantidad: ${i.qty}\n  Precio: ${formatQ(i.price)}\n\n`;
-  });
-
-  msg += `TOTAL: ${formatQ(cartTotal())}\n`;
-  msg += `Pago: Contra entrega\n`;
-  msg += `Contacto posterior para dirección.\n`;
-
-  return { text: encodeURIComponent(msg), orderId };
-}
-
-//Order ID Generation, Simple, readable, unique-enough for COD operations
-function generateOrderID() {
-  const d = new Date();
-  return (
-    "MG-" +
-    d.getFullYear().toString().slice(-2) +
-    (d.getMonth() + 1).toString().padStart(2, "0") +
-    d.getDate().toString().padStart(2, "0") +
-    "-" +
-    Math.floor(1000 + Math.random() * 9000)
-  );
-}
-//Send Actions + Auto-Clear After Send
-function finalizeOrder() {
-  clearCart();
-  alert("Pedido enviado. Nos comunicaremos pronto.");
-}
-
-function sendWhatsApp() {
-  const o = buildOrderMessage();
-  window.location.href =
-    "https://wa.me/50259655375?text=" + o.text;
-  setTimeout(finalizeOrder, 1500);
-
-}
-
-function sendSMS() {
-  const o = buildOrderMessage();
-  window.location.href =
-    "sms:+50259655375?body=" + o.text;
-  setTimeout(finalizeOrder, 1500);
-
-}
-
-function sendEmail() {
-  const o = buildOrderMessage();
-  window.location.href =
-    "mailto:help@myguate.com?subject=Nuevo Pedido " + o.orderId +
-    "&body=" + o.text;
-  setTimeout(finalizeOrder, 1500);
-
-}
-
 </script>

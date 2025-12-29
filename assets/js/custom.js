@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
   
-
+/*
 // SNIPCART TEMPLATE LOADER
 (function () {
   const settings = window.SnipcartSettings || {};
@@ -230,7 +230,7 @@ document.addEventListener('DOMContentLoaded', function() {
             },
 
         });
-    });
+    });*/
 // TILO PAY LINK 
 document.addEventListener("DOMContentLoaded", function () {
     if (typeof tlpmbdInit === "function") {

@@ -46,8 +46,8 @@ function changeQty(sku, delta) {
   }
 
   saveCart(cart);
-  if (typeof renderCart === "function") {
-  renderCart();
+if (window.location.pathname.includes('cart') && typeof renderCart === "function") {
+        renderCart();
 }
 
 }
@@ -56,12 +56,19 @@ function changeQty(sku, delta) {
    Utilities
 ------------------------- */
 function cartTotal() {
-  const cart = loadCart();
-  return cart.items.reduce((s, i) => s + i.price * i.qty, 0);
+    const cart = loadCart();
+    // Ensure both price and qty are treated as numbers during reduction
+    return cart.items.reduce((sum, item) => {
+        const p = parseFloat(item.price) || 0;
+        const q = parseInt(item.qty) || 0;
+        return sum + (p * q);
+    }, 0);
 }
 
 function formatQ(amount) {
-  return "Q " + amount.toFixed(2);
+  // If amount is null, undefined, or NaN, default to 0
+  const value = parseFloat(amount) || 0;
+  return "Q " + value.toFixed(2);
 }
 
 /* -------------------------
@@ -75,3 +82,57 @@ function updateCartBadge() {
 }
 
 document.addEventListener("DOMContentLoaded", updateCartBadge);
+
+// Function to open the drawer
+function openCartDrawer() {
+    document.getElementById("side-cart").classList.add("open");
+    document.getElementById("cart-overlay").classList.add("show");
+    renderSideCart();
+}
+
+// Function to close the drawer
+function closeCartDrawer() {
+    document.getElementById("side-cart").classList.remove("open");
+    document.getElementById("cart-overlay").classList.remove("show");
+}
+
+// Render items inside the drawer
+function renderSideCart() {
+    const cart = loadCart();
+    const container = document.getElementById("side-cart-items");
+    const totalEl = document.getElementById("side-cart-total");
+    
+    if (!cart.items.length) {
+        container.innerHTML = "<p class='text-center mt-5'>Tu carrito está vacío.</p>";
+        totalEl.innerText = "Q 0.00";
+        return;
+    }
+
+    container.innerHTML = cart.items.map(i => `
+        <div class="d-flex align-items-center mb-3 border-bottom pb-2">
+            <div class="flex-grow-1">
+                <h6 class="mb-0" style="font-size: 0.9rem;">${i.name}</h6>
+                <small class="text-muted">${i.qty} x ${formatQ(i.price)}</small>
+            </div>
+            <button class="btn btn-sm btn-outline-danger" onclick="changeQty('${i.sku}', -1)">×</button>
+        </div>
+    `).join("");
+
+    totalEl.innerText = formatQ(cartTotal());
+}
+
+// Initialize Close Listeners
+document.addEventListener("DOMContentLoaded", () => {
+    const overlay = document.getElementById("cart-overlay");
+    const closeBtn = document.getElementById("close-cart");
+
+    if(overlay) overlay.addEventListener("click", closeCartDrawer);
+    if(closeBtn) closeBtn.addEventListener("click", closeCartDrawer);
+});
+
+// CRITICAL: Update your existing addToCart to trigger the drawer
+const originalAddToCart = addToCart;
+addToCart = function(product) {
+    originalAddToCart(product); // Run existing logic
+    openCartDrawer();           // Then slide open the cart
+};

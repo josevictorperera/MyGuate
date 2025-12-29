@@ -2,66 +2,14 @@
 layout: default
 title: MyGuate.Com
 ---
-<!-- CAROUSEL START
-<section class="reviews-section section-padding pb-0">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-12">
-                <div class="owl-carousel reviews-carousel">
 
-                {% assign carousel_products = site.products | sort: 'title' %}
-                {% for product in carousel_products limit: 12 %} 
-                
-                    <div class="reviews-thumb">
-                        <div class="reviews-body">
-                            
-                            <article class="card h-100 shadow-sm">
-                                
-                                <a href="{{ product.url | absolute_url }}" class="text-decoration-none text-dark">
-                                    <img 
-                                        src="{{ product.image | absolute_url }}" 
-                                        alt="{{ product.alt_text | default: product.title }}"
-                                        class="card-img-top" 
-                                        style="height: 100px; object-fit: cover;"
-                                        loading="lazy"
-                                    >
-                                    <div class="card-body d-flex flex-column">
-                                        <h5 class="card-title">{{ product.title }}</h5>
-                                    </div>
-                                </a>
-                                
-                                <div class="card-footer d-flex justify-content-between align-items-center">
-                                    <span class="fs-4 fw-bold text-success">Q {{ product.price }}</span>
-
-                                    <button
-                                        class="snipcart-add-item button alt btn-warning"
-                                        data-item-id="{{ product.sku }}"
-                                        data-item-price="{{ product.price }}"
-                                        data-item-url="{{ product.url | absolute_url }}"
-                                        data-item-image="{{ site.url }}{{ product.image | absolute_url }}" 
-                                        data-item-name="{{ product.title }}"
-                                    >
-                                        Comprar
-                                    </button>                   
-                                </div>
-                            </article>
-                        </div>
-                    </div>
-                {% endfor %}
-
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-CAROUSEL END-->
     <div class="container my-5"> 
         
         <div class="product-filters">
             <input type="text" id="product-search" placeholder="🔍 Buscar productos..." class="search-input">
         </div>
     <section class="product-listing mt-5">
-        <span class="lead"><a href="#" class="snipcart-customer-signin">Mi cuenta</a> 🚚MyGuate.Com! La tienda en línea de Guatemala. Mejorando la vida de los chapines. Envío y productos pago contra entrega | Servicio solo en el territorio nacional de Guatemala</span>
+        <span class="lead"> 🚚MyGuate.Com! La tienda en línea de Guatemala. Mejorando la vida de los chapines. Envío y productos pago contra entrega | Servicio solo en el territorio nacional de Guatemala</span>
         
         <h2 class="mb-4">Catálogo</h2>
         
@@ -95,17 +43,7 @@ CAROUSEL END-->
                     <div class="card-footer d-flex justify-content-between align-items-center">
                         
                         <span class="fs-4 fw-bold text-success">Q {{ product.price }}</span>
-                                              
-                        <!--<button
-                            class="snipcart-add-item button alt btn-warning"
-                            data-item-id="{{ product.sku }}"
-                            data-item-price="{{ product.price }}"
-                            data-item-url="{{ product.url | absolute_url }}"
-                            data-item-image="{{ site.url }}{{ product.image | absolute_url }}" 
-                            data-item-name="{{ product.title }}"
-                        >
-                            Comprar
-                        </button>   --> 
+
               {% include add-to-cart.html %}
                     </div>
                 </article>

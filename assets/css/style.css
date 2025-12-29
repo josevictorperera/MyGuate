@@ -1195,6 +1195,11 @@ span.cart-icon-wrapper:hover {
   }
 }
 
+@media print {
+  .cart-actions button {
+    display: none;
+  }
+}
 
 /*---------------------------------------
   SITE FOOTER              

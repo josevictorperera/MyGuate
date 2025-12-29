@@ -46,7 +46,10 @@ function changeQty(sku, delta) {
   }
 
   saveCart(cart);
+  if (typeof renderCart === "function") {
   renderCart();
+}
+
 }
 
 /* -------------------------

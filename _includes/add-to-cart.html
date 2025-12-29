@@ -1,8 +1,28 @@
-<button onclick="addToCart({
-  sku: '{{ page.sku }}',
-  name: '{{ page.title | escape }}',
-  price: {{ page.price }},
-  qty: 1
-})">
+<div class="quantity">
+  <input type="number" class="qty-input" value="1" min="1">
+</div>
+
+<button
+  class="add-to-cart"
+  data-sku="{{ page.sku }}"
+  data-name="{{ page.title | escape }}"
+  data-price="{{ page.price }}">
   Agregar al carrito
 </button>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".add-to-cart").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const qtyInput = btn.previousElementSibling.querySelector(".qty-input");
+
+      addToCart({
+        sku: btn.dataset.sku,
+        name: btn.dataset.name,
+        price: parseFloat(btn.dataset.price),
+        qty: parseInt(qtyInput.value, 10) || 1
+      });
+    });
+  });
+});
+</script>

@@ -3,15 +3,27 @@ layout: default
 title: Carrito
 ---
 
+<script>
+let CURRENT_ORDER_ID = null;
+
+function getOrderID() {
+  if (!CURRENT_ORDER_ID) {
+    CURRENT_ORDER_ID = generateOrderID();
+  }
+  return CURRENT_ORDER_ID;
+}
+</script>
+
 <h1>Carrito de Compras</h1>
 
 <div id="cart"></div>
 
 <h3>Total: <span id="total"></span></h3>
-
+<div class="cart-actions">
 <button onclick="sendWhatsApp()">Enviar por WhatsApp</button>
 <button onclick="sendSMS()">Enviar por SMS</button>
 <button onclick="sendEmail()">Enviar por Email</button>
+</div>
 <button onclick="window.print()">Imprimir Pedido</button>
 
 <script src="/assets/js/cart.js"></script>
@@ -47,7 +59,8 @@ document.addEventListener("DOMContentLoaded", renderCart);
 // Order Message Builder (Critical) This ensures consistent, readable orders across WhatsApp, SMS, and Email.
 function buildOrderMessage() {
   const cart = loadCart();
-  const orderId = generateOrderID();
+  const orderId = getOrderID();
+
 
   let msg = `🛒 *Nuevo Pedido*\n`;
   msg += `Orden: ${orderId}\n\n`;
@@ -85,14 +98,16 @@ function sendWhatsApp() {
   const o = buildOrderMessage();
   window.location.href =
     "https://wa.me/50259655375?text=" + o.text;
-  finalizeOrder();
+  setTimeout(finalizeOrder, 1500);
+
 }
 
 function sendSMS() {
   const o = buildOrderMessage();
   window.location.href =
     "sms:+50259655375?body=" + o.text;
-  finalizeOrder();
+  setTimeout(finalizeOrder, 1500);
+
 }
 
 function sendEmail() {
@@ -100,7 +115,8 @@ function sendEmail() {
   window.location.href =
     "mailto:help@myguate.com?subject=Nuevo Pedido " + o.orderId +
     "&body=" + o.text;
-  finalizeOrder();
+  setTimeout(finalizeOrder, 1500);
+
 }
 
 </script>

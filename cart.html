@@ -1,0 +1,106 @@
+---
+layout: default
+title: Carrito
+---
+
+<h1>Carrito de Compras</h1>
+
+<div id="cart"></div>
+
+<h3>Total: <span id="total"></span></h3>
+
+<button onclick="sendWhatsApp()">Enviar por WhatsApp</button>
+<button onclick="sendSMS()">Enviar por SMS</button>
+<button onclick="sendEmail()">Enviar por Email</button>
+<button onclick="window.print()">Imprimir Pedido</button>
+
+<script src="/assets/js/cart.js"></script>
+<script>
+function renderCart() {
+  const cart = loadCart();
+  const el = document.getElementById("cart");
+  el.innerHTML = "";
+
+  if (!cart.items.length) {
+    el.innerHTML = "<p>El carrito está vacío.</p>";
+    return;
+  }
+
+  cart.items.forEach(i => {
+    el.innerHTML += `
+      <div class="cart-item">
+        <strong>${i.name}</strong><br>
+        ${formatQ(i.price)}<br>
+        <button onclick="changeQty('${i.sku}', -1)">−</button>
+        ${i.qty}
+        <button onclick="changeQty('${i.sku}', 1)">+</button>
+      </div>
+    `;
+  });
+
+  document.getElementById("total").innerText = formatQ(cartTotal());
+}
+
+document.addEventListener("DOMContentLoaded", renderCart);
+
+
+// Order Message Builder (Critical) This ensures consistent, readable orders across WhatsApp, SMS, and Email.
+function buildOrderMessage() {
+  const cart = loadCart();
+  const orderId = generateOrderID();
+
+  let msg = `🛒 *Nuevo Pedido*\n`;
+  msg += `Orden: ${orderId}\n\n`;
+
+  cart.items.forEach(i => {
+    msg += `• ${i.name}\n  Cantidad: ${i.qty}\n  Precio: ${formatQ(i.price)}\n\n`;
+  });
+
+  msg += `TOTAL: ${formatQ(cartTotal())}\n`;
+  msg += `Pago: Contra entrega\n`;
+  msg += `Contacto posterior para dirección.\n`;
+
+  return { text: encodeURIComponent(msg), orderId };
+}
+
+//Order ID Generation, Simple, readable, unique-enough for COD operations
+function generateOrderID() {
+  const d = new Date();
+  return (
+    "MG-" +
+    d.getFullYear().toString().slice(-2) +
+    (d.getMonth() + 1).toString().padStart(2, "0") +
+    d.getDate().toString().padStart(2, "0") +
+    "-" +
+    Math.floor(1000 + Math.random() * 9000)
+  );
+}
+//Send Actions + Auto-Clear After Send
+function finalizeOrder() {
+  clearCart();
+  alert("Pedido enviado. Nos comunicaremos pronto.");
+}
+
+function sendWhatsApp() {
+  const o = buildOrderMessage();
+  window.location.href =
+    "https://wa.me/50259655375?text=" + o.text;
+  finalizeOrder();
+}
+
+function sendSMS() {
+  const o = buildOrderMessage();
+  window.location.href =
+    "sms:+50259655375?body=" + o.text;
+  finalizeOrder();
+}
+
+function sendEmail() {
+  const o = buildOrderMessage();
+  window.location.href =
+    "mailto:help@myguate.com?subject=Nuevo Pedido " + o.orderId +
+    "&body=" + o.text;
+  finalizeOrder();
+}
+
+</script>

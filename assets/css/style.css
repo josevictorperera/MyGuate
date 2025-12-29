@@ -1175,6 +1175,26 @@ span.cart-icon-wrapper:hover {
   color: var(--p-color);
 }
 
+/*---------------------------------------
+  CART               
+-----------------------------------------*/
+
+.cart-item {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.cart-item button {
+  margin: 0 5px;
+  padding: 4px 8px;
+}
+
+@media print {
+  button {
+    display: none;
+  }
+}
+
 
 /*---------------------------------------
   SITE FOOTER              

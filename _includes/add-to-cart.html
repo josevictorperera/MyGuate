@@ -1,0 +1,8 @@
+<button onclick="addToCart({
+  sku: '{{ page.sku }}',
+  name: '{{ page.title | escape }}',
+  price: {{ page.price }},
+  qty: 1
+})">
+  Agregar al carrito
+</button>

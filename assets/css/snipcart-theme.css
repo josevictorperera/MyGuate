@@ -3,6 +3,7 @@ SNIPCART CHECKOUT FORM
 =====================*/
 #tlpmbd-btn-pay, #fri-btn-pay {
   display: inline-block;        /* makes it behave like a button */
+  width: auto !important;       /* auto width */
   padding: 10px 20px;           /* space inside */
   background-color: #007bff;    /* button background (blue) */
   color: #fff;                  /* text color */
